@@ -1,0 +1,42 @@
+{
+  "Abreviatura":"Brb",
+  "Alineamientos":[
+    "Neutral Bueno",
+    "Caótico Bueno",
+    "Neutral Auténtico",
+    "Caótico Neutral",
+    "Neutral Maligno",
+    "Caótico Maligno"
+  ],
+  "AtaqueBase":"1",
+  "Competencias":{
+    "Armaduras":[
+      "Ligeras",
+      "Intermedias"
+    ],
+    "Armas":[
+      "Sencillas",
+      "Marciales"
+    ],
+    "Escudos":[
+      "Todos"
+    ]
+  },
+  "HabilidadesClaseas":[
+    "Artesanía",
+    "Escuchar",
+    "Intimidar",
+    "Montar",
+    "Nadar",
+    "Saltar",
+    "Supervivencia",
+    "Trato con animales",
+    "Trepar"
+  ],
+  "IdiomasAdicionales":null,
+  "Salvaciones":{
+    "Fortaleza":"5/2",
+    "Reflejos":"1/3",
+    "Voluntad":"1/3"
+  }
+}

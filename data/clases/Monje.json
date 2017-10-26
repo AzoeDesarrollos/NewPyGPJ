@@ -1,0 +1,54 @@
+{
+  "Abreviatura":"Mnj",
+  "Alineamientos":[
+    "Legal Bueno",
+    "Legal Neutral",
+    "Legal Maligno"
+  ],
+  "AtaqueBase":"3/4",
+  "Competencias":{
+    "Armaduras":[],
+    "Armas":[
+      "Ballesta ligera",
+      "Ballesta pesada",
+      "Bastón",
+      "Clava",
+      "Daga",
+      "Hacha de mano",
+      "Honda",
+      "Jabalina",
+      "Kama",
+      "Nunchaku",
+      "Sai",
+      "Shuriken",
+      "Siangham"
+    ],
+    "Escudos":[]
+  },
+  "HabilidadesClaseas":[
+    "Artesanía",
+    "Averiguar intenciones",
+    "Avistar",
+    "Concentración",
+    "Diplomacia",
+    "Equilibrio",
+    "Escapismo",
+    "Esconderse",
+    "Escuchar",
+    "Interpretar",
+    "Moverse sigilosamente",
+    "Nadar",
+    "Oficio",
+    "Piruetas",
+    "Saber (arcano)",
+    "Saber (religión)",
+    "Saltar",
+    "Trepar"
+  ],
+  "IdiomasAdicionales":null,
+  "Salvaciones":{
+    "Fortaleza":"5/2",
+    "Reflejos":"5/2",
+    "Voluntad":"5/2"
+  }
+}

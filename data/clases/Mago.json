@@ -1,0 +1,41 @@
+{
+  "Abreviatura":"Mag",
+  "Alineamientos":"Cualquiera",
+  "AtaqueBase":"1/2",
+  "Competencias":{
+    "Armaduras":[],
+    "Armas":[
+      "Ballesta ligera",
+      "Ballesta pesada",
+      "Bastón",
+      "Clava",
+      "Daga"
+    ],
+    "Escudos":[]
+  },
+  "HabilidadesClaseas":[
+    "Artesanía",
+    "Concentración",
+    "Conocimiento de conjuros",
+    "Descifrar escritura",
+    "Oficio",
+    "Saber (arcano)",
+    "Saber (arquitectura e ingeniería)",
+    "Saber (dungeons)",
+    "Saber (geografía)",
+    "Saber (historia)",
+    "Saber (local)",
+    "Saber (los planos)",
+    "Saber (naturaleza)",
+    "Saber (nobleza y realeza)",
+    "Saber (religión)"
+  ],
+  "IdiomasAdicionales":[
+    "Dracónico"
+  ],
+  "Salvaciones":{
+    "Fortaleza":"1/3",
+    "Reflejos":"1/3",
+    "Voluntad":"5/2"
+  }
+}

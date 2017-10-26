@@ -1,0 +1,26 @@
+{
+  "Abreviatura":"Hcr",
+  "Alineamientos":"Cualquiera",
+  "AtaqueBase":"1/2",
+  "Competencias":{
+    "Armaduras":[],
+    "Armas":[
+      "Sencillas"
+    ],
+    "Escudos":[]
+  },
+  "HabilidadesClaseas":[
+    "Artesanía",
+    "Concentración",
+    "Conocimiento de conjuros",
+    "Engañar",
+    "Oficio",
+    "Saber (arcano)"
+  ],
+  "IdiomasAdicionales":null,
+  "Salvaciones":{
+    "Fortaleza":"1/3",
+    "Reflejos":"1/3",
+    "Voluntad":"5/2"
+  }
+}

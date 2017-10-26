@@ -1,0 +1,40 @@
+{
+  "Abreviatura":"Clr",
+  "Alineamientos":"Cualquiera",
+  "AtaqueBase":"3/4",
+  "Competencias":{
+    "Armaduras":[
+      "Ligeras",
+      "Intermedias",
+      "Pesadas"
+    ],
+    "Armas":[
+      "Sencillas"
+    ],
+    "Escudos":[
+      "Todos"
+    ]
+  },
+  "HabilidadesClaseas":[
+    "Artesanía",
+    "Concentración",
+    "Conocimiento de conjuros",
+    "Diplomacia",
+    "Oficio",
+    "Saber (arcano)",
+    "Saber (historia)",
+    "Saber (los planos)",
+    "Saber (religión)",
+    "Sanar"
+  ],
+  "IdiomasAdicionales":[
+    "Abisal",
+    "Celestial",
+    "Infernal"
+  ],
+  "Salvaciones":{
+    "Fortaleza":"5/2",
+    "Reflejos":"1/3",
+    "Voluntad":"5/2"
+  }
+}

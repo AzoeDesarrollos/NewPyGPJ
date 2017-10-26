@@ -1,0 +1,1 @@
+# Sucesor Espiritual del Proyecto [PyGPJ] (https://github.com/zenieldanaku/pygpj).

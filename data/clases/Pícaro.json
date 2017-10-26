@@ -1,0 +1,55 @@
+{
+  "Abreviatura":"Pcr",
+  "Alineamientos":"Cualquiera",
+  "AtaqueBase":"3/4",
+  "Competencias":{
+    "Armaduras":[
+      "Ligeras"
+    ],
+    "Armas":[
+      "Sencillas",
+      "Arco corto",
+      "Ballesta de mano",
+      "Espada corta",
+      "Estoque"
+    ],
+    "Escudos":[]
+  },
+  "HabilidadesClaseas":[
+    "Abrir cerraduras",
+    "Artesanía",
+    "Averiguar intenciones",
+    "Avistar",
+    "Buscar",
+    "Descifrar escritura",
+    "Diplomacia",
+    "Disfrazarse",
+    "Engañar",
+    "Equilibrio",
+    "Escapismo",
+    "Esconderse",
+    "Escuchar",
+    "Falsificar",
+    "Interpretar",
+    "Intimidar",
+    "Inutilizar mecanismo",
+    "Juego de manos",
+    "Moverse sigilosamente",
+    "Nadar",
+    "Oficio",
+    "Piruetas",
+    "Reunir información",
+    "Saber (local)",
+    "Saltar",
+    "Tasación",
+    "Trepar",
+    "Usar objeto mágico",
+    "Uso de cuerdas"
+  ],
+  "IdiomasAdicionales":null,
+  "Salvaciones":{
+    "Fortaleza":"1/3",
+    "Reflejos":"5/2",
+    "Voluntad":"1/3"
+  }
+}

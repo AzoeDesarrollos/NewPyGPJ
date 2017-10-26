@@ -1,0 +1,325 @@
+{
+  "Abrir cerraduras":{
+    "Modificador":"Destreza",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":null
+  },
+  "Artesanía":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":[
+      "Tasación"
+    ]
+  },
+  "Averiguar intenciones":{
+    "Modificador":"Sabiduría",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":[
+      "Diplomacia"
+    ]
+  },
+  "Avistar":{
+    "Modificador":"Sabiduría",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Buscar":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":[
+      "Supervivencia"
+    ]
+  },
+  "Concentración":{
+    "Modificador":"Constitución",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Conocimiento de conjuros":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":[
+      "Usar objeto mágico"
+    ]
+  },
+  "Descifrar escritura":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":[
+      "Usar objeto mágico"
+    ]
+  },
+  "Diplomacia":{
+    "Modificador":"Carisma",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Disfrazarse":{
+    "Modificador":"Carisma",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Engañar":{
+    "Modificador":"Carisma",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":[
+      "Diplomacia",
+      "Disfrazarse",
+      "Intimidar",
+      "Juego de manos"
+    ]
+  },
+  "Equilibrio":{
+    "Modificador":"Destreza",
+    "Penalizador":1,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Escapismo":{
+    "Modificador":"Destreza",
+    "Penalizador":1,
+    "SEntrenada":false,
+    "Sinergias":[
+      "Uso de cuerdas"
+    ]
+  },
+  "Esconderse":{
+    "Modificador":"Destreza",
+    "Penalizador":1,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Escuchar":{
+    "Modificador":"Sabiduría",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Falsificar":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Hablar un idioma":{
+    "Modificador":null,
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":null
+  },
+  "Interpretar":{
+    "Modificador":"Carisma",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Intimidar":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Inutilizar mecanismo":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":null
+  },
+  "Juego de manos":{
+    "Modificador":"Destreza",
+    "Penalizador":1,
+    "SEntrenada":true,
+    "Sinergias":null
+  },
+  "Montar":{
+    "Modificador":"Destreza",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Moverse sigilosamente":{
+    "Modificador":"Destreza",
+    "Penalizador":1,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Nadar":{
+    "Modificador":"Fuerza",
+    "Penalizador":2,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Oficio":{
+    "Modificador":"Sabiduría",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":null
+  },
+  "Piruetas":{
+    "Modificador":"Destreza",
+    "Penalizador":1,
+    "SEntrenada":true,
+    "Sinergias":[
+      "Equilibrio",
+      "Saltar"
+    ]
+  },
+  "Reunir información":{
+    "Modificador":"Carisma",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Saber (arcano)":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":[
+      "Conocimiento de conjuros"
+    ]
+  },
+  "Saber (arquitectura e ingeniería)":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":[
+      "Buscar"
+    ]
+  },
+  "Saber (dungeons)":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":[
+      "Supervivencia"
+    ]
+  },
+  "Saber (geografía)":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":[
+      "Supervivencia"
+    ]
+  },
+  "Saber (historia)":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":[
+      "Conocimiento de bardo"
+    ]
+  },
+  "Saber (local)":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":[
+      "Reunir información"
+    ]
+  },
+  "Saber (los planos)":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":[
+      "Supervivencia"
+    ]
+  },
+  "Saber (naturaleza)":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":[
+      "Supervivencia"
+    ]
+  },
+  "Saber (nobleza y realeza)":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":[
+      "Diplomacia"
+    ]
+  },
+  "Saber (religión)":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":[
+      "Expulsar muertos vivientes",
+      "Reprender muertos vivientes"
+    ]
+  },
+  "Saltar":{
+    "Modificador":"Destreza",
+    "Penalizador":1,
+    "SEntrenada":false,
+    "Sinergias":[
+      "Piruetas"
+    ]
+  },
+  "Sanar":{
+    "Modificador":"Sabiduría",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Supervivencia":{
+    "Modificador":"Sabiduría",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":[
+      "Saber (naturaleza)"
+    ]
+  },
+  "Tasación":{
+    "Modificador":"Inteligencia",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Trato con animales":{
+    "Modificador":"Carisma",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":[
+      "Montar",
+      "Empatía salvaje"
+    ]
+  },
+  "Trepar":{
+    "Modificador":"Fuerza",
+    "Penalizador":1,
+    "SEntrenada":false,
+    "Sinergias":null
+  },
+  "Usar objeto mágico":{
+    "Modificador":"Carisma",
+    "Penalizador":0,
+    "SEntrenada":true,
+    "Sinergias":[
+      "Conocimiento de conjuros"
+    ]
+  },
+  "Uso de cuerdas":{
+    "Modificador":"Destreza",
+    "Penalizador":0,
+    "SEntrenada":false,
+    "Sinergias":[
+      "Trepar",
+      "Escapismo"
+    ]
+  }
+}

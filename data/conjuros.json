@@ -1,0 +1,5248 @@
+{
+  "Ablandar tierra y piedra":{
+    "Descripcion":"Convierte piedra en arcilla, y tierra en arena o barro",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 2",
+      "Tierra 2"
+    ]
+  },
+  "Abrir/cerrar":{
+    "Descripcion":"Abre o cierra cosas pequeñas o ligeras",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0",
+      "Brd 0"
+    ]
+  },
+  "Acelerar":{
+    "Descripcion":"Una criatura / nivel se mueve más rápido y recibe un +1 a las tiradas de ataque, CA y salvaciones de Reflejos",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Brd 3"
+    ]
+  },
+  "Adivinación":{
+    "Descripcion":"Proporciona consejo útil para las acciones concretas propuestas",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Saber 4",
+      "Clr 4 "
+    ]
+  },
+  "Afiladura":{
+    "Descripcion":"Duplica el rango de amenaza normal del arma",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3"
+    ]
+  },
+  "Agrandar persona":{
+    "Descripcion":"Una criatura humanoide dobla su tamaño",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Fuerza 1"
+    ]
+  },
+  "Agrandar persona en grupo":{
+    "Descripcion":"Agranda a varias criaturas",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4"
+    ]
+  },
+  "Alarido":{
+    "Descripcion":"Ensordece a todo el que se halle en el cono, e inflige 5d6 de daño",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Brd 4"
+    ]
+  },
+  "Alarido mayor":{
+    "Descripcion":"Grito devastador que inflige 10d6 puntos de daño sónico; aturde criaturas y causa daño a los objetos",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Brd 6"
+    ]
+  },
+  "Alarma":{
+    "Descripcion":"Guarda un lugar durante 2 horas / Nivel",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Exp 1",
+      "Brd 1"
+    ]
+  },
+  "Aliado de los planos":{
+    "Descripcion":"Como aliado menor de los planos, pero hasta 12 DG",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Clr 6"
+    ]
+  },
+  "Aliado mayor de los planos":{
+    "Descripcion":"Como aliado menor de los planos, pero hasta 18 DG",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Clr 8"
+    ]
+  },
+  "Aliado menor de los planos":{
+    "Descripcion":"Intercambio de favores con un ajeno de 6 DG",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Clr 4 "
+    ]
+  },
+  "Alineamiento indetectable":{
+    "Descripcion":"Oculta el alineamiento durante 24 horas",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Pld 2",
+      "Clr 2",
+      "Brd 1"
+    ]
+  },
+  "Alinear arma":{
+    "Descripcion":"Un arma pasa a ser buena, caótica, legal o maligna",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Clr 2"
+    ]
+  },
+  "Alterar el propio aspecto":{
+    "Descripcion":"Asume la forma de una criatura similar",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Brd 2"
+    ]
+  },
+  "Analizar esencia mágica":{
+    "Descripcion":"Revela los aspectos mágicos del receptor",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Brd 6"
+    ]
+  },
+  "Ancla dimensional":{
+    "Descripcion":"Impide el movimiento extradimensional",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Clr 4 "
+    ]
+  },
+  "Animal mensajero":{
+    "Descripcion":"Envia un animal Menudo hasta un lugar concreto",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Exp 1",
+      "Drd 2",
+      "Brd 2"
+    ]
+  },
+  "Animar las plantas":{
+    "Descripcion":"Una o más plantas se animan y luchan por ti",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 7",
+      "Vegetal 7"
+    ]
+  },
+  "Animar los objetos":{
+    "Descripcion":"Los objetos atacan a tus enemigos",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Caos 6",
+      "Clr 6",
+      "Brd 6"
+    ]
+  },
+  "Animar una cuerda":{
+    "Descripcion":"Hace que una cuerda se mueva según tus órdenes",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Brd 1"
+    ]
+  },
+  "Antipatía":{
+    "Descripcion":"El lugar o los objetos afectados por el conjuro repelen a ciertas criaturas",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Drd 9"
+    ]
+  },
+  "Apacible descanso":{
+    "Descripcion":"Conserva un cadáver",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Clr 2"
+    ]
+  },
+  "Apagar":{
+    "Descripcion":"Extingue fuegos no mágicos o apaga un objeto mágico",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 3"
+    ]
+  },
+  "Apertura":{
+    "Descripcion":"Abre una puerta cerrada con llave o magia",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2"
+    ]
+  },
+  "Arma disruptora":{
+    "Descripcion":"Arma de cuerpo a cuerpo destruye muertos vivientes",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Clr 5"
+    ]
+  },
+  "Arma espiritual":{
+    "Descripcion":"Arma mágica que ataca por sí misma",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Guerra 2",
+      "Clr 2"
+    ]
+  },
+  "Arma mágica":{
+    "Descripcion":"Un arma gana un bonificador +1",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Pld 1",
+      "Hcr 1",
+      "Mag 1",
+      "Guerra 1",
+      "Clr 1"
+    ]
+  },
+  "Arma mágica mayor":{
+    "Descripcion":"Bonificador +1 / 4 niveles (máximo +5)",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Pld 3",
+      "Hcr 3",
+      "Mag 3",
+      "Clr 4 "
+    ]
+  },
+  "Armadura de mago":{
+    "Descripcion":"Concede al receptor un +4 de armadura",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1"
+    ]
+  },
+  "Asesino fantasmal":{
+    "Descripcion":"Una terrible ilusión mata al receptor o le inflige 3d6 de daño",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4"
+    ]
+  },
+  "Asolar":{
+    "Descripcion":"Marchita una planta o causa 1d6 / nivel puntos de daño a uina criatura tipo planta",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Drd 4"
+    ]
+  },
+  "Astucia de zorro":{
+    "Descripcion":"El objetivo obtiene +4 a Int durante 1 min / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Brd 2"
+    ]
+  },
+  "Astucia de zorro en grupo":{
+    "Descripcion":"Como astucia de zorro, afecta a un objetivo / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Brd 6"
+    ]
+  },
+  "Atontar":{
+    "Descripcion":"Una criatura humanoide de 4 DG o menos pierde su siguiente acción",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0",
+      "Brd 0"
+    ]
+  },
+  "Atontar monstruo":{
+    "Descripcion":"Una criatura viva de 6 DG o menos pierde su siguiente acción",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Brd 2"
+    ]
+  },
+  "Atrapar el alma":{
+    "Descripcion":"Encierra al receptor dentro de una gema",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8"
+    ]
+  },
+  "Augurio":{
+    "Descripcion":"Averigua si una acción resultará buena o mala",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Clr 2"
+    ]
+  },
+  "Aura mágica":{
+    "Descripcion":"Altera el aura mágica de un objeto",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Magia 1",
+      "Brd 1"
+    ]
+  },
+  "Aura sacrílega":{
+    "Descripcion":"+4 a la CA, +4 de resistencia a la salvación y RC 25 contra sortilegios malignos",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Mal 8",
+      "Clr 8"
+    ]
+  },
+  "Aura sagrada":{
+    "Descripcion":"+4 a la CA, +4 de resistencia a la salvación y RC 25 contra sortilegios buenos",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Bien 8",
+      "Clr 8"
+    ]
+  },
+  "Auxilio divino":{
+    "Descripcion":"+1 a las tiradas de ataque y las salvaciones contra miedo; 1d8 pg temporales +1 / nivel (máximo +10)",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Suerte 2",
+      "Bien 2",
+      "Clr 2"
+    ]
+  },
+  "Azote sacrílego":{
+    "Descripcion":"Daña e indispone a las criaturas buenas",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Mal 4"
+    ]
+  },
+  "Baile irresistible":{
+    "Descripcion":"Obliga a bailar al receptor",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Brd 6"
+    ]
+  },
+  "Barrera de cuchillas":{
+    "Descripcion":"Las cuchillas que te rodean infligen 1d6 de daño / Nivel",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Guerra 6",
+      "Bien 6",
+      "Clr 6"
+    ]
+  },
+  "Bastón cambiante":{
+    "Descripcion":"Tu bastón se convierte en un ent a una orden tuya",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 7"
+    ]
+  },
+  "Bastón de conjuro":{
+    "Descripcion":"Almacena un conjuro en un bastón de madera",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 6"
+    ]
+  },
+  "Bendecir":{
+    "Descripcion":"Los aliados ganan un +1 a las tiradas de ataque y a las salvaciones contra miedo",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Pld 1",
+      "Clr 1"
+    ]
+  },
+  "Bendecir agua":{
+    "Descripcion":"Crea agua bendita",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Pld 1",
+      "Clr 1"
+    ]
+  },
+  "Bendecir arma":{
+    "Descripcion":"El arma asesta golpes terribles a los enemigos malignos",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Pld 1"
+    ]
+  },
+  "Blasfemia":{
+    "Descripcion":"Mata, paraliza, debillita o atonta a receptores no malignos",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Mal 7",
+      "Clr 7"
+    ]
+  },
+  "Boca mágica":{
+    "Descripcion":"Habla una sola vez al desencadenarse el efecto",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Brd 1"
+    ]
+  },
+  "Bola de fuego":{
+    "Descripcion":"1d6 daño / nivel, radio de 20'",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3"
+    ]
+  },
+  "Bola de fuego de explosión retardada":{
+    "Descripcion":"1d6 daño por fuego / nivel; puedes retrasar la explosión durante 5 asaltos",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Borrar":{
+    "Descripcion":"Hace desaparecer escritura mágica o mundana",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Brd 1"
+    ]
+  },
+  "Brotar de espinas":{
+    "Descripcion":"Las criaturas del área sufren 1d4 de daño y pueden ser ralentizadas",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Exp 2",
+      "Drd 3"
+    ]
+  },
+  "Bruma mental":{
+    "Descripcion":"El receptor sufre -10 en las pruebas de Sab y de Voluntad",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Brd 5"
+    ]
+  },
+  "Bruma sólida":{
+    "Descripcion":"Obstruye la visión y frena el movimiento",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4"
+    ]
+  },
+  "Bruma ácida":{
+    "Descripcion":"Bruma que inflige daño por ácido",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Agua 7"
+    ]
+  },
+  "Buenas bayas":{
+    "Descripcion":"2d4 bayas; cada una cura 1 pg (máximo 8 pg / 24 horas)",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 1"
+    ]
+  },
+  "Calentar metal":{
+    "Descripcion":"Calienta tanto el metal que su contacto inflige daño",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 2",
+      "Sol 2"
+    ]
+  },
+  "Calmar animales":{
+    "Descripcion":"Calma a 2d4 (+1 / nivel) DG de animales",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Exp 1",
+      "Drd 1",
+      "Animal 1"
+    ]
+  },
+  "Calmar emociones":{
+    "Descripcion":"Calma a criaturas, negando los efectos emocionales",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Ley 2",
+      "Clr 2",
+      "Brd 2"
+    ]
+  },
+  "Cambiar de forma":{
+    "Descripcion":"Te transforma en cualquier criatura; cambios, una vez por asalto",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9",
+      "Drd 9",
+      "Animal 9"
+    ]
+  },
+  "Caminar con el viento":{
+    "Descripcion":"Tus aliados y tú se vuelven vaporosos y viajan con rapidez",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 7",
+      "Clr 6"
+    ]
+  },
+  "Caminar por el aire":{
+    "Descripcion":"El receptor camina por el aire como si fuera sólido (ángulo máximo de escalada: 45º)",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 4",
+      "Aire 4",
+      "Clr 4 "
+    ]
+  },
+  "Caminar por la sombra":{
+    "Descripcion":"Viaja rápidamente entrando en las sombras",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Brd 5"
+    ]
+  },
+  "Caminar sobre las aguas":{
+    "Descripcion":"El receptor camina sobre el agua como si fuera sólida",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Exp 3",
+      "Clr 3"
+    ]
+  },
+  "Campanas fúnebres":{
+    "Descripcion":"Mata a una criatura moribunda; ganas 1d8 pg temporales, +2 a Fue y +1 Nivel",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Muerte 2",
+      "Clr 2"
+    ]
+  },
+  "Campo antimagia":{
+    "Descripcion":"Niega la magia en un radio de 10'",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Protección 6",
+      "Magia 6",
+      "Clr 8"
+    ]
+  },
+  "Cancion de discordia":{
+    "Descripcion":"Obliga a los objetivos a atacarse unos a otros",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Brd 5"
+    ]
+  },
+  "Capa del caos":{
+    "Descripcion":"+4 a la CA, +4 de resistencia a la salvación y RC 25 contra sortilegios legales",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Caos 8",
+      "Clr 8"
+    ]
+  },
+  "Caparazón antivegetal":{
+    "Descripcion":"Mantiene a raya a las plantas animadas",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Drd 4"
+    ]
+  },
+  "Caparazón antivida":{
+    "Descripcion":"Campo de 10' que mantiene a raya a las criaturas vivas",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Drd 6",
+      "Animal 6",
+      "Clr 6"
+    ]
+  },
+  "Carradura arcana":{
+    "Descripcion":"Cierra mágicamente una entrada o cofre",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2"
+    ]
+  },
+  "Castigo divino":{
+    "Descripcion":"Daña y ciega a las criaturas malignas",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Bien 4"
+    ]
+  },
+  "Causar miedo":{
+    "Descripcion":"Una criatura de 5 DG o menos huye durante 1d4 asaltos",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Muerte 1",
+      "Clr 1",
+      "Brd 1"
+    ]
+  },
+  "Cautivar":{
+    "Descripcion":"Cautiva a todos en un radio de 100' +10' / Nivel",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Clr 2",
+      "Brd 2"
+    ]
+  },
+  "Cautiverio":{
+    "Descripcion":"Entierra al receptor",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9"
+    ]
+  },
+  "Caída de pluma":{
+    "Descripcion":"Objetos o criaturas caen lentamente",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Brd 1"
+    ]
+  },
+  "Ceguera/sordera":{
+    "Descripcion":"Deja ciego o sordo al receptor",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Clr 3",
+      "Brd 2"
+    ]
+  },
+  "Cerradura dimensional":{
+    "Descripcion":"La teleportación y el viaje interplanario quedan bloqueados durante un día / Nivel",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Clr 8"
+    ]
+  },
+  "Clariaudiencia/clarividencia":{
+    "Descripcion":"Ver u oír a distancia durante 1 min / Nivel",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Saber 3",
+      "Brd 3"
+    ]
+  },
+  "Clonar":{
+    "Descripcion":"Crea un doble que gana consciencia al morir el original",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8"
+    ]
+  },
+  "Cobijo seguro":{
+    "Descripcion":"Crea una sólida casa",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Brd 4"
+    ]
+  },
+  "Cofre secreto":{
+    "Descripcion":"Esconde en el plano Etéreo un cofre valioso que puedes recuperar cuando quieras",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Colmillo mágico":{
+    "Descripcion":"Un arma natural de la criatura receptora obtiene un +1 al ataque y al daño",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Exp 1",
+      "Drd 1"
+    ]
+  },
+  "Colmillo mágico mayor":{
+    "Descripcion":"Un arma natural de la criatura receptora un +1 al ataque y daño por cada tres niveles de lanzador (máximo +5)",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Exp 3",
+      "Drd 3"
+    ]
+  },
+  "Comandar muertos vivientes":{
+    "Descripcion":"Una criatura muerta viviente obedece tus órdenes",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2"
+    ]
+  },
+  "Comandar plantas":{
+    "Descripcion":"Influye en las acciones de una o más criaturas tipo planta",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Exp 3",
+      "Drd 4",
+      "Vegetal 4"
+    ]
+  },
+  "Comprensión idiomática":{
+    "Descripcion":"Comprendes todos los idiomas hablados y escritos",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Clr 1",
+      "Brd 1"
+    ]
+  },
+  "Comunión":{
+    "Descripcion":"La deidad responde con un 'sí' o un 'no' a una pregunta / Nivel",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Clr 5"
+    ]
+  },
+  "Comunión con la naturaleza":{
+    "Descripcion":"Averigua datos sobre una milla de terreno / Nivel",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Exp 4",
+      "Drd 5",
+      "Animal 5"
+    ]
+  },
+  "Confusión":{
+    "Descripcion":"El receptor se comporta de forma extraña durante 1 asalto / Nivel",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Superchería 4",
+      "Brd 3"
+    ]
+  },
+  "Confusión menor":{
+    "Descripcion":"Una criatura queda confusa durante 1 asalto",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Brd 1"
+    ]
+  },
+  "Conjuración sombría":{
+    "Descripcion":"Imita conjuraciones de nivel 3º o inferior, pero solo son reales en un 20%",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Brd 4"
+    ]
+  },
+  "Conjuración sombría mayor":{
+    "Descripcion":"Como conjuración sombría, pero hasta 6º nivel y 60% real",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Cono de frío":{
+    "Descripcion":"1d6 daño por frío / Nivel",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Agua 6"
+    ]
+  },
+  "Conocer la dirección":{
+    "Descripcion":"Te indica dónde está el norte",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Drd 0",
+      "Brd 0"
+    ]
+  },
+  "Conocimiento de leyendas":{
+    "Descripcion":"Averigua relatos sobre una persona, cosa o lugar",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Saber 7",
+      "Brd 4"
+    ]
+  },
+  "Consagrar":{
+    "Descripcion":"Llena un lugar de energía positiva, debilitando a los muertos vivientes",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Clr 2"
+    ]
+  },
+  "Consumir energía":{
+    "Descripcion":"El receptor gana 2d4 niveles negativos",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9",
+      "Clr 9"
+    ]
+  },
+  "Contactar con otro plano":{
+    "Descripcion":"Te permite hacer preguntas a una entidad de otro plano",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Contacto electrizante":{
+    "Descripcion":"Toque que causa 1d6 / nivel de daño por electricidad (máximo 5d6)",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1"
+    ]
+  },
+  "Contacto herrumbroso":{
+    "Descripcion":"Tu toque corroe el hierro y las aleaciones",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 4"
+    ]
+  },
+  "Contagio":{
+    "Descripcion":"Infecta al receptor con la enfermedad que elijas",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Drd 3",
+      "Destrucción 3",
+      "Clr 3"
+    ]
+  },
+  "Contingencia":{
+    "Descripcion":"Establece una condición que desencadena otro conjuro",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6"
+    ]
+  },
+  "Contorno borroso":{
+    "Descripcion":"El 20% de los ataques resultan fallidos",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Brd 2"
+    ]
+  },
+  "Controlar el clima":{
+    "Descripcion":"Cambia el clima a nivel local",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Drd 7",
+      "Aire 7",
+      "Clr 7"
+    ]
+  },
+  "Controlar las aguas":{
+    "Descripcion":"Hace subir o bajar masas de agua",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Drd 4",
+      "Agua 4",
+      "Clr 4 "
+    ]
+  },
+  "Controlar los vientos":{
+    "Descripcion":"Cambia la dirección y velocidad del viento",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 5",
+      "Aire 5"
+    ]
+  },
+  "Controlar muertos vivientes":{
+    "Descripcion":"Estas criaturas no te atacarán mientras estén a tus órdenes",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Controlar plantas":{
+    "Descripcion":"Controla las acciones de una o más criaturas tipo planta",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 8",
+      "Vegetal 8"
+    ]
+  },
+  "Convocaciones instantáneas":{
+    "Descripcion":"Un objeto preparado aparece en tu mano",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Convocar aliado natural I":{
+    "Descripcion":"Trae a una criatura para que luche",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Exp 1",
+      "Drd 1"
+    ]
+  },
+  "Convocar aliado natural II":{
+    "Descripcion":"Trae a una criatura para que luche",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Exp 2",
+      "Drd 2"
+    ]
+  },
+  "Convocar aliado natural III":{
+    "Descripcion":"Trae a una criatura para que luche",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Exp 3",
+      "Drd 3"
+    ]
+  },
+  "Convocar aliado natural IV":{
+    "Descripcion":"Trae a una criatura para que luche",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Exp 4",
+      "Drd 4",
+      "Animal 4"
+    ]
+  },
+  "Convocar aliado natural IX":{
+    "Descripcion":"Trae a una criatura para que luche",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 9"
+    ]
+  },
+  "Convocar aliado natural V":{
+    "Descripcion":"Trae a una criatura para que luche",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 5"
+    ]
+  },
+  "Convocar aliado natural VI":{
+    "Descripcion":"Trae a una criatura para que luche",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 6"
+    ]
+  },
+  "Convocar aliado natural VII":{
+    "Descripcion":"Trae a una criatura para que luche",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 7"
+    ]
+  },
+  "Convocar aliado natural VIII":{
+    "Descripcion":"Trae a una criatura para que luche",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 8",
+      "Animal 8"
+    ]
+  },
+  "Convocar enjambre":{
+    "Descripcion":"Convoca un enjambre de arañas, murciélagos o ratas",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Drd 2"
+    ]
+  },
+  "Convocar instrumento":{
+    "Descripcion":"Convoca un instrumento del tipo preferido por el lanzador",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Brd 0"
+    ]
+  },
+  "Convocar monstruo I":{
+    "Descripcion":"Trae a un ajeno para que luche por ti",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Clr 1",
+      "Brd 1"
+    ]
+  },
+  "Convocar monstruo II":{
+    "Descripcion":"Trae a un ajeno para que luche por ti",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Clr 2",
+      "Brd 2"
+    ]
+  },
+  "Convocar monstruo III":{
+    "Descripcion":"Trae a un ajeno para que luche por ti",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Clr 3",
+      "Brd 3"
+    ]
+  },
+  "Convocar monstruo IV":{
+    "Descripcion":"Trae a un ajeno para que luche por ti",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Clr 4 ",
+      "Brd 4"
+    ]
+  },
+  "Convocar monstruo IX":{
+    "Descripcion":"Trae a un ajeno para que luche por ti",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9",
+      "Mal 9",
+      "Ley 9",
+      "Caos 9",
+      "Bien 9",
+      "Clr 9"
+    ]
+  },
+  "Convocar monstruo V":{
+    "Descripcion":"Trae a un ajeno para que luche por ti",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Clr 5",
+      "Brd 5"
+    ]
+  },
+  "Convocar monstruo VI":{
+    "Descripcion":"Trae a un ajeno para que luche por ti",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Clr 6",
+      "Brd 6"
+    ]
+  },
+  "Convocar monstruo VII":{
+    "Descripcion":"Trae un ajeno para que luche por ti",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Clr 7"
+    ]
+  },
+  "Convocar monstruo VIII":{
+    "Descripcion":"Trae a un ajeno para que luche por ti",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Clr 8"
+    ]
+  },
+  "Convocar plaga":{
+    "Descripcion":"Convoca una plaga de murciélagos, ratas o arañas",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Brd 2"
+    ]
+  },
+  "Corcel fantasmal":{
+    "Descripcion":"Caballo mágico que aparece durante 1 hora / Nivel",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Brd 3"
+    ]
+  },
+  "Creación mayor":{
+    "Descripcion":"Como creación menor, pero también con piedra y metal",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Creación menor":{
+    "Descripcion":"Crea un objeto de tela o madera",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4"
+    ]
+  },
+  "Crear agua":{
+    "Descripcion":"Crea 2 galones / nivel de agua pura",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Pld 1",
+      "Drd 0",
+      "Clr 0"
+    ]
+  },
+  "Crear comida y bebida":{
+    "Descripcion":"Alimenta a tres humanos (o un caballo) / Nivel",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Clr 3"
+    ]
+  },
+  "Crear muertos vivientes":{
+    "Descripcion":"Crea necrófagos, necrarios, momias o mohrgs",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Muerte 6",
+      "Mal 6",
+      "Clr 6"
+    ]
+  },
+  "Crear muertos vivientes mayores":{
+    "Descripcion":"Crea sombras, incorpóreos, espectros o devoradores",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Muerte 8",
+      "Clr 8"
+    ]
+  },
+  "Crecimiento animal":{
+    "Descripcion":"Un animal / 2 niveles duplica su tamaño",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Exp 4",
+      "Drd 5"
+    ]
+  },
+  "Crecimiento vegetal":{
+    "Descripcion":"Hace crecer la vegetación, mejora los cultivos",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Exp 3",
+      "Drd 3",
+      "Vegetal 3"
+    ]
+  },
+  "Cubículo":{
+    "Descripcion":"Crea un cobijo para 10 criaturas",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Brd 3"
+    ]
+  },
+  "Cuchichear mensaje":{
+    "Descripcion":"Conversación cuchicheada a distancia",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0",
+      "Brd 0"
+    ]
+  },
+  "Cuerpo férreo":{
+    "Descripcion":"Tu cuerpo se transforma en hierro vivo",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Tierra 8"
+    ]
+  },
+  "Curar heridas críticas":{
+    "Descripcion":"Cura 4d8 puntos de golpe (+1 / nivel; máximo +20)",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 5",
+      "Curación 4",
+      "Clr 4 ",
+      "Brd 4"
+    ]
+  },
+  "Curar heridas críticas en grupo":{
+    "Descripcion":"Cura 4d8 pg +1 / nivel a muchas criaturas",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 9",
+      "Curación 8",
+      "Clr 8"
+    ]
+  },
+  "Curar heridas graves":{
+    "Descripcion":"Cura 3d8 puntos de golpe (+1 / nivel; máximo +15)",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Pld 4",
+      "Exp 4",
+      "Drd 4",
+      "Curación 3",
+      "Clr 3",
+      "Brd 3"
+    ]
+  },
+  "Curar heridas graves en grupo":{
+    "Descripcion":"Cura 3d8 pg +1 / nivel a muchas criaturas",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 8",
+      "Clr 7"
+    ]
+  },
+  "Curar heridas leves":{
+    "Descripcion":"Cura 1d8 puntos de golpe (+1/nivel; máximo +5)",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Pld 1",
+      "Exp 2",
+      "Drd 1",
+      "Curación 1",
+      "Clr 1",
+      "Brd 1"
+    ]
+  },
+  "Curar heridas leves en grupo":{
+    "Descripcion":"Cura 1d8 pg +1 / nivel a muchas criaturas",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 6",
+      "Curación 5",
+      "Clr 5",
+      "Brd 5"
+    ]
+  },
+  "Curar heridas menores":{
+    "Descripcion":"Cura 1 pg",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 0",
+      "Clr 0"
+    ]
+  },
+  "Curar heridas moderadas":{
+    "Descripcion":"Cura 2d8 puntos de golpe (+1 / nivel; máximo +10)",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Pld 3",
+      "Exp 3",
+      "Drd 3",
+      "Curación 2",
+      "Clr 2",
+      "Brd 2"
+    ]
+  },
+  "Curar heridas moderadas en grupo":{
+    "Descripcion":"Cura 2d8 pg +1 / nivel a muchas criaturas",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 7",
+      "Clr 6",
+      "Brd 6"
+    ]
+  },
+  "Custodia contra la muerte":{
+    "Descripcion":"Inmuniza contra conjuros de muerte y efectos de energía negativa",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Pld 4",
+      "Drd 5",
+      "Muerte 4",
+      "Clr 4 "
+    ]
+  },
+  "Círculo de muerte":{
+    "Descripcion":"Mata 1d4 DG / nivel de criaturas",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6"
+    ]
+  },
+  "Círculo de teletransporte":{
+    "Descripcion":"Círculo que teleporta a cualquier criatura hasta el punto designado",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9"
+    ]
+  },
+  "Círculo mágico contra el bien":{
+    "Descripcion":"Como protección contra el bien, pero con radio de 10' y 10 min / Nivel",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Mal 3",
+      "Clr 3"
+    ]
+  },
+  "Círculo mágico contra el caos":{
+    "Descripcion":"Como protección contra el caos, pero con radio de 10' y 10 min / Nivel",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Pld 3",
+      "Hcr 3",
+      "Mag 3",
+      "Ley 3",
+      "Clr 3"
+    ]
+  },
+  "Círculo mágico contra el mal":{
+    "Descripcion":"Como protección contra el mal, pero con radio de 10' y 10 min / Nivel",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Pld 3",
+      "Hcr 3",
+      "Mag 3",
+      "Bien 3",
+      "Clr 3"
+    ]
+  },
+  "Círculo mágico contra la ley":{
+    "Descripcion":"Como protección contra la ley, pero con radio de 10' y 10 min / Nivel",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Caos 3",
+      "Clr 3"
+    ]
+  },
+  "Dañar":{
+    "Descripcion":"Inflige 10 puntos / nivel de daño al objetivo",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Destrucción 6",
+      "Clr 6"
+    ]
+  },
+  "De la carne a la piedra":{
+    "Descripcion":"Convierte en piedra a la criatura receptora",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6"
+    ]
+  },
+  "De la piedra a la carne":{
+    "Descripcion":"Devuelve a su estado a una criatura petrificada",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6"
+    ]
+  },
+  "Debilidad mental":{
+    "Descripcion":"La Int y el Car del receptor quedan reducidos a 1",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Dedo de la muerte":{
+    "Descripcion":"Mata a un receptor",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Drd 8"
+    ]
+  },
+  "Deformar madera":{
+    "Descripcion":"Comba la madera (asta, mango, puerta, tablón)",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 2"
+    ]
+  },
+  "Desacralizar":{
+    "Descripcion":"El lugar elegido pasa a ser sacrílego",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Drd 5",
+      "Clr 5"
+    ]
+  },
+  "Desbrozar":{
+    "Descripcion":"Convoca a 1d4+2 brozas movedizas para que luchen por ti",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 9",
+      "Vegetal 9"
+    ]
+  },
+  "Descarga flamígera":{
+    "Descripcion":"Castiga a los enemigos con el fuego divino (1d6 daño / nivel)",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Drd 4",
+      "Sol 5",
+      "Guerra 5",
+      "Clr 5"
+    ]
+  },
+  "Deseo":{
+    "Descripcion":"Como deseo limitado, pero con menos limitaciones",
+    "Escuela":"Uni",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9"
+    ]
+  },
+  "Deseo limitado":{
+    "Descripcion":"Altera la realidad, dentro de los límites del conjuro",
+    "Escuela":"Uni",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Desesperación aplastante":{
+    "Descripcion":"Los objetivos sufren un penalizador -2 en las tiradas de ataque, tiradas de daño, salvaciones y pruebas",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Brd 3"
+    ]
+  },
+  "Desintegrar":{
+    "Descripcion":"Hace que una criatura u objeto desaparezca",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Destrucción 7"
+    ]
+  },
+  "Desorientar":{
+    "Descripcion":"Confunde las adivinaciones con relación a una criatura u objeto",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Brd 2"
+    ]
+  },
+  "Desplazamiento":{
+    "Descripcion":"Los ataques no alcanzan al receptor el 50% de las veces",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Brd 3"
+    ]
+  },
+  "Desplazamiento de plano":{
+    "Descripcion":"Hasta 8 receptores viajan a otro plano",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Clr 5"
+    ]
+  },
+  "Destierro":{
+    "Descripcion":"Destierra a 2 DG / nivel de criaturas de otros planos",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Clr 6"
+    ]
+  },
+  "Destrucción":{
+    "Descripcion":"Mata al receptor y destruye sus restos",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Muerte 7",
+      "Clr 7"
+    ]
+  },
+  "Detectar animales o plantas":{
+    "Descripcion":"Detecta especies de flora o fauna",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Exp 1",
+      "Drd 1"
+    ]
+  },
+  "Detectar el bien":{
+    "Descripcion":"Revela criaturas, conjuros u objetos de alineamiento bueno",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Clr 1"
+    ]
+  },
+  "Detectar el caos":{
+    "Descripcion":"Revela criaturas, conjuros u objetos de alineamiento caótico",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Clr 1"
+    ]
+  },
+  "Detectar el mal":{
+    "Descripcion":"Revela criaturas, conjuros u objetos de alineamiento maligno",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Clr 1"
+    ]
+  },
+  "Detectar escudriñamiento":{
+    "Descripcion":"Te alerta del espionaje mágico",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Brd 4"
+    ]
+  },
+  "Detectar la ley":{
+    "Descripcion":"Revela criaturas, conjuros u objetos de alineamiento legal",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Clr 1"
+    ]
+  },
+  "Detectar magia":{
+    "Descripcion":"Detecta conjuros y objetos mágicos en un radio de 60'",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0",
+      "Drd 0",
+      "Clr 0",
+      "Brd 0"
+    ]
+  },
+  "Detectar muertos vivientes":{
+    "Descripcion":"Revela a estas criaturas en un radio de 60'",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Pld 1",
+      "Hcr 1",
+      "Mag 1",
+      "Clr 1"
+    ]
+  },
+  "Detectar pensamientos":{
+    "Descripcion":"Permite 'oír' los pensamientos sufperficiales",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Saber 2",
+      "Brd 2"
+    ]
+  },
+  "Detectar puertas secretas":{
+    "Descripcion":"Revela puertas ocultas en 60'",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Saber 1",
+      "Brd 1"
+    ]
+  },
+  "Detectar trampas y fosos":{
+    "Descripcion":"Revela las trampas naturales o primitivas",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Exp 1",
+      "Drd 1"
+    ]
+  },
+  "Detectar veneno":{
+    "Descripcion":"Detecta el veneno en una criatura u objeto",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Pld 1",
+      "Hcr 0",
+      "Mag 0",
+      "Exp 1",
+      "Drd 0",
+      "Clr 0"
+    ]
+  },
+  "Detener el tiempo":{
+    "Descripcion":"Puedes actuar con libertad durante 1d4+1 asaltos",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9",
+      "Superchería 9"
+    ]
+  },
+  "Detener muertos vivientes":{
+    "Descripcion":"Inmoviliza muertos vivientes dirante 1 asalto / Nivel",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3"
+    ]
+  },
+  "Discernir mentiras":{
+    "Descripcion":"Revela las mentiras deliberadas",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Pld 3",
+      "Clr 4 "
+    ]
+  },
+  "Discernir ubicación":{
+    "Descripcion":"Indica la ubicación exacta de una criatura u objeto",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Saber 8",
+      "Clr 8"
+    ]
+  },
+  "Disco flotante":{
+    "Descripcion":"Disco horizontal, de 3' de diámetro, que soporta 100 lb / Nivel",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1"
+    ]
+  },
+  "Disfrazarse":{
+    "Descripcion":"Cambia tu apariencia",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Superchería 1",
+      "Brd 1"
+    ]
+  },
+  "Disipar el bien":{
+    "Descripcion":"Bonificador +4 contra los ataques de las criaturas buenas",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Mal 5",
+      "Clr 5"
+    ]
+  },
+  "Disipar el caos":{
+    "Descripcion":"Bonificador +4 contra los ataques de las criaturas caóticas",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Pld 4",
+      "Ley 5",
+      "Clr 5"
+    ]
+  },
+  "Disipar el mal":{
+    "Descripcion":"Bonificador +4 contra los ataques de las criaturas malignas",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Pld 4",
+      "Bien 5",
+      "Clr 5"
+    ]
+  },
+  "Disipar la ley":{
+    "Descripcion":"Bonificador +4 contra los ataques de las criaturas legales",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Caos 5",
+      "Clr 5"
+    ]
+  },
+  "Disipar magia":{
+    "Descripcion":"Cancela conjuros y efectos mágicos",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Pld 3",
+      "Hcr 3",
+      "Mag 3",
+      "Drd 4",
+      "Magia 3",
+      "Clr 3",
+      "Brd 3"
+    ]
+  },
+  "Disipar magia mayor":{
+    "Descripcion":"Como disipar magia, pero con +20 a la prueba",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Drd 6",
+      "Clr 6",
+      "Brd 5"
+    ]
+  },
+  "Disyunción del mago":{
+    "Descripcion":"Disipa la magia y desencanta objetos mágicos",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9",
+      "Magia 9"
+    ]
+  },
+  "Doble engañoso":{
+    "Descripcion":"Te hace invisible y crea un doble ilusorio",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Superchería 6",
+      "Suerte 6",
+      "Brd 5"
+    ]
+  },
+  "Dominar animal":{
+    "Descripcion":"El animal receptor obedecerá órdenes mentales sileciosas",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Drd 3",
+      "Animal 3"
+    ]
+  },
+  "Dominar monstruo":{
+    "Descripcion":"Como dominar persona, pero con cualquier criatura",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9"
+    ]
+  },
+  "Dominar persona":{
+    "Descripcion":"Controla telepáticamente a un humanoide",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Brd 4"
+    ]
+  },
+  "Don de lenguas":{
+    "Descripcion":"Puedes hablar cualquier idioma",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Clr 4 ",
+      "Brd 2"
+    ]
+  },
+  "Dormir":{
+    "Descripcion":"Sume criaturas por un valor de 4 DG en un sueño mágico",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Brd 1"
+    ]
+  },
+  "Dotar de consciencia":{
+    "Descripcion":"Un árbol o animal adquiere inteligencia humana",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 5"
+    ]
+  },
+  "Econger objeto":{
+    "Descripcion":"Objeto queda reducido a la dieciseisava parte de su tamaño",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3"
+    ]
+  },
+  "Elaborar":{
+    "Descripcion":"Transforma materias primas en objetos acabados",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Elucubración del mago":{
+    "Descripcion":"Recupera un conjuro de 5º o inferior",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Mag 6"
+    ]
+  },
+  "Encontrar la senda":{
+    "Descripcion":"Muestra el camino más directo hasta un lugar",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Drd 6",
+      "Viaje 6",
+      "Saber 6",
+      "Clr 6",
+      "Brd 6"
+    ]
+  },
+  "Encontrar trampas":{
+    "Descripcion":"Advierte la presencia de trampas igual que los pícaros",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Clr 2"
+    ]
+  },
+  "Enervación":{
+    "Descripcion":"El receptor adquiere 1d4 niveles negativos",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4"
+    ]
+  },
+  "Enjambre elemental":{
+    "Descripcion":"Convoca varios elementales",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 9",
+      "Tierra 9",
+      "Fuego 9",
+      "Aire 9",
+      "Agua 9"
+    ]
+  },
+  "Enmarañar":{
+    "Descripcion":"Las plantas enmarañan a todos en un radio de 40'",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Exp 1",
+      "Drd 1",
+      "Vegetal 1"
+    ]
+  },
+  "Esconderse de los animales":{
+    "Descripcion":"Los animales no son capaces de percibir a un receptor / Nivel",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Exp 1",
+      "Drd 1"
+    ]
+  },
+  "Esconderse de los muertos vivientes":{
+    "Descripcion":"Estas criaturas no pueden percibir a un receptor / Nivel",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Clr 1"
+    ]
+  },
+  "Escritura ilusoria":{
+    "Descripcion":"Sólo puede descifrarla el lector deseado",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Brd 3"
+    ]
+  },
+  "Escudar a otro":{
+    "Descripcion":"Sufres la mitad del daño infligido al receptor",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Pld 2",
+      "Protección 2",
+      "Clr 2"
+    ]
+  },
+  "Escudo":{
+    "Descripcion":"Disco invisible que da +4 a la CA y bloquea los proyectiles mágicos",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1"
+    ]
+  },
+  "Escudo de entropía":{
+    "Descripcion":"Los ataques a distancia contra ti tienen un 20% de posibilidad de fallo",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Suerte 1",
+      "Clr 1"
+    ]
+  },
+  "Escudo de fuego":{
+    "Descripcion":"Las criaturas que te ataquen sufren daño por fuego; estas protegido contra el calor y el frío",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Sol 4",
+      "Fuego 5"
+    ]
+  },
+  "Escudo de la fe":{
+    "Descripcion":"Aura que concede un bonificador de desvío +2 o superior",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Clr 1"
+    ]
+  },
+  "Escudo de la ley":{
+    "Descripcion":"+4 a la CA, +4 de resistencia a la salvación y RC 25 contra sortilegios caóticos",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Ley 8",
+      "Clr 8"
+    ]
+  },
+  "Escudriñamiento":{
+    "Descripcion":"Espía desde lejos al receptor",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Drd 4",
+      "Clr 5",
+      "Brd 3"
+    ]
+  },
+  "Escudriñamiento mayor":{
+    "Descripcion":"Como escudriñamiento, pero más rápido y duradero",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Drd 7",
+      "Clr 7",
+      "Brd 6"
+    ]
+  },
+  "Esculpir sonido":{
+    "Descripcion":"Crea nuevos sonidos o cambia los existentes",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Brd 3"
+    ]
+  },
+  "Esfera congelante":{
+    "Descripcion":"Congela el agua o inflige daño por frío",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6"
+    ]
+  },
+  "Esfera de invisibilidad":{
+    "Descripcion":"Hace invisible a todos en un radio de 10'",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Brd 3"
+    ]
+  },
+  "Esfera elástica":{
+    "Descripcion":"Globo de fuerza que protege al receptor pero lo atrapa",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4"
+    ]
+  },
+  "Esfera flamígera":{
+    "Descripcion":"Bola de fuego rodante; daño 2d6; dura 1 asalto / Nivel",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Drd 2"
+    ]
+  },
+  "Esfera prismática":{
+    "Descripcion":"Como muro prismático, pero rodea por todos lados",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9",
+      "Sol 9",
+      "Protección 9"
+    ]
+  },
+  "Esfera telecinética":{
+    "Descripcion":"Como esfera elástica, pero puedes mover la esfera telecinéticamente",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8"
+    ]
+  },
+  "Espada del mago":{
+    "Descripcion":"Espada mágica flotante que ataca a los oponentes",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Espada sagrada":{
+    "Descripcion":"Un arma pasa a ser +5 e inflige daño doble contra el mal",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Pld 4"
+    ]
+  },
+  "Espantar":{
+    "Descripcion":"Asusta a ciaturas con menos de 6 DG",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Brd 2"
+    ]
+  },
+  "Espejismo arcano":{
+    "Descripcion":"Como terreno alucinatorio, pero con edificios",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Brd 5"
+    ]
+  },
+  "Esperanza alentadora":{
+    "Descripcion":"Los objetivos obtienen un bonificador +2 en las tiradas de ataque, tiradas de daño, salvaciones y pruebas",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Brd 3"
+    ]
+  },
+  "Esplendor de águila":{
+    "Descripcion":"El objetivo obtiene +4 a Car durante 1 min / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Pld 2",
+      "Hcr 2",
+      "Mag 2",
+      "Clr 2",
+      "Brd 2"
+    ]
+  },
+  "Esplendor de águila en grupo":{
+    "Descripcion":"Como esplendor de águila, afecta a un objetivo / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Clr 6",
+      "Brd 6"
+    ]
+  },
+  "Estallar":{
+    "Descripcion":"Vibración sónica que daña a objetos y criaturas cristalinas",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Destrucción 2",
+      "Caos 2",
+      "Clr 2",
+      "Brd 2"
+    ]
+  },
+  "Estasis temporal":{
+    "Descripcion":"Pone al receptor en animación suspendida",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8"
+    ]
+  },
+  "Estatua":{
+    "Descripcion":"El receptor puede convertirse en una estatua a voluntad",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Eteridad":{
+    "Descripcion":"Viaja al plano Etéreo con compañeros",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9",
+      "Clr 9"
+    ]
+  },
+  "Evocación sombría":{
+    "Descripcion":"Imita evocaciones de nivel 4º o inferior, pero solo son reales en un 20%",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Brd 5"
+    ]
+  },
+  "Evocación sombría mayor":{
+    "Descripcion":"Como evocación sombría, pero hasta 7º nivel y un 60% real",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8"
+    ]
+  },
+  "Excursión etérea":{
+    "Descripcion":"Te vuelves etéreo durante 1 asalto / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Clr 7"
+    ]
+  },
+  "Exigencia":{
+    "Descripcion":"Como recado, pero se puede enviar una sugestión",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8"
+    ]
+  },
+  "Exorcismo":{
+    "Descripcion":"Una criatura se ve forzada a regresar a su plano natal",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Clr 4 "
+    ]
+  },
+  "Expiación":{
+    "Descripcion":"Libera al sujeto de la carga de sus desafueros",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Drd 5",
+      "Clr 5"
+    ]
+  },
+  "Explosión de sonido":{
+    "Descripcion":"Inflige 1d8 de daño sónico a los receptores, que pueden quedar aturdidos",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Clr 2",
+      "Brd 2"
+    ]
+  },
+  "Explosión solar":{
+    "Descripcion":"Ciega a todos en 10'; inflige 6d6 de daño",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Drd 8",
+      "Sol 8"
+    ]
+  },
+  "Falsa vida":{
+    "Descripcion":"Obtienes 1d10 puntos de golpe temporales +1 / nivel (máximo +10)",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2"
+    ]
+  },
+  "Fatalidad":{
+    "Descripcion":"Un receptor sufre -2 a las tiradas de ataque, daño salvaciones y pruebas",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Clr 1"
+    ]
+  },
+  "Favor divino":{
+    "Descripcion":"Ganas un +1 / 3 niveles a las tiradas de ataque y daño",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Pld 1",
+      "Clr 1"
+    ]
+  },
+  "Festín de los héroes":{
+    "Descripcion":"Comida, para una criatura / nivel, que cura y proporciona bonificadores de en combate",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Clr 6",
+      "Brd 6"
+    ]
+  },
+  "Filo flamígero":{
+    "Descripcion":"Ataque de toque; daño 1d8 +1 / 2 niveles",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Drd 2"
+    ]
+  },
+  "Flamear":{
+    "Descripcion":"Daño 1d6 +1 / nivel; toque o arrojadizo",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Drd 1",
+      "Fuego 2"
+    ]
+  },
+  "Flecha flamígera":{
+    "Descripcion":"Las flechas infligen +1d6 puntos de daño por fuego",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3"
+    ]
+  },
+  "Flecha ácida":{
+    "Descripcion":"Ataque de toque a distancia; daño 2d4 durante 1 asalto, +1 asalto / 3 niveles",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2"
+    ]
+  },
+  "Forma arbórea":{
+    "Descripcion":"Tu aspecto será exactamente el de un árbol durante 1 h / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Exp 3",
+      "Drd 2"
+    ]
+  },
+  "Forma gaseosa":{
+    "Descripcion":"El receptor se vuelve insustancial y puede volar lentamente",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Aire 3",
+      "Brd 3"
+    ]
+  },
+  "Formas de animal":{
+    "Descripcion":"Un aliado / niveles polimorfado en el animal elegido",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 8",
+      "Animal 7"
+    ]
+  },
+  "Fuego feérico":{
+    "Descripcion":"Delimita con luz a los receptores, cancelando contorno borroso, ocultación, etc.",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Drd 1"
+    ]
+  },
+  "Fuerza de toro":{
+    "Descripcion":"El receptor gana +4 a Fue durante 1 min / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Pld 2",
+      "Hcr 2",
+      "Mag 2",
+      "Drd 2",
+      "Fuerza 2",
+      "Clr 2"
+    ]
+  },
+  "Fuerza de toro en grupo":{
+    "Descripcion":"Como fuerza de toro, afecta a un objetivo / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Drd 6",
+      "Clr 6"
+    ]
+  },
+  "Fundirse con la piedra":{
+    "Descripcion":"Tu equipo y tú se funden con la piedra",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 3",
+      "Clr 3"
+    ]
+  },
+  "Furia":{
+    "Descripcion":"Proporciona +2 a Fue y Con, +1 a las salvaciones de Vol, -2 a la CA",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Brd 2"
+    ]
+  },
+  "Garrote":{
+    "Descripcion":"Una porra o bastón se convierte en un arma +1 (daño 1d10) durante 1 min / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 1"
+    ]
+  },
+  "Geas menor":{
+    "Descripcion":"Dar una orden a un receptor de 7 DG como máximo",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Brd 3"
+    ]
+  },
+  "Geas/empeño":{
+    "Descripcion":"Como geas menor, pero afecta a cualquier criatura",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Clr 6",
+      "Brd 6"
+    ]
+  },
+  "Glifo custodio":{
+    "Descripcion":"Inscripción que inflige daño a quien pasa a su lado",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Clr 3"
+    ]
+  },
+  "Glifo custodio mayor":{
+    "Descripcion":"Como glifo custodio, pero su efecto es hasta 10d8 de daño o un conjuro de 6º Nivel",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Clr 6"
+    ]
+  },
+  "Globo de invulnerabilidad":{
+    "Descripcion":"Como globo menor de invulnerabilidad, pero también con 4º Nivel",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6"
+    ]
+  },
+  "Globo menor de invulnerabilidad":{
+    "Descripcion":"Detiene los efectos de conjuros de nivel 1º a 3º",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4"
+    ]
+  },
+  "Gracia felina":{
+    "Descripcion":"El receptor gana +4 a Des durante 1 min / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Exp 2",
+      "Drd 2",
+      "Brd 2"
+    ]
+  },
+  "Gracia felina en grupo":{
+    "Descripcion":"Como gracia felina, afecta a un objetivo / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Drd 6",
+      "Brd 6"
+    ]
+  },
+  "Grasa":{
+    "Descripcion":"Un objeto o cuadrado de 10' de lado se vuelve resbaladizo",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Brd 1"
+    ]
+  },
+  "Guardas y custodias":{
+    "Descripcion":"Diversos efectos mágicos protegen un área",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6"
+    ]
+  },
+  "Hablar con las plantas":{
+    "Descripcion":"Puedes hablar con plantas normales y criaturas vegetales",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Exp 2",
+      "Drd 3",
+      "Brd 4"
+    ]
+  },
+  "Hablar con los animales":{
+    "Descripcion":"Puedes comunicarte con los animales naturales",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Exp 1",
+      "Drd 1",
+      "Brd 3"
+    ]
+  },
+  "Hablar con los muertos":{
+    "Descripcion":"Un cadáver responde una pregunta / 2 niveles",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Clr 3"
+    ]
+  },
+  "Hechizar animales":{
+    "Descripcion":"Un animal se hace amigo tuyo",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Exp 1",
+      "Drd 1"
+    ]
+  },
+  "Hechizar monstruo":{
+    "Descripcion":"Un monstruo cree ser tu aliado",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Brd 3"
+    ]
+  },
+  "Hechizar monstruo en grupo":{
+    "Descripcion":"Como hechizar monstruo, pero afecta a todos en un radio de 30'",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Brd 6"
+    ]
+  },
+  "Hechizar persona":{
+    "Descripcion":"Una persona se hace amiga tuya",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Brd 1"
+    ]
+  },
+  "Helar metal":{
+    "Descripcion":"Enfría tanto el metal que su contacto inflige daño",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 2"
+    ]
+  },
+  "Heroísmo":{
+    "Descripcion":"Proporciona +2 a las tiradas de ataque, salvaciones y pruebas de habilidad",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Brd 2"
+    ]
+  },
+  "Heroísmo mayor":{
+    "Descripcion":"Proporciona un bonificador +4 a las tiradas de ataque, salvaciones y pruebas de habilidad; inmunida al miedo y pg temporales",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Brd 5"
+    ]
+  },
+  "Hipnotismo":{
+    "Descripcion":"Fascina a criaturas por valor de 2d4 DG",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Brd 1"
+    ]
+  },
+  "Horrible marchitamiento":{
+    "Descripcion":"Inflige 1d6 / nivel en un radio de 30'",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Agua 8"
+    ]
+  },
+  "Identificar":{
+    "Descripcion":"Determina las propiedades de un objeto mágico",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Magia 2",
+      "Brd 1"
+    ]
+  },
+  "Imagen mayor":{
+    "Descripcion":"Como imagen silenciosa, pero con sonido, olor y efectos térmicos",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Brd 3"
+    ]
+  },
+  "Imagen menor":{
+    "Descripcion":"Como imagen silenciosa, pero con algún sonido",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Brd 2"
+    ]
+  },
+  "Imagen múltiple":{
+    "Descripcion":"Crea dobles falsos de ti mismo (1d4 +1 / 3 niveles; máximo 8)",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Brd 2"
+    ]
+  },
+  "Imagen permanente":{
+    "Descripcion":"Incluye visión, sonido y olor",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Brd 6"
+    ]
+  },
+  "Imagen persistente":{
+    "Descripcion":"Como imagen mayor, pero no hace falta concentración",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Brd 5"
+    ]
+  },
+  "Imagen programada":{
+    "Descripcion":"Como imagen mayor, pero se desencadena al suceder algo",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Brd 6"
+    ]
+  },
+  "Imagen silenciosa":{
+    "Descripcion":"Crea una ilusión menor diseñada por ti",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Brd 1"
+    ]
+  },
+  "Imbuir aptitud para los conjuros":{
+    "Descripcion":"Transfiere conjuros al receptor",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Magia 4",
+      "Clr 4 "
+    ]
+  },
+  "Impacto verdadero":{
+    "Descripcion":"+20 a tu siguiente tirada de ataque",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1"
+    ]
+  },
+  "Implosión":{
+    "Descripcion":"Mata a una criatura / asalto",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Destrucción 9",
+      "Clr 9"
+    ]
+  },
+  "Impronta de la serpiente sepia":{
+    "Descripcion":"Crea un símbolo de texto que inmoviliza al lector",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Brd 3"
+    ]
+  },
+  "Indetectabilidad":{
+    "Descripcion":"Esconde de la adivinación y el escudriñamiento al receptor",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Exp 4",
+      "Superchería 3"
+    ]
+  },
+  "Infligir heridas críticas":{
+    "Descripcion":"Ataque de toque; daño 4d8 (+1 / nivel; máximo +20)",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Destrucción 4",
+      "Clr 4 "
+    ]
+  },
+  "Infligir heridas críticas en grupo":{
+    "Descripcion":"Inflige 4d8 pg +1 / nivel a muchas criaturas",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Clr 8"
+    ]
+  },
+  "Infligir heridas graves":{
+    "Descripcion":"Ataque de toque; daño 3d8 (+1 / nivel; máximo +15)",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Clr 3"
+    ]
+  },
+  "Infligir heridas graves en grupo":{
+    "Descripcion":"Inflige 3d8 pg +1 / nivel a muchas criaturas",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Clr 7"
+    ]
+  },
+  "Infligir heridas leves":{
+    "Descripcion":"Ataque de toque, daño 1d8 (+1 / nivel; máximo +5)",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Destrucción 1",
+      "Clr 1"
+    ]
+  },
+  "Infligir heridas leves en grupo":{
+    "Descripcion":"Inflige 1d8 pg +1 / nivel a muchas criaturas",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Destrucción 5",
+      "Clr 5"
+    ]
+  },
+  "Infligir heridas menores":{
+    "Descripcion":"Ataque de toque, 1 punto de daño",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Clr 0"
+    ]
+  },
+  "Infligir heridas moderadas":{
+    "Descripcion":"Ataque de toque, daño 2d8 (+1 / nivel; máximo +10)",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Clr 2"
+    ]
+  },
+  "Infligir heridas moderadas en grupo":{
+    "Descripcion":"Inflige 2d8 pg +1 / nivel a muchas criaturas",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Clr 6"
+    ]
+  },
+  "Inmovilizar animal":{
+    "Descripcion":"Paraliza a un animal durante 1 asalto / Nivel",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Exp 2",
+      "Drd 2",
+      "Animal 2"
+    ]
+  },
+  "Inmovilizar monstruo":{
+    "Descripcion":"Como inmovilizar persona, pero con criaturas",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Ley 6",
+      "Brd 4"
+    ]
+  },
+  "Inmovilizar monstruo en grupo":{
+    "Descripcion":"Como inmovilizar monstruo, pero a todos en un radio de 30'",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9"
+    ]
+  },
+  "Inmovilizar persona":{
+    "Descripcion":"Paraliza a un humanoide durante 1 asalto / Nivel",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Clr 2",
+      "Brd 2"
+    ]
+  },
+  "Inmovilizar persona en grupo":{
+    "Descripcion":"Como inmovilizar persona, pero a todos en un radio de 30'",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Inmunidad a conjuros":{
+    "Descripcion":"El receptor es inmune a un conjuro / 4 niveles",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Protección 4",
+      "Fuerza 4",
+      "Clr 4 "
+    ]
+  },
+  "Inmunidad a conjuros mayor":{
+    "Descripcion":"Como inmunidad a conjuros, pero hasta conjuros de 8º Nivel",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Clr 8"
+    ]
+  },
+  "Instante de presciencia":{
+    "Descripcion":"Ganas un bonificador introspectivo en una única tirada de ataque, prueba o salvación",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Suerte 8"
+    ]
+  },
+  "Integrar":{
+    "Descripcion":"Repara un objeto",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Clr 2"
+    ]
+  },
+  "Interdicción":{
+    "Descripcion":"Prohíbe el acceso a un lugar a criaturas de otro alineamiento",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Clr 6"
+    ]
+  },
+  "Intermitencia":{
+    "Descripcion":"Desapareces al azar y reapareces durante 1 asalto / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Brd 3"
+    ]
+  },
+  "Invertir gravedad":{
+    "Descripcion":"Los objetos y criaturas caen hacia arriba",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Drd 8"
+    ]
+  },
+  "Invisibilidad":{
+    "Descripcion":"El receptor se torna invisible durante 1 min / nivel o hasta que ataque",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Superchería 2",
+      "Brd 2"
+    ]
+  },
+  "Invisibilidad en grupo":{
+    "Descripcion":"Como invisibilidad, pero afecta a todo el que alcance",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Invisibilidad mayor":{
+    "Descripcion":"Como invisibilidad, pero el receptor puede atacar y permanecer invisible",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Brd 4"
+    ]
+  },
+  "Ira del orden":{
+    "Descripcion":"Daña y atonta a las criaturas caóticas",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Ley 4"
+    ]
+  },
+  "Jaula de fuerza":{
+    "Descripcion":"Cubo de fuerza que atrapa a todo el que esté en su interior",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Laberinto":{
+    "Descripcion":"Atrapa al receptor en un laberinto extradimensional",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8"
+    ]
+  },
+  "Labia":{
+    "Descripcion":"Obtienes un bonificador +30 a las pruebas de Engañar, y tus mentiras escapan a la detección mágica",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Brd 3"
+    ]
+  },
+  "Lamento de la banshee":{
+    "Descripcion":"Mata a una criatura / Nivel",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9",
+      "Muerte 9"
+    ]
+  },
+  "Lanzar maldición":{
+    "Descripcion":"-6 a una característica; -4 a los ataques, salvaciones y pruebas; o 50% de perder cada acción",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Clr 3"
+    ]
+  },
+  "Leer magia":{
+    "Descripcion":"Lectura de libros de conjuro y rollos de pergamino",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Pld 1",
+      "Hcr 0",
+      "Mag 0",
+      "Exp 1",
+      "Drd 0",
+      "Clr 0",
+      "Brd 0"
+    ]
+  },
+  "Lentificar veneno":{
+    "Descripcion":"Impide que el veneno dañe al receptor durante 1 hora / Nivel",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Pld 2",
+      "Exp 1",
+      "Drd 2",
+      "Clr 2",
+      "Brd 2"
+    ]
+  },
+  "Levitar":{
+    "Descripcion":"El receptor sube o baja en el aire siguiendo tus deseos",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2"
+    ]
+  },
+  "Libertad":{
+    "Descripcion":"Libera a una criatura que padezca cautiverio",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9"
+    ]
+  },
+  "Libertad de movimiento":{
+    "Descripcion":"El receptor se mueve con normalidad a pesar de las limitaciones",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Exp 4",
+      "Drd 4",
+      "Suerte 4",
+      "Clr 4 ",
+      "Brd 4"
+    ]
+  },
+  "Ligadura":{
+    "Descripcion":"Diversas técnicas para encerrar a una criatura",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8"
+    ]
+  },
+  "Ligadura de los planos":{
+    "Descripcion":"como ligadura menor de los planos, pero hasta 12 DG",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6"
+    ]
+  },
+  "Ligadura del alma":{
+    "Descripcion":"Atrapa el alma de una criatura recién muerta para evitar su resurreción",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9",
+      "Clr 9"
+    ]
+  },
+  "Ligadura mayor de los planos":{
+    "Descripcion":"Como ligadura menor de los planos, pero hasta 18 DG",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8"
+    ]
+  },
+  "Ligadura menor de los planos":{
+    "Descripcion":"Atrapa a un ajeno de hasta 6 DG hasta que haga una tarea",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Llama continua":{
+    "Descripcion":"Crea una antorcha permanente, que no despide calor",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Clr 3"
+    ]
+  },
+  "Llamar a la tormenta de relámpagos":{
+    "Descripcion":"Como llamar al relámpago, pero cada rayo causa 5d6 puntos de daño",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Drd 5"
+    ]
+  },
+  "Llamar al relámpago":{
+    "Descripcion":"Atrae los rayos (3d6 por rayo) desde el cielo",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Drd 3"
+    ]
+  },
+  "Llamarada":{
+    "Descripcion":"Deslumbra a una criatura (-1 a las tiradas de ataque)",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0",
+      "Drd 0",
+      "Brd 0"
+    ]
+  },
+  "Localizar criatura":{
+    "Descripcion":"Indica en qué lugar se encuentra una criatura con la que estés familiarizado",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Brd 4"
+    ]
+  },
+  "Localizar objeto":{
+    "Descripcion":"Presiente la dirección en la que se halla un objeto (específico o tipo)",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Viaje 2",
+      "Clr 3",
+      "Brd 2"
+    ]
+  },
+  "Locura":{
+    "Descripcion":"El receptor sufre confusión de forma continuada",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Luces danzantes":{
+    "Descripcion":"Crea antorchas quiméricas y otras luces",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0",
+      "Brd 0"
+    ]
+  },
+  "Luz":{
+    "Descripcion":"Un objeto brilla como una antorcha",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0",
+      "Drd 0",
+      "Clr 0",
+      "Brd 0"
+    ]
+  },
+  "Luz abrazadora":{
+    "Descripcion":"Un rayo inflige 1d8 / 2 niveles (y más a los muertos vivientes)",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Sol 3",
+      "Clr 3"
+    ]
+  },
+  "Luz del día":{
+    "Descripcion":"Luz brillante de 60' de radio",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Pld 3",
+      "Hcr 3",
+      "Mag 3",
+      "Drd 3",
+      "Clr 3",
+      "Brd 3"
+    ]
+  },
+  "Madera férrea":{
+    "Descripcion":"Crea madera mágica tan dura como el acero",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 6"
+    ]
+  },
+  "Magnífica mansión del mago":{
+    "Descripcion":"Se abre una puerta a una mansión extradimensional",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Maldecir agua":{
+    "Descripcion":"Crea agua sacrílega",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Clr 1"
+    ]
+  },
+  "Mano aferradora":{
+    "Descripcion":"Mano grande que da cobertura, empuja o apresa",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Fuerza 7"
+    ]
+  },
+  "Mano aplastante":{
+    "Descripcion":"Mano grande que proporciona cobertura, empuja o aplasta a tus enemigos",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9",
+      "Fuerza 9"
+    ]
+  },
+  "Mano auxiliadora":{
+    "Descripcion":"Una mano fantasmal que lleva al receptor hasta ti",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Clr 3"
+    ]
+  },
+  "Mano del mago":{
+    "Descripcion":"Telecinecis de 5 lb.",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0",
+      "Brd 0"
+    ]
+  },
+  "Mano espectral":{
+    "Descripcion":"Crea una mano, brillante e incorporal, para realizar ataques de toque",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2"
+    ]
+  },
+  "Mano forzuda":{
+    "Descripcion":"Una mano que empuja a las criaturas",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6"
+    ]
+  },
+  "Mano interpuesta":{
+    "Descripcion":"Mano que proporciona cobertura contra un oponente",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Manos ardientes":{
+    "Descripcion":"1d4 de daño por fuego / nivel (máximo 5d4)",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Fuego 1"
+    ]
+  },
+  "Marabunta":{
+    "Descripcion":"Masa de ciempiés que ataca a tus órdenes",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 7"
+    ]
+  },
+  "Marca arcana":{
+    "Descripcion":"Inscribe una runa personal (visible o invisible)",
+    "Escuela":"Uni",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0"
+    ]
+  },
+  "Marca de la justicia":{
+    "Descripcion":"Designa la acción que desencadena una maldición sobre el receptor",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Pld 4",
+      "Clr 5"
+    ]
+  },
+  "Martillo del caos":{
+    "Descripcion":"Daña y deja groguis a las criaturas legales",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Caos 4"
+    ]
+  },
+  "Mastín fiel del mago":{
+    "Descripcion":"Perro fantasmal que puede guardar y atacar",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Matar muertos vivientes":{
+    "Descripcion":"Destruye 1d4 DG / nivel de muertos vivientes (máximo 20d4)",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Clr 6"
+    ]
+  },
+  "Mensaje onírico":{
+    "Descripcion":"Envía un mensaje a cualquiera que esté durmiendo",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Brd 5"
+    ]
+  },
+  "Mente en blanco":{
+    "Descripcion":"El receptor es inmune a la magia mental / emocional y al escudriñamiento",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Protección 8"
+    ]
+  },
+  "Miedo":{
+    "Descripcion":"Los receptores situados en el cono huirán durante 1 asalto / Nivel",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Brd 3"
+    ]
+  },
+  "Milagro":{
+    "Descripcion":"Solicita la intercesión de una deidad",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Suerte 9",
+      "Clr 9"
+    ]
+  },
+  "Mirada penetrante":{
+    "Descripcion":"El objetivo queda despavorido, indispuesto y comatoso",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Brd 6"
+    ]
+  },
+  "Modificar recuerdo":{
+    "Descripcion":"Cambia 5 minutos de recuerdos del receptor",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Brd 4"
+    ]
+  },
+  "Montura":{
+    "Descripcion":"Convoca un caballo de monta durante 2 h / Nivel",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1"
+    ]
+  },
+  "Muro de espinas":{
+    "Descripcion":"Las espinas dañan a quien intente pasar",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 5",
+      "Vegetal 5"
+    ]
+  },
+  "Muro de fuego":{
+    "Descripcion":"Inflige 2d4 de daño por fuego hasta 10' y 1d4 hasta 20'. Atravesar el muro inflige 2d6 de daño +1 / Nivel",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Drd 5",
+      "Fuego 4"
+    ]
+  },
+  "Muro de fuerza":{
+    "Descripcion":"Este muro es inmune al daño",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Muro de hielo":{
+    "Descripcion":"Plano de hielo crea una pared con 15 pg +1 / nivel; hemisferio puede atrapar criaturas en su interior",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4"
+    ]
+  },
+  "Muro de hierro":{
+    "Descripcion":"30 pg / 4 niveles; puede derribarse sobre enemigos",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6"
+    ]
+  },
+  "Muro de piedra":{
+    "Descripcion":"Crea un muro de piedra al que se le puede dar forma",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Drd 6",
+      "Tierra 5",
+      "Clr 5"
+    ]
+  },
+  "Muro de viento":{
+    "Descripcion":"Desvía flechas, gases y a criaturas pequeñas",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Exp 2",
+      "Drd 3",
+      "Aire 2",
+      "Clr 3"
+    ]
+  },
+  "Muro ilusorio":{
+    "Descripcion":"Pared, suelo o techo parece real, pero cualquiera puede atravesarlo",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4"
+    ]
+  },
+  "Muro prismático":{
+    "Descripcion":"Los colores del muro poseen distintos efectos",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8"
+    ]
+  },
+  "Máxima":{
+    "Descripcion":"Mata, paraliza, ralentiza o ensordece a receptores no legales",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Ley 7",
+      "Clr 7"
+    ]
+  },
+  "Nana":{
+    "Descripcion":"Vuelve al sujeto soñoliento; -5 a las pruebas de Avistar y Escuchar, y -2 a las salvaciones de Voluntad contra dormir",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Brd 0"
+    ]
+  },
+  "Neutralizar veneno":{
+    "Descripcion":"Inmuniza al objetivo frente al veneno, desintoxica el veneno que cubra o invada al receptor",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Pld 4",
+      "Exp 3",
+      "Drd 3",
+      "Clr 4 ",
+      "Brd 4"
+    ]
+  },
+  "Niebla de obscurecimiento":{
+    "Descripcion":"Una niebla te rodea",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Drd 1",
+      "Aire 1",
+      "Agua 1",
+      "Clr 1"
+    ]
+  },
+  "Nube aniquiladora":{
+    "Descripcion":"Mata 3 DG o menos; 4-6 DG salvación o morir, 6+ DG reciben daño de Constitución",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Nube apestosa":{
+    "Descripcion":"Vapores nauseabundos, 1 asalto / Nivel",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3"
+    ]
+  },
+  "Nube brumosa":{
+    "Descripcion":"Bruma que oscurece la visión",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Drd 2",
+      "Agua 2"
+    ]
+  },
+  "Nube incendiaria":{
+    "Descripcion":"La nube inflige 4d6 daño por fuego / asalto",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Fuego 8"
+    ]
+  },
+  "Némesis inexorable":{
+    "Descripcion":"Como asesino fantasmal, pero afecta a todos dentro de 30'",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9"
+    ]
+  },
+  "Obscurecer objeto":{
+    "Descripcion":"Oculta un objeto del escudriñamiento",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Clr 3",
+      "Brd 1"
+    ]
+  },
+  "Ofuscar videncia":{
+    "Descripcion":"Engaña al escudriñamiento con una ilusión",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Superchería 5",
+      "Brd 5"
+    ]
+  },
+  "Ojo arcano":{
+    "Descripcion":"Ojo flotante invisible que se mueve a 30' / asalto",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4"
+    ]
+  },
+  "Ojos fisgones":{
+    "Descripcion":"1d4 ojos flotantes (+1 / nivel) que espían para ti",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Ojos fisgones mayor":{
+    "Descripcion":"Como ojos fisgones, pero los ojos tienen visión verdadera",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8"
+    ]
+  },
+  "Olas de agotamiento":{
+    "Descripcion":"Varios objetivos quedan exhaustos",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Olas de fatiga":{
+    "Descripcion":"Varios objetivos quedan fatigados",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Orden imperiosa":{
+    "Descripcion":"Un receptor obedece durante 1 asalto una orden de una única palabra",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Clr 1"
+    ]
+  },
+  "Orden imperiosa mayor":{
+    "Descripcion":"Como orden imperiosa, pero afecta a un receptor / Nivel",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Clr 5"
+    ]
+  },
+  "Orientación divina":{
+    "Descripcion":"+1 en una tirada de ataque, salvación o prueba",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Drd 0",
+      "Clr 0"
+    ]
+  },
+  "Oscuridad":{
+    "Descripcion":"Oscuridad sobrenatural de 20' de radio",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Clr 2",
+      "Brd 2"
+    ]
+  },
+  "Oscuridad profunda":{
+    "Descripcion":"Un objeto despide oscuridad sobrenatural en un radio de 60'",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Clr 3"
+    ]
+  },
+  "Palabra de poder aturdidor":{
+    "Descripcion":"Aturde a una criatura de hasta 150 pg",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Guerra 8"
+    ]
+  },
+  "Palabra de poder cegador":{
+    "Descripcion":"Ciega a una criatura de hasta 200 pg",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Guerra 7"
+    ]
+  },
+  "Palabra de poder mortal":{
+    "Descripcion":"Mata a una criatura de hasta 100 pg",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9",
+      "Guerra 9"
+    ]
+  },
+  "Palabra de regreso":{
+    "Descripcion":"Te teleporta de vuelta hasta el lugar designado",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 8",
+      "Clr 6"
+    ]
+  },
+  "Palabra del caos":{
+    "Descripcion":"Mata, confunde, aturde o ensordece a receptores no caóticos",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Caos 7",
+      "Clr 7"
+    ]
+  },
+  "Palabra sagrada":{
+    "Descripcion":"Mata, paraliza, ciega o ensordece a receptores no buenos",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Bien 7",
+      "Clr 7"
+    ]
+  },
+  "Pantalla":{
+    "Descripcion":"Ilusión que oculta un lugar de la visión y el escudriñamiento",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Superchería 7"
+    ]
+  },
+  "Partículas rutilantes":{
+    "Descripcion":"Ciega a las criaturas y enseña el contorno de las invisibles",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Brd 2"
+    ]
+  },
+  "Pasamiento":{
+    "Descripcion":"Crea un pasaja a través de un muro de madera o roca",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Pasar sin dejar rastro":{
+    "Descripcion":"Un receptor / nivel no deja huellas",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Exp 1",
+      "Drd 1"
+    ]
+  },
+  "Pauta centellante":{
+    "Descripcion":"Espirales de colores que confunden, aturden o dejan inconsciente",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8"
+    ]
+  },
+  "Pauta hipnótica":{
+    "Descripcion":"Fascina a criaturas por valor de (2d4 + nivel) DG",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Brd 2"
+    ]
+  },
+  "Pauta iridiscente":{
+    "Descripcion":"Unas luces impiden que criaturas por valor de 24 DG ataquen o se muevan",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Brd 4"
+    ]
+  },
+  "Penumbras":{
+    "Descripcion":"Como conjuración sombría, pero hasta 8º nivel y 80% real",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9"
+    ]
+  },
+  "Perdición":{
+    "Descripcion":"Los enemigos sufren -1 a las tiradas de ataque y las salvaciones contra miedo",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Clr 1"
+    ]
+  },
+  "Permanencia":{
+    "Descripcion":"Hace permanentes ciertos conjuros",
+    "Escuela":"Uni",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Perturbar muertos vivientes":{
+    "Descripcion":"Inflige 1d6 de daño a 1 muerto viviente",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0"
+    ]
+  },
+  "Pesadilla":{
+    "Descripcion":"Envía una visión que infige 1d10 de daño; fatiga",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Brd 5"
+    ]
+  },
+  "Piedra mágica":{
+    "Descripcion":"Tres piedras se convierten en proyectiles +1 e infligen 1d6+1 de daño",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 1",
+      "Tierra 1",
+      "Clr 1"
+    ]
+  },
+  "Piedra parlante":{
+    "Descripcion":"Comunicación con la piedra natural o trabajada",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Drd 6"
+    ]
+  },
+  "Piedras puntiagudas":{
+    "Descripcion":"Las criaturas del área sufren 1d8 de daño y pueden ser ralentizadas",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 4",
+      "Tierra 4"
+    ]
+  },
+  "Piel pétrea":{
+    "Descripcion":"Ignora 10 puntos de daño por ataque",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Drd 5",
+      "Tierra 6",
+      "Fuerza 6"
+    ]
+  },
+  "Piel robliza":{
+    "Descripcion":"Concede una mejora +2 (o superior) a la armadura natural",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Exp 2",
+      "Drd 2",
+      "Vegetal 2"
+    ]
+  },
+  "Pirotecnia":{
+    "Descripcion":"Convierte el fuego en una luz cegadora o humo asfixiante",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Brd 2"
+    ]
+  },
+  "Plaga de insectos":{
+    "Descripcion":"Un ejambre de langostas ataca a criaturas",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 5",
+      "Clr 5"
+    ]
+  },
+  "Plegaria":{
+    "Descripcion":"Los aliados obtienen +1 en la mayoría de las tiradas; los enemigos, -1",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Pld 3",
+      "Clr 3"
+    ]
+  },
+  "Poder de la justicia":{
+    "Descripcion":"Tu tamaño aumenta y ganas bonificadores al combate",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Fuerza 5",
+      "Clr 5"
+    ]
+  },
+  "Poder divino":{
+    "Descripcion":"Ganas bonificadores de ataque, +6 a Fue y 1 pg / Nivel",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Guerra 4",
+      "Clr 4 "
+    ]
+  },
+  "Polimorfar":{
+    "Descripcion":"Dota de nueva forma a un receptor voluntario",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4"
+    ]
+  },
+  "Polimorfar cualquier cosa":{
+    "Descripcion":"Convierte cualquier objetivo en cualquier otra cosa",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Superchería 8"
+    ]
+  },
+  "Polimorfar funesto":{
+    "Descripcion":"Transforma al objetivo en un animal inofensivo",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Drd 5"
+    ]
+  },
+  "Potenciador mnemónico":{
+    "Descripcion":"Prepara conjuros adicionales o retiene uno que se acaba de ejecutar",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Mag 4"
+    ]
+  },
+  "Presciencia":{
+    "Descripcion":"Un 'sexto sentido' que te advierte del peligro inminente",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9",
+      "Drd 9",
+      "Saber 9"
+    ]
+  },
+  "Prestidigitación":{
+    "Descripcion":"Realiza trucos menores",
+    "Escuela":"Uni",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0",
+      "Brd 0"
+    ]
+  },
+  "Profanar":{
+    "Descripcion":"Llena un lugar de energía negativa, fortaleciendo a los muertos vivientes",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Mal 2",
+      "Clr 2"
+    ]
+  },
+  "Protección contra conjuros":{
+    "Descripcion":"Confiere un bonificador +8 de resistencia",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Magia 8"
+    ]
+  },
+  "Protección contra el bien":{
+    "Descripcion":"+2 a la CA y las salvaciones, contrarresta el control mental, mantiene a raya elementales y ajenos buenos",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Mal 1",
+      "Clr 1"
+    ]
+  },
+  "Protección contra el caos":{
+    "Descripcion":"+2 a la CA y las salvaciones, contrarresta el control mental, mantiene a raya elementales y ajenos caóticos",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Pld 1",
+      "Hcr 1",
+      "Mag 1",
+      "Ley 1",
+      "Clr 1"
+    ]
+  },
+  "Protección contra el mal":{
+    "Descripcion":"+2 a la CA y las salvaciones, contrarresta el control mental, mantiene a raya elementales y ajenos malignos",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Pld 1",
+      "Hcr 1",
+      "Mag 1",
+      "Bien 1",
+      "Clr 1"
+    ]
+  },
+  "Protección contra la energía":{
+    "Descripcion":"Absorbe 12 puntos / nivel de daño de un tipo de energía",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Exp 2",
+      "Drd 3",
+      "Suerte 3",
+      "Protección 3",
+      "Clr 3"
+    ]
+  },
+  "Protección contra la ley":{
+    "Descripcion":"+2 a la CA y las salvaciones, contrarresta el control mental, mantiene a raya elementales y ajenos legales",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Caos 1",
+      "Clr 1"
+    ]
+  },
+  "Protección contra las flechas":{
+    "Descripcion":"Receptor inmune a la mayoría de los ataques a distancia",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2"
+    ]
+  },
+  "Proyección astral":{
+    "Descripcion":"Te envía a ti y a tus compañeros hasta el plano Astral",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9",
+      "Viaje 9",
+      "Clr 9"
+    ]
+  },
+  "Proyectar imagen":{
+    "Descripcion":"Doble ilusorio capaz de hablar y lanzar conjuros",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Brd 6"
+    ]
+  },
+  "Proyectil mágico":{
+    "Descripcion":"Daño 1d4+1; +1 proyectil / 2 niveles por encima del 1º (máximo 5)",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1"
+    ]
+  },
+  "Puerta dimensional":{
+    "Descripcion":"Te teleporta a una corta distancia",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Viaje 4",
+      "Brd 4"
+    ]
+  },
+  "Puerta en fase":{
+    "Descripcion":"Crea un pasaje invisible a través de la piedra o madera",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Viaje 8"
+    ]
+  },
+  "Purgar invisibiliad":{
+    "Descripcion":"Disipa la invisibilidad en un radio de 5' / Nivel",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Clr 3"
+    ]
+  },
+  "Purificar comida y bebida":{
+    "Descripcion":"Purifica 1 pie cúbico / nivel de agua o comida",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 0",
+      "Clr 0"
+    ]
+  },
+  "Puño cerrado":{
+    "Descripcion":"Mano grande que proporciona cobertura, empuja o ataca a tus enemigos",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Fuerza 8"
+    ]
+  },
+  "Página secreta":{
+    "Descripcion":"Cambia una página para ocultar su verdadero contenido",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Brd 3"
+    ]
+  },
+  "Quitar ceguera/sordera":{
+    "Descripcion":"Cura tanto las normales como las mágicas",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Pld 3",
+      "Clr 3"
+    ]
+  },
+  "Quitar el miedo":{
+    "Descripcion":"Elimina el miedo o proporciona +4 a las salvaciones contra miedo de un objetivo +1 por cada cuatro niveles",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Clr 1",
+      "Brd 1"
+    ]
+  },
+  "Quitar enfermedad":{
+    "Descripcion":"Cura todas las enfermedades que afecten al receptor",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Exp 3",
+      "Drd 3",
+      "Clr 3"
+    ]
+  },
+  "Quitar maldición":{
+    "Descripcion":"Libera a un objeto o persona de una maldición",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Pld 3",
+      "Hcr 4",
+      "Mag 4",
+      "Clr 3",
+      "Brd 3"
+    ]
+  },
+  "Quitar parálisis":{
+    "Descripcion":"Libera a una o más criaturas de efectos de parálisis o ralentizar",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Pld 2",
+      "Clr 2"
+    ]
+  },
+  "Ralentizar":{
+    "Descripcion":"Un receptor / nivel puede realizar sólo una acción / asalto y sufre -2 a la CA y a las tiradas de ataque",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Brd 3"
+    ]
+  },
+  "Rayo abrazador":{
+    "Descripcion":"Ataque de toque a distancia que inflige 4d6 puntos de daño por fuego, +1 rayo / 4 niveles (máximo 3)",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2"
+    ]
+  },
+  "Rayo agotador":{
+    "Descripcion":"Rayo que deja exhausto al objetivo",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3"
+    ]
+  },
+  "Rayo de debilitamiento":{
+    "Descripcion":"Rayo que reduce la Fue en 1d6 +1 / 2 niveles",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1"
+    ]
+  },
+  "Rayo de escarcha":{
+    "Descripcion":"Rayo que inflige 1d3 puntos de daño por frío",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0"
+    ]
+  },
+  "Rayo polar":{
+    "Descripcion":"Ataque de toque a distancia que inflige 1d6 / nivel de daño por frío",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8"
+    ]
+  },
+  "Rayo relampaguante":{
+    "Descripcion":"La electricidad inflige 1d6 daño / Nivel",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3"
+    ]
+  },
+  "Rayo solar":{
+    "Descripcion":"Un haz de luz que ciega e inflige 4d6 de daño",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Drd 7",
+      "Sol 7"
+    ]
+  },
+  "Reanimar a los muertos":{
+    "Descripcion":"Crea esqueletos y zombis muertos vivientes",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Muerte 3",
+      "Clr 3"
+    ]
+  },
+  "Recado":{
+    "Descripcion":"Lleva instantáneamente un mensaje corto a cualquier lugar",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Clr 4 "
+    ]
+  },
+  "Rechazo":{
+    "Descripcion":"Las criaturas no peuden acercarse a ti",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Protección 7",
+      "Clr 7"
+    ]
+  },
+  "Recluir":{
+    "Descripcion":"El receptor es invisible a la vista y el escudriñamiento; deja a la criatura comatosa",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Reducir animal":{
+    "Descripcion":"Encoge a un animal voluntario",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Exp 3",
+      "Drd 2"
+    ]
+  },
+  "Reducir persona":{
+    "Descripcion":"Una criatura humanoide reduce a la mitad su tamaño",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1"
+    ]
+  },
+  "Reducir persona en grupo":{
+    "Descripcion":"Reduce a varias criaturas",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4"
+    ]
+  },
+  "Reducir plantas":{
+    "Descripcion":"Reduce el tamaño o el crecimiento de las plantas normales",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Exp 3",
+      "Drd 3"
+    ]
+  },
+  "Reencarnar":{
+    "Descripcion":"Devuelve al receptor a la vida en un cuerpo al azar",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 4"
+    ]
+  },
+  "Refugio":{
+    "Descripcion":"Altera un objeto para que transporte a su poseedor hasta ti",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9",
+      "Clr 7"
+    ]
+  },
+  "Regenerar":{
+    "Descripcion":"El receptor recupera sus extremidades cercenadas, cura 4d8 puntos de daño / nivel (máximo +35)",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 9",
+      "Curación 7",
+      "Clr 7"
+    ]
+  },
+  "Reloj de la muerte":{
+    "Descripcion":"Se ve el estado de los receptores herdiso en 30' de radio",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Clr 1"
+    ]
+  },
+  "Relámpago zigzagueante":{
+    "Descripcion":"1d6 daño / nivel; 1 rayo secundario / nivel, cada uno inflige medio daño",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Aire 6"
+    ]
+  },
+  "Rematar a los vivos":{
+    "Descripcion":"Tu ataque de toque mata al receptor",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Muerte 5",
+      "Clr 5"
+    ]
+  },
+  "Remendar":{
+    "Descripcion":"Realiza reparaciones menores sobre un objeto",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0",
+      "Drd 0",
+      "Clr 0",
+      "Brd 0"
+    ]
+  },
+  "Remover tierra":{
+    "Descripcion":"Cava zanjas y levanta colinas",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Drd 6"
+    ]
+  },
+  "Repeler madera":{
+    "Descripcion":"Aleja los objetos de madera",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 6",
+      "Vegetal 6"
+    ]
+  },
+  "Repeler piedra o metal":{
+    "Descripcion":"Aparta el metal o la piedra",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Drd 8"
+    ]
+  },
+  "Repeler sabandijas":{
+    "Descripcion":"Insectos, arañas y otras sabandijas se mantienen a 10' de distancia",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Exp 3",
+      "Drd 4",
+      "Clr 4 ",
+      "Brd 4"
+    ]
+  },
+  "Resistencia":{
+    "Descripcion":"El receptor gana +1 en los TS",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Pld 1",
+      "Hcr 0",
+      "Mag 0",
+      "Drd 0",
+      "Clr 0",
+      "Brd 0"
+    ]
+  },
+  "Resistencia a conjuros":{
+    "Descripcion":"El receptor gana RC +12 (+1 / nivel)",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Protección 5",
+      "Magia 5",
+      "Clr 5"
+    ]
+  },
+  "Resistencia de oso":{
+    "Descripcion":"El receptor gana +4 a Con durante 1 min / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Exp 2",
+      "Drd 2",
+      "Clr 2"
+    ]
+  },
+  "Resistencia de oso en grupo":{
+    "Descripcion":"Como resistencia de oso, afecta a un objetivo / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Drd 6",
+      "Clr 6"
+    ]
+  },
+  "Resistir energía":{
+    "Descripcion":"Ignora 10 (o más) puntos de daño / ataque de un tipo de energía especificado",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Pld 2",
+      "Hcr 2",
+      "Mag 2",
+      "Exp 1",
+      "Drd 2",
+      "Fuego 3",
+      "Clr 2"
+    ]
+  },
+  "Respiración acuática":{
+    "Descripcion":"Los receptores pueden respirar bajo el agua",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Drd 3",
+      "Agua 3",
+      "Clr 3"
+    ]
+  },
+  "Restablecimiento":{
+    "Descripcion":"Recobra las puntuaciones de característica y niveles consumidos",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Pld 4",
+      "Clr 4 "
+    ]
+  },
+  "Restablecimiento mayor":{
+    "Descripcion":"Como restablecimiento, pero recupera todos los niveles y puntuaciones de característica",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Clr 7"
+    ]
+  },
+  "Restablecimiento menor":{
+    "Descripcion":"Disipa un pentalizador de característica o recupera 1d4 puntos de daño de característica",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Pld 1",
+      "Drd 2",
+      "Clr 2"
+    ]
+  },
+  "Resurrección":{
+    "Descripcion":"Recupera por completo a un receptor muerto",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Clr 7"
+    ]
+  },
+  "Resurreción verdadera":{
+    "Descripcion":"Como resurreción, pero no hacen falta los restos",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Clr 9"
+    ]
+  },
+  "Retirada expeditiva":{
+    "Descripcion":"Tu velocidad aumenta en 30'",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Brd 1"
+    ]
+  },
+  "Retorno de conjuros":{
+    "Descripcion":"Devuelve 1d4+6 niveles de conjuro a su lanzador",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Suerte 7",
+      "Magia 7"
+    ]
+  },
+  "Revivir a los muertos":{
+    "Descripcion":"Devuelve la vida a un receptor que muriera, como mucho, hace 1 día / Nivel",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Clr 5"
+    ]
+  },
+  "Roble guardián":{
+    "Descripcion":"Un roble se convierte en un ent guardián",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 6"
+    ]
+  },
+  "Rociada de color":{
+    "Descripcion":"Deja inconscientes, ciegas o aturdidas a 1d6 criaturas débiles",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1"
+    ]
+  },
+  "Rociada prismática":{
+    "Descripcion":"Unos rayos que golpean causando diversos efectos",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Romper encantamiento":{
+    "Descripcion":"Libera a los receptores de encantamientos, alteraciones, maldiciones y petrificaciones",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Pld 4",
+      "Hcr 5",
+      "Mag 5",
+      "Suerte 5",
+      "Clr 5",
+      "Brd 4"
+    ]
+  },
+  "Runas explosivas":{
+    "Descripcion":"Infligen 6d6 de daño al ser leídas",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3"
+    ]
+  },
+  "Ráfaga de viento":{
+    "Descripcion":"Hace volar o derriba a las criaturas más pequeñas",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Drd 2"
+    ]
+  },
+  "Sabandijas gigantes":{
+    "Descripcion":"Convierte arañas, ciempiés o escorpiones en sabandijas gigantes",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 4",
+      "Clr 4 "
+    ]
+  },
+  "Sabiduría de búho":{
+    "Descripcion":"El receptor gana +4 a Sab durante 1 min / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Pld 2",
+      "Hcr 2",
+      "Mag 2",
+      "Exp 2",
+      "Drd 2",
+      "Clr 2"
+    ]
+  },
+  "Sabiduría de búho en grupo":{
+    "Descripcion":"Como sabiduría de búho, afecta a un objetivo / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Drd 6",
+      "Clr 6"
+    ]
+  },
+  "Sacralizar":{
+    "Descripcion":"El lugar elegido pasa a ser sagrado",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Drd 5",
+      "Clr 5"
+    ]
+  },
+  "Salpicadura de ácido":{
+    "Descripcion":"Orbe que inflige 1d3 puntos de daño por ácido",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0"
+    ]
+  },
+  "Salto":{
+    "Descripcion":"El receptor obtiene un bonificador en las pruebas de Saltar",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Exp 1",
+      "Drd 1"
+    ]
+  },
+  "Sanar":{
+    "Descripcion":"Cura 10 puntos de daño / nivel, todas las enfermedades y todas las condiciones mentales",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 7",
+      "Curación 6",
+      "Clr 6"
+    ]
+  },
+  "Sanar a una montura":{
+    "Descripcion":"Como sanar, pero a un caballo de guerra u otra montura especial",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Pld 3"
+    ]
+  },
+  "Sanar en grupo":{
+    "Descripcion":"Como sanar, pero para varios receptores",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Curación 9",
+      "Clr 9"
+    ]
+  },
+  "Sanctasantórum privado del mago":{
+    "Descripcion":"Impide a cualquiera ver o escudriñar un área durante 24 hs",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Santuario":{
+    "Descripcion":"Los oponentes no pueden atacarte y tú tampoco puedes atacar",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Protección 1",
+      "Clr 1"
+    ]
+  },
+  "Semillas de fuego":{
+    "Descripcion":"Bellotas y bayas se convierten en 'granadas' y 'bombas'",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 6",
+      "Sol 6",
+      "Fuego 6"
+    ]
+  },
+  "Silencio":{
+    "Descripcion":"Niega el sonido en un radio de 15'",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Clr 2",
+      "Brd 2"
+    ]
+  },
+  "Similitud":{
+    "Descripcion":"Cambia la apariencia de una persona por cada dos niveles",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Brd 5"
+    ]
+  },
+  "Simpatía":{
+    "Descripcion":"El lugar o los objetos afectados por el conjuro atraen a ciertas criaturas",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Drd 9"
+    ]
+  },
+  "Simulacro":{
+    "Descripcion":"Crea un doble parcialmente real de una criatura",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Sirviente invisible":{
+    "Descripcion":"Crea una fuerza invisible que obedece tus órdenes",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Brd 1"
+    ]
+  },
+  "Situación":{
+    "Descripcion":"Controla la posición y condición de los aliados",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Clr 2"
+    ]
+  },
+  "Sonido fantasma":{
+    "Descripcion":"Sonidos quiméricos",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0",
+      "Brd 0"
+    ]
+  },
+  "Soportar los elementos":{
+    "Descripcion":"Permanecer confortablemente en entornos frios o calientes",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Pld 1",
+      "Hcr 1",
+      "Mag 1",
+      "Exp 1",
+      "Drd 1",
+      "Sol 1",
+      "Clr 1"
+    ]
+  },
+  "Sueño profundo":{
+    "Descripcion":"Duerme criaturas por un valor de 10 DG",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Brd 3"
+    ]
+  },
+  "Sugestión":{
+    "Descripcion":"Obliga al receptor a seguir un curso de acción determinado",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Brd 2"
+    ]
+  },
+  "Sugestión en grupo":{
+    "Descripcion":"Como sugestión, más un receptor / Nivel",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Brd 5"
+    ]
+  },
+  "Símbolo de aturdimiento":{
+    "Descripcion":"Runa desencadenada aturde a las criaturas cercanas",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Clr 7"
+    ]
+  },
+  "Símbolo de debilidad":{
+    "Descripcion":"Runa desencadenada debilita a las criaturas próximas",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Clr 7"
+    ]
+  },
+  "Símbolo de dolor":{
+    "Descripcion":"Runa desencadenada sume a criaturas próximas en el dolor",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Clr 5"
+    ]
+  },
+  "Símbolo de locura":{
+    "Descripcion":"Runa desencadenada vuelve locas a las criaturas cercanas",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Clr 8"
+    ]
+  },
+  "Símbolo de miedo":{
+    "Descripcion":"Runa desencadenada aterroriza a las criaturas cercanas",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Clr 6"
+    ]
+  },
+  "Símbolo de muerte":{
+    "Descripcion":"Runa desencadenada mata a las criaturas próximas",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 8",
+      "Mag 8",
+      "Clr 8"
+    ]
+  },
+  "Símbolo de persuación":{
+    "Descripcion":"Runa desencadenada hechiza a las criaturas próximas",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Clr 6"
+    ]
+  },
+  "Símbolo de sueño":{
+    "Descripcion":"Runa desencadenada sume a criaturas próximas en un sueño catatónico",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Clr 5"
+    ]
+  },
+  "Telaraña":{
+    "Descripcion":"Llena una expansión de 20' de radio con telarañas pegajosas",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2"
+    ]
+  },
+  "Telecinecis":{
+    "Descripcion":"Mueve un objeto, ataca a una criatura o arroja un objeto o criatura",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Teleportar":{
+    "Descripcion":"Te transporta instantáneamente hasta a 100 millas / Nivel",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Viaje 5"
+    ]
+  },
+  "Teleportar mayor":{
+    "Descripcion":"Como teleportar, pero sin límite de alcance y sin posibilidad de llegar lejos del objetivo",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7",
+      "Viaje 7"
+    ]
+  },
+  "Teleportar objeto":{
+    "Descripcion":"Como teleportar, pero afecta a un objeto tocado",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Tentáculos negros":{
+    "Descripcion":"Tentáculos que apresan a todos en una expansión de 15'",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4"
+    ]
+  },
+  "Terremoto":{
+    "Descripcion":"Fuerte templor en un radio de 5' / Nivel",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Drd 8",
+      "Tierra 7",
+      "Destrucción 8",
+      "Clr 8"
+    ]
+  },
+  "Terreno alucinatorio":{
+    "Descripcion":"Hace que un terreno parezca ser de un tipo diferente (campo con aspecto de bosque, etc.)",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Brd 4"
+    ]
+  },
+  "Terribles carcajadas":{
+    "Descripcion":"El receptor pierde sus acciones durante 1 asalto / Nivel",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Brd 1"
+    ]
+  },
+  "Toque de estulticia":{
+    "Descripcion":"El objetivo recibe 1d6 puntos de daño a Int, Sab, y Car",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2"
+    ]
+  },
+  "Toque de fatiga":{
+    "Descripcion":"Ataque de toque que fatiga al objetivo",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 0",
+      "Mag 0"
+    ]
+  },
+  "Toque de necrófago":{
+    "Descripcion":"Paraliza a un objetivo, que exuda un gran hedor y que indispone a los que estén cerca",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2"
+    ]
+  },
+  "Toque gélido":{
+    "Descripcion":"1 toque / nivel, 1d6 de daño y, posiblemente, 1 punto de daño a la Fue",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1"
+    ]
+  },
+  "Toque vampírico":{
+    "Descripcion":"Toque inflige 1d6 / 2 niveles del lanzador; lanzador gana pg igual al daño",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3"
+    ]
+  },
+  "Torbellino":{
+    "Descripcion":"Ciclón que inflige daño y puede levantar criaturas",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Drd 8",
+      "Aire 8"
+    ]
+  },
+  "Tormenta de aguanieve":{
+    "Descripcion":"Estorba la visión y el movimiento",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Drd 3"
+    ]
+  },
+  "Tormenta de fuego":{
+    "Descripcion":"Inflige 1d6 de daño por fuego / Nivel",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Drd 7",
+      "Fuego 7",
+      "Clr 8"
+    ]
+  },
+  "Tormenta de hielo":{
+    "Descripcion":"Granizo que inflige 5d6 de daño en un cilindro de 40' de diámetro",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Drd 4",
+      "Agua 5"
+    ]
+  },
+  "Tormenta de venganza":{
+    "Descripcion":"Tormenta de lluvia ácida, rayos y granizo",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 9",
+      "Clr 9"
+    ]
+  },
+  "Trabar portal":{
+    "Descripcion":"Atranca una entrada",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1"
+    ]
+  },
+  "Trampa de fuego":{
+    "Descripcion":"El objeto abierto inflige daño 1d4+1 / Nivel",
+    "Escuela":"Abj",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Drd 2"
+    ]
+  },
+  "Trampa de lazo":{
+    "Descripcion":"Crea una trampa mágica de lazo",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Exp 2",
+      "Drd 3"
+    ]
+  },
+  "Trampa fantasma":{
+    "Descripcion":"Hace que un objeto parezca tener una trampa",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2"
+    ]
+  },
+  "Trance animal":{
+    "Descripcion":"Fascina a 2d6 DG de animales",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Drd 2",
+      "Brd 2"
+    ]
+  },
+  "Transformación":{
+    "Descripcion":"Obtienes bonificadores al combate",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6"
+    ]
+  },
+  "Transformar madera":{
+    "Descripcion":"Ajusta a tus necesidades los objetos de madera",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 2"
+    ]
+  },
+  "Transformar metal en madera":{
+    "Descripcion":"Todo el metal que haya en un radio de 40' se convierte en madera",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Drd 7"
+    ]
+  },
+  "Transformar piedra":{
+    "Descripcion":"Dota a la piedra de cualquier forma",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 4",
+      "Mag 4",
+      "Drd 3",
+      "Tierra 3",
+      "Clr 3"
+    ]
+  },
+  "Transmigración":{
+    "Descripcion":"Permite poseer a otra criatura",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Transmutar barro en roca":{
+    "Descripcion":"Transforma dos cubos de 10' / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Drd 5"
+    ]
+  },
+  "Transmutar roca en barro":{
+    "Descripcion":"Transforma dos cubos de 10' / Nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5",
+      "Drd 5"
+    ]
+  },
+  "Trepar cual arácnido":{
+    "Descripcion":"Da la capacidad de caminar por las paredes y techos",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Drd 2"
+    ]
+  },
+  "Tromba de meteoritos":{
+    "Descripcion":"Cuatro esferas que explotan, infligiendo cada una 6d6 puntos de daño por fuego",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9"
+    ]
+  },
+  "Truco de la cuerda":{
+    "Descripcion":"Esconde en un espacio extradimensional a un máximo de 8 criaturas",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2"
+    ]
+  },
+  "Umbral":{
+    "Descripcion":"Comunica dos planos para viajar o convocar",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Hcr 9",
+      "Mag 9",
+      "Clr 9"
+    ]
+  },
+  "Velo":{
+    "Descripcion":"Cambia la apariencia de un grupo de criaturas",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Brd 6"
+    ]
+  },
+  "Veneno":{
+    "Descripcion":"Tu toque inflige 1d10 puntos de daño a la Constitución, que se repiten al cabo de un minuto",
+    "Escuela":"Nig",
+    "Nivel":[
+      "Drd 3",
+      "Clr 4 "
+    ]
+  },
+  "Ventriloquía":{
+    "Descripcion":"Crea una voz durante 1 min / Nivel",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Hcr 1",
+      "Mag 1",
+      "Brd 1"
+    ]
+  },
+  "Ver lo invisible":{
+    "Descripcion":"Revela objetos y criaturas invisibles",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Brd 3"
+    ]
+  },
+  "Vestidura mágica":{
+    "Descripcion":"Una armadura o escudo gana un +1 de  mejora / 4 niveles",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Guerra 3",
+      "Fuerza 3",
+      "Clr 3"
+    ]
+  },
+  "Viajar mediante plantas":{
+    "Descripcion":"Moverse instantáneamente desde una planta a otra de la misma especie",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Drd 6"
+    ]
+  },
+  "Viaje en vuelo":{
+    "Descripcion":"Vuelas a una velocidad de 40', y puedens aligerar grandes distancias",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Vibración sintonizada":{
+    "Descripcion":"Inflige 2d10 puntos de daño / asalto a una estructura no empotrada",
+    "Escuela":"Evo",
+    "Nivel":[
+      "Brd 6"
+    ]
+  },
+  "Viento susurrante":{
+    "Descripcion":"Envía un mensaje corto a una milla de distancia por nivel",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Brd 2"
+    ]
+  },
+  "Virtud":{
+    "Descripcion":"El receptor gana temporalmente 1 pg",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Pld 1",
+      "Drd 0",
+      "Clr 0"
+    ]
+  },
+  "Visión":{
+    "Descripcion":"Como conocimiento de leyendas, pero más rápido y extenuante",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Visión en la oscuridad":{
+    "Descripcion":"Ver hasta 60' en oscuridad total",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 2",
+      "Mag 2",
+      "Exp 3"
+    ]
+  },
+  "Visión verdadera":{
+    "Descripcion":"Te permite ver todo como es en realidad",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 6",
+      "Mag 6",
+      "Drd 7",
+      "Saber 5",
+      "Clr 5"
+    ]
+  },
+  "Vista arcana":{
+    "Descripcion":"Las auras mágicas se vuelven visibles para ti",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3"
+    ]
+  },
+  "Vista arcana mayor":{
+    "Descripcion":"Como vista arcana, pero también revela los efectos mágicos sobre criaturas y objetos",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 7",
+      "Mag 7"
+    ]
+  },
+  "Volar":{
+    "Descripcion":"El receptor vuela a una velocidad de 60'",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Hcr 3",
+      "Mag 3",
+      "Viaje 3"
+    ]
+  },
+  "Vínculo telepático":{
+    "Descripcion":"Vínculo que permite comunicación entre aliados",
+    "Escuela":"Adv",
+    "Nivel":[
+      "Hcr 5",
+      "Mag 5"
+    ]
+  },
+  "Zancada arbórea":{
+    "Descripcion":"Te permite llegar desde un árbol hasta otro que esté lejos",
+    "Escuela":"Cjr",
+    "Nivel":[
+      "Exp 4",
+      "Drd 5"
+    ]
+  },
+  "Zancada prodigiosa":{
+    "Descripcion":"Tu velocidad aumenta en 10'",
+    "Escuela":"Tra",
+    "Nivel":[
+      "Exp 1",
+      "Drd 1",
+      "Viaje 1"
+    ]
+  },
+  "Zona de silencio":{
+    "Descripcion":"Evita que la gente escuche por casualidad una conversación",
+    "Escuela":"Ilu",
+    "Nivel":[
+      "Brd 4"
+    ]
+  },
+  "Zona de verdad":{
+    "Descripcion":"Los receptores dentro del alcance no pueden mentir",
+    "Escuela":"Enc",
+    "Nivel":[
+      "Pld 2",
+      "Clr 2"
+    ]
+  }
+}

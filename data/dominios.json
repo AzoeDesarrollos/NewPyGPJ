@@ -1,0 +1,346 @@
+{
+  "Agua":{
+    "Aptitudes":[
+      "Expulsar criaturas de Fuego",
+      "Reprender criaturas de Agua"
+    ],
+    "Conjuros":[
+      "Niebla de obscurecimiento",
+      "Nube brumosa",
+      "Respiración acuática",
+      "Controlar las aguas",
+      "Tormenta de hielo",
+      "Cono de frío",
+      "Bruma ácida",
+      "Horrible marchitamiento",
+      "Enjambre elemental"
+    ]
+  },
+  "Aire":{
+    "Aptitudes":[
+      "Expulsar criaturas de Tierra",
+      "Reprender criaturas de Agua"
+    ],
+    "Conjuros":[
+      "Niebla de obscurecimiento",
+      "Muro de viento",
+      "Forma gaseosa",
+      "Caminar por el aire",
+      "Controlar los vientos",
+      "Relámpago zigzagueante",
+      "Controlar el clima",
+      "Torbellino",
+      "Enjambre elemental"
+    ]
+  },
+  "Animal":{
+    "Aptitudes":[
+      "Hablar con los animaes 1/día"
+    ],
+    "Conjuros":[
+      "Calmar animales",
+      "Inmovilizar animal",
+      "Dominar animal",
+      "Convocar aliado natural IV",
+      "Comunión con la naturaleza",
+      "Caparazón antivida",
+      "Formas de animal",
+      "Convocar aliado natural VIII",
+      "Cambiar de forma"
+    ]
+  },
+  "Bien":{
+    "Aptitudes":[
+      "Aura buena"
+    ],
+    "Conjuros":[
+      "Protección contra el mal",
+      "Auxilio divino",
+      "Círculo mágico contra el mal",
+      "Castigo divino",
+      "Disipar el mal",
+      "Barrera de cuchillas",
+      "Palabra sagrada",
+      "Aura sagrada",
+      "Convocar monstruo IX"
+    ]
+  },
+  "Caos":{
+    "Aptitudes":[
+      "Aura caótica"
+    ],
+    "Conjuros":[
+      "Protección contra la ley",
+      "Estallar",
+      "Círculo mágico contra la ley",
+      "Martillo del caos",
+      "Disipar la ley",
+      "Animar los objetos",
+      "Palabra del caos",
+      "Capa del caos",
+      "Convocar monstruo IX"
+    ]
+  },
+  "Curación":{
+    "Conjuros":[
+      "Curar heridas leves",
+      "Curar heridas moderadas",
+      "Curar heridas graves",
+      "Curar heridas críticas",
+      "Curar heridas leves en grupo",
+      "Sanar",
+      "Regenerar",
+      "Curar heridas críticas en grupo",
+      "Sanar en grupo"
+    ]
+  },
+  "Destrucción":{
+    "Aptitudes":[
+      "Castigar +4; daño +{0!s}; 1/día"
+    ],
+    "Conjuros":[
+      "Infligir heridas leves",
+      "Estallar",
+      "Contagio",
+      "Infligir heridas críticas",
+      "Infligir heridas leves en grupo",
+      "Dañar",
+      "Desintegrar",
+      "Terremoto",
+      "Implosión"
+    ]
+  },
+  "Fuego":{
+    "Aptitudes":[
+      "Expulsar criaturas de Agua",
+      "Reprender criaturas de Fuego"
+    ],
+    "Conjuros":[
+      "Manos ardientes",
+      "Flamear",
+      "Resistir energía",
+      "Muro de fuego",
+      "Escudo de fuego",
+      "Semillas de fuego",
+      "Tormenta de fuego",
+      "Nube incendiaria",
+      "Enjambre elemental"
+    ]
+  },
+  "Fuerza":{
+    "Aptitudes":[
+      "Proeza de fuerza 1/día"
+    ],
+    "Conjuros":[
+      "Agrandar persona",
+      "Fuerza de toro",
+      "Vestidura mágica",
+      "Inmunidad a conjuros",
+      "Poder de la justicia",
+      "Piel pétrea",
+      "Mano aferradora",
+      "Puño cerrado",
+      "Mano aplastante"
+    ]
+  },
+  "Guerra":{
+    "Conjuros":[
+      "Arma mágica",
+      "Arma espiritual",
+      "Vestidura mágica",
+      "Poder divino",
+      "Descarga flamígera",
+      "Barrera de cuchillas",
+      "Palabra de poder cegador",
+      "Palabra de poder aturdidor",
+      "Palabra de poder mortal"
+    ]
+  },
+  "Ley":{
+    "Aptitudes":[
+      "Aura legal"
+    ],
+    "Conjuros":[
+      "Protección contra el caos",
+      "Calmar emociones",
+      "Círculo mágico contra el caos",
+      "Ira del orden",
+      "Disipar el caos",
+      "Inmovilizar monstruo",
+      "Máxima",
+      "Escudo de la ley",
+      "Convocar monstruo IX"
+    ]
+  },
+  "Magia":{
+    "Aptitudes":[
+      "NL Mago +{0!s} para varitas y pergaminos"
+    ],
+    "Conjuros":[
+      "Aura mágica",
+      "Identificar",
+      "Disipar magia",
+      "Imbuir aptitud para los conjuros",
+      "Resistencia a conjuros",
+      "Campo antimagia",
+      "Retorno de conjuros",
+      "Protección contra conjuros",
+      "Disyunción del mago"
+    ]
+  },
+  "Mal":{
+    "Aptitudes":[
+      "Aura maligna"
+    ],
+    "Conjuros":[
+      "Protección contra el bien",
+      "Profanar",
+      "Círculo mágico contra el bien",
+      "Azote sacrílego",
+      "Disipar el bien",
+      "Crear muertos vivientes",
+      "Blasfemia",
+      "Aura sacrílega",
+      "Convocar monstruo IX"
+    ]
+  },
+  "Muerte":{
+    "Aptitudes":[
+      "Toque mortal 1/día; {0!s}d6"
+    ],
+    "Conjuros":[
+      "Causar miedo",
+      "Campanas fúnebres",
+      "Reanimar a los muertos",
+      "Custodia contra la muerte",
+      "Rematar a los vivos",
+      "Crear muertos vivientes",
+      "Destrucción",
+      "Crear muertos vivientes mayores",
+      "Lamento de la banshee"
+    ]
+  },
+  "Protección":{
+    "Aptitudes":[
+      "Custodia protectora 1/día"
+    ],
+    "Conjuros":[
+      "Santuario",
+      "Escudar a otro",
+      "Protección contra la energía",
+      "Inmunidad a conjuros",
+      "Resistencia a conjuros",
+      "Campo antimagia",
+      "Rechazo",
+      "Mente en blanco",
+      "Esfera prismática"
+    ]
+  },
+  "Saber":{
+    "Conjuros":[
+      "Detectar puertas secretas",
+      "Detectar pensamientos",
+      "Clariaudiencia/clarividencia",
+      "Adivinación",
+      "Visión verdadera",
+      "Encontrar la senda",
+      "Conocimiento de leyendas",
+      "Discernir ubicación",
+      "Presciencia"
+    ]
+  },
+  "Sol":{
+    "Aptitudes":[
+      "Expulsión mayor 1/día"
+    ],
+    "Conjuros":[
+      "Soportar los elementos",
+      "Calentar metal",
+      "Luz abrazadora",
+      "Escudo de fuego",
+      "Descarga flamígera",
+      "Semillas de fuego",
+      "Rayo solar",
+      "Explosión solar",
+      "Esfera prismática"
+    ]
+  },
+  "Suerte":{
+    "Aptitudes":[
+      "Buena fortuna 1/día"
+    ],
+    "Conjuros":[
+      "Escudo de entropía",
+      "Auxilio divino",
+      "Protección contra la energía",
+      "Libertad de movimiento",
+      "Romper encantamiento",
+      "Doble engañoso",
+      "Retorno de conjuros",
+      "Instante de presciencia",
+      "Milagro"
+    ]
+  },
+  "Superchería":{
+    "Conjuros":[
+      "Disfrazarse",
+      "Invisibilidad",
+      "Indetectabilidad",
+      "Confusión",
+      "Ofuscar videncia",
+      "Doble engañoso",
+      "Pantalla",
+      "Polimorfar cualquier cosa",
+      "Detener el tiempo"
+    ]
+  },
+  "Tierra":{
+    "Aptitudes":[
+      "Expulsar criaturas de Aire",
+      "Reprender criaturas de Tierra"
+    ],
+    "Conjuros":[
+      "Piedra mágica",
+      "Ablandar tierra y piedra",
+      "Transformar piedra",
+      "Piedras puntiagudas",
+      "Muro de piedra",
+      "Piel pétrea",
+      "Terremoto",
+      "Cuerpo férreo",
+      "Enjambre elemental"
+    ]
+  },
+  "Vegetal":{
+    "Aptitudes":[
+      "Expulsar criaturas vegetales"
+    ],
+    "Conjuros":[
+      "Enmarañar",
+      "Piel robliza",
+      "Crecimiento vegetal",
+      "Comandar plantas",
+      "Muro de espinas",
+      "Repeler madera",
+      "Animar las plantas",
+      "Controlar plantas",
+      "Desbrozar"
+    ]
+  },
+  "Viaje":{
+    "Aptitudes":[
+      "Libertad de movimiento {0!s} asaltos"
+    ],
+    "Conjuros":[
+      "Zancada prodigiosa",
+      "Localizar objeto",
+      "Volar",
+      "Puerta dimensional",
+      "Teleportar",
+      "Encontrar la senda",
+      "Teleportar mayor",
+      "Puerta en fase",
+      "Proyección astral"
+    ]
+  }
+}

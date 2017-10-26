@@ -1,0 +1,44 @@
+{
+  "Abreviatura":"Exp",
+  "Alineamientos":"Cualquiera",
+  "AtaqueBase":"1",
+  "Competencias":{
+    "Armaduras":[
+      "Ligeras"
+    ],
+    "Armas":[
+      "Sencillas",
+      "Marciales"
+    ],
+    "Escudos":[
+      "Todos"
+    ]
+  },
+  "HabilidadesClaseas":[
+    "Artesanía",
+    "Avistar",
+    "Buscar",
+    "Concentración",
+    "Esconderse",
+    "Escuchar",
+    "Montar",
+    "Moverse sigilosamente",
+    "Nadar",
+    "Oficio",
+    "Saber (dungeons)",
+    "Saber (geografía)",
+    "Saber (naturaleza)",
+    "Saltar",
+    "Sanar",
+    "Supervivencia",
+    "Trato con animales",
+    "Trepar",
+    "Uso de cuerdas"
+  ],
+  "IdiomasAdicionales":null,
+  "Salvaciones":{
+    "Fortaleza":"5/2",
+    "Reflejos":"5/2",
+    "Voluntad":"1/3"
+  }
+}

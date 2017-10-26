@@ -1,0 +1,35 @@
+{
+  "Abreviatura":"Gue",
+  "Alineamientos":"Cualquiera",
+  "AtaqueBase":"1",
+  "Competencias":{
+    "Armaduras":[
+      "Ligeras",
+      "Intermedias",
+      "Pesadas"
+    ],
+    "Armas":[
+      "Sencillas",
+      "Marciales"
+    ],
+    "Escudos":[
+      "Todos",
+      "Pavés"
+    ]
+  },
+  "HabilidadesClaseas":[
+    "Artesanía",
+    "Intimidar",
+    "Montar",
+    "Nadar",
+    "Saltar",
+    "Trato con animales",
+    "Trepar"
+  ],
+  "IdiomasAdicionales":null,
+  "Salvaciones":{
+    "Fortaleza":"5/2",
+    "Reflejos":"1/3",
+    "Voluntad":"1/3"
+  }
+}
