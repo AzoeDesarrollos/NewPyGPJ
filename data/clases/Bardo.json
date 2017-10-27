@@ -27,6 +27,113 @@
       "Todos"
     ]
   },
+  "Especial":{
+    "01":[
+      "Conocimiento de bardo",
+      "Contraoda",
+      "Fascinar",
+      "Infundir valor",
+      "Música de bardo",
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 0",
+      "Nuevo conjuro conocido de nivel 0",
+      "Nuevo conjuro conocido de nivel 0",
+      "Nuevo conjuro conocido de nivel 0"
+    ],
+    "02":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 0",
+      "Nuevo conjuro conocido de nivel 1",
+      "Nuevo conjuro conocido de nivel 1"
+    ],
+    "03":[
+      "Infundir gran aptitud",
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 0",
+      "Nuevo conjuro conocido de nivel 1"
+    ],
+    "04":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 2",
+      "Nuevo conjuro conocido de nivel 2"
+    ],
+    "05":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 2"
+    ],
+    "06":[
+      "Nivel de lanzador",
+      "Sugestión"
+    ],
+    "07":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 3",
+      "Nuevo conjuro conocido de nivel 3"
+    ],
+    "08":[
+      "Infundir valor",
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 3"
+    ],
+    "09":[
+      "Infundir grandeza",
+      "Nivel de lanzador"
+    ],
+    "10":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 3",
+      "Nuevo conjuro conocido de nivel 4",
+      "Nuevo conjuro conocido de nivel 4"
+    ],
+    "11":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 4"
+    ],
+    "12":[
+      "Nivel de lanzador",
+      "Canción de libertad"
+    ],
+    "13":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 5",
+      "Nuevo conjuro conocido de nivel 5"
+    ],
+    "14":[
+      "Nivel de lanzador",
+      "Infundir valor",
+      "Nuevo conjuro conocido de nivel 5"
+    ],
+    "15":[
+      "Nivel de lanzador",
+      "Infundir heroicidad"
+    ],
+    "16":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 1",
+      "Nuevo conjuro conocido de nivel 6",
+      "Nuevo conjuro conocido de nivel 6"
+    ],
+    "17":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 2",
+      "Nuevo conjuro conocido de nivel 6"
+    ],
+    "18":[
+      "Nivel de lanzador",
+      "Sugestión en grupo",
+      "Nuevo conjuro conocido de nivel 3"
+    ],
+    "19":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 4",
+      "Nuevo conjuro conocido de nivel 6"
+    ],
+    "20":[
+      "Nivel de lanzador",
+      "Infundir valor",
+      "Nuevo conjuro conocido de nivel 5"
+    ]
+  },
   "HabilidadesClaseas":[
     "Artesanía",
     "Averiguar intenciones",
@@ -64,6 +171,7 @@
     "Usar objeto mágico"
   ],
   "IdiomasAdicionales":null,
+  "OroInicial":"4d4x10",
   "Salvaciones":{
     "Fortaleza":"1/3",
     "Reflejos":"1/3",

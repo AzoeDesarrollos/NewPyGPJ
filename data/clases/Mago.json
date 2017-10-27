@@ -13,6 +13,74 @@
     ],
     "Escudos":[]
   },
+  "Especial":{
+    "01":[
+      "Convocar a un familiar",
+      "Inscribir rollo de pergamino",
+      "Nivel de lanzador"
+    ],
+    "02":[
+      "Nivel de lanzador"
+    ],
+    "03":[
+      "Nivel de lanzador"
+    ],
+    "04":[
+      "Nivel de lanzador"
+    ],
+    "05":[
+      "Dote adicional de Mago",
+      "Nivel de lanzador"
+    ],
+    "06":[
+      "Nivel de lanzador"
+    ],
+    "07":[
+      "Nivel de lanzador"
+    ],
+    "08":[
+      "Nivel de lanzador"
+    ],
+    "09":[
+      "Nivel de lanzador"
+    ],
+    "10":[
+      "Dote adicional de Mago",
+      "Nivel de lanzador"
+    ],
+    "11":[
+      "Nivel de lanzador"
+    ],
+    "12":[
+      "Nivel de lanzador"
+    ],
+    "13":[
+      "Nivel de lanzador"
+    ],
+    "14":[
+      "Nivel de lanzador"
+    ],
+    "15":[
+      "Dote adicional de Mago",
+      "Nivel de lanzador"
+    ],
+    "16":[
+      "Nivel de lanzador"
+    ],
+    "17":[
+      "Nivel de lanzador"
+    ],
+    "18":[
+      "Nivel de lanzador"
+    ],
+    "19":[
+      "Nivel de lanzador"
+    ],
+    "20":[
+      "Dote adicional de Mago",
+      "Nivel de lanzador"
+    ]
+  },
   "HabilidadesClaseas":[
     "Artesanía",
     "Concentración",
@@ -33,6 +101,7 @@
   "IdiomasAdicionales":[
     "Dracónico"
   ],
+  "OroInicial":"3d4x10",
   "Salvaciones":{
     "Fortaleza":"1/3",
     "Reflejos":"1/3",

@@ -25,6 +25,79 @@
     ],
     "Escudos":[]
   },
+  "Especial":{
+    "01":[
+      "Presa mejorada|Puñetazo aturdidor",
+      "Impacto sin arma mejorado",
+      "Ráfaga de golpes"
+    ],
+    "02":[
+      "Reflejos de combate|Desviar flechas",
+      "Evasión"
+    ],
+    "03":[
+      "Mente en calma"
+    ],
+    "04":[
+      "Impacto ki (mágico)",
+      "Ralentizar caída"
+    ],
+    "05":[
+      "Pureza corporal"
+    ],
+    "06":[
+      "Derribo mejorado|Desarme mejorado",
+      "Ralentizar caída"
+    ],
+    "07":[
+      "Plenitud corporal"
+    ],
+    "08":[
+      "Ralentizar caída"
+    ],
+    "09":[
+      "Evasión mejorada"
+    ],
+    "10":[
+      "Impacto ki (legal)",
+      "Ralentizar caída"
+    ],
+    "11":[
+      "Cuerpo diamantino",
+      "Ráfaga mayor"
+    ],
+    "12":[
+      "Paso abundante",
+      "Ralentizar caída"
+    ],
+    "13":[
+      "Alma diamantina"
+    ],
+    "14":[
+      "Ralentizar caída"
+    ],
+    "15":[
+      "Palma temblorosa"
+    ],
+    "16":[
+      "Impacto ki (adamantino)",
+      "Ralentizar caída"
+    ],
+    "17":[
+      "Cuerpo eterno",
+      "Lengua del sol y la luna"
+    ],
+    "18":[
+      "Ralentizar caída"
+    ],
+    "19":[
+      "Cuerpo vacío"
+    ],
+    "20":[
+      "Ralentizar caída cualquier distancia",
+      "Yo perfecto"
+    ]
+  },
   "HabilidadesClaseas":[
     "Artesanía",
     "Averiguar intenciones",
@@ -46,6 +119,7 @@
     "Trepar"
   ],
   "IdiomasAdicionales":null,
+  "OroInicial":"5d4x1",
   "Salvaciones":{
     "Fortaleza":"5/2",
     "Reflejos":"5/2",

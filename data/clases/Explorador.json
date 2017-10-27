@@ -14,6 +14,66 @@
       "Todos"
     ]
   },
+  "Especial":{
+    "01":[
+      "Empatía salvaje",
+      "Enemigo predilecto",
+      "Rastrear"
+    ],
+    "02":[
+      "Estilo de combate"
+    ],
+    "03":[
+      "Aguante"
+    ],
+    "04":[
+      "Compañero animal",
+      "Nivel de lanzador"
+    ],
+    "05":[
+      "Esconderse a plena vista",
+      "Nivel de lanzador"
+    ],
+    "06":[
+      "Estilo de combate mejorado"
+    ],
+    "07":[
+      "Zancada forestal",
+      "Nivel de lanzador"
+    ],
+    "08":[
+      "Rastreador veloz"
+    ],
+    "09":[
+      "Evasión",
+      "Nivel de lanzador"
+    ],
+    "10":[
+      "Enemigo predilecto"
+    ],
+    "11":[
+      "Maestría con estilo de combate",
+      "Nivel de lanzador"
+    ],
+    "13":[
+      "Camuflaje",
+      "Nivel de lanzador"
+    ],
+    "15":[
+      "Enemigo predilecto",
+      "Nivel de lanzador"
+    ],
+    "17":[
+      "Esconderse a plena vista",
+      "Nivel de lanzador"
+    ],
+    "19":[
+      "Nivel de lanzador"
+    ],
+    "20":[
+      "Enemigo predilecto"
+    ]
+  },
   "HabilidadesClaseas":[
     "Artesanía",
     "Avistar",
@@ -36,6 +96,7 @@
     "Uso de cuerdas"
   ],
   "IdiomasAdicionales":null,
+  "OroInicial":"6d4x10",
   "Salvaciones":{
     "Fortaleza":"5/2",
     "Reflejos":"5/2",

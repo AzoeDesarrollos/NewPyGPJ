@@ -22,6 +22,73 @@
       "Todos"
     ]
   },
+  "Especial":{
+    "01":[
+      "Analfabetismo",
+      "Furia",
+      "Movimiento rápido"
+    ],
+    "02":[
+      "Esquiva asombrosa"
+    ],
+    "03":[
+      "Sentido de las trampas"
+    ],
+    "04":[
+      "Furia"
+    ],
+    "05":[
+      "Esquiva asombrosa mejorada"
+    ],
+    "06":[
+      "Sentido de las trampas"
+    ],
+    "07":[
+      "Reducción de daño"
+    ],
+    "08":[
+      "Furia"
+    ],
+    "09":[
+      "Sentido de las trampas"
+    ],
+    "10":[
+      "Reducción de daño"
+    ],
+    "11":[
+      "Furia mayor"
+    ],
+    "12":[
+      "Furia",
+      "Sentido de las trampas"
+    ],
+    "13":[
+      "Reducción de daño"
+    ],
+    "14":[
+      "Voluntad indomable"
+    ],
+    "15":[
+      "Sentido de las trampas"
+    ],
+    "16":[
+      "Furia",
+      "Reducción de daño"
+    ],
+    "17":[
+      "Furia incansable"
+    ],
+    "18":[
+      "Sentido de las trampas"
+    ],
+    "19":[
+      "Reducción de daño"
+    ],
+    "20":[
+      "Furia",
+      "Furia poderosa"
+    ]
+  },
   "HabilidadesClaseas":[
     "Artesanía",
     "Escuchar",
@@ -34,6 +101,7 @@
     "Trepar"
   ],
   "IdiomasAdicionales":null,
+  "OroInicial":"4d4x10",
   "Salvaciones":{
     "Fortaleza":"5/2",
     "Reflejos":"1/3",

@@ -17,6 +17,41 @@
       "Pavés"
     ]
   },
+  "Especial":{
+    "01":[
+      "Dote adicional de Guerrero"
+    ],
+    "02":[
+      "Dote adicional de Guerrero"
+    ],
+    "04":[
+      "Dote adicional de Guerrero"
+    ],
+    "06":[
+      "Dote adicional de Guerrero"
+    ],
+    "08":[
+      "Dote adicional de Guerrero"
+    ],
+    "10":[
+      "Dote adicional de Guerrero"
+    ],
+    "12":[
+      "Dote adicional de Guerrero"
+    ],
+    "14":[
+      "Dote adicional de Guerrero"
+    ],
+    "16":[
+      "Dote adicional de Guerrero"
+    ],
+    "18":[
+      "Dote adicional de Guerrero"
+    ],
+    "20":[
+      "Dote adicional de Guerrero"
+    ]
+  },
   "HabilidadesClaseas":[
     "Artesanía",
     "Intimidar",
@@ -27,6 +62,7 @@
     "Trepar"
   ],
   "IdiomasAdicionales":null,
+  "OroInicial":"6d4x10",
   "Salvaciones":{
     "Fortaleza":"5/2",
     "Reflejos":"1/3",

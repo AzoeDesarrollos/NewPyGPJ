@@ -15,6 +15,70 @@
       "Todos"
     ]
   },
+  "Especial":{
+    "01":[
+      "Dominios",
+      "Expulsar muertos vivientes|Reprender muertos vivientes",
+      "Nivel de lanzador"
+    ],
+    "02":[
+      "Nivel de lanzador"
+    ],
+    "03":[
+      "Nivel de lanzador"
+    ],
+    "04":[
+      "Nivel de lanzador"
+    ],
+    "05":[
+      "Nivel de lanzador"
+    ],
+    "06":[
+      "Nivel de lanzador"
+    ],
+    "07":[
+      "Nivel de lanzador"
+    ],
+    "08":[
+      "Nivel de lanzador"
+    ],
+    "09":[
+      "Nivel de lanzador"
+    ],
+    "10":[
+      "Nivel de lanzador"
+    ],
+    "11":[
+      "Nivel de lanzador"
+    ],
+    "12":[
+      "Nivel de lanzador"
+    ],
+    "13":[
+      "Nivel de lanzador"
+    ],
+    "14":[
+      "Nivel de lanzador"
+    ],
+    "15":[
+      "Nivel de lanzador"
+    ],
+    "16":[
+      "Nivel de lanzador"
+    ],
+    "17":[
+      "Nivel de lanzador"
+    ],
+    "18":[
+      "Nivel de lanzador"
+    ],
+    "19":[
+      "Nivel de lanzador"
+    ],
+    "20":[
+      "Nivel de lanzador"
+    ]
+  },
   "HabilidadesClaseas":[
     "Artesanía",
     "Concentración",
@@ -32,6 +96,7 @@
     "Celestial",
     "Infernal"
   ],
+  "OroInicial":"5d4x10",
   "Salvaciones":{
     "Fortaleza":"5/2",
     "Reflejos":"1/3",

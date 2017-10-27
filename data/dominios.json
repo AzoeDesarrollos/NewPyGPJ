@@ -35,7 +35,7 @@
   },
   "Animal":{
     "Aptitudes":[
-      "Hablar con los animaes 1/día"
+      "Hablar con los animales 1/día"
     ],
     "Conjuros":[
       "Calmar animales",
@@ -96,7 +96,7 @@
   },
   "Destrucción":{
     "Aptitudes":[
-      "Castigar +4; daño +{0!s}; 1/día"
+      "Castigar +4; daño +{nivel!s}; 1/día"
     ],
     "Conjuros":[
       "Infligir heridas leves",
@@ -174,7 +174,7 @@
   },
   "Magia":{
     "Aptitudes":[
-      "NL Mago +{0!s} para varitas y pergaminos"
+      "NL Mago +{nivel!s} para varitas y pergaminos"
     ],
     "Conjuros":[
       "Aura mágica",
@@ -206,7 +206,7 @@
   },
   "Muerte":{
     "Aptitudes":[
-      "Toque mortal 1/día; {0!s}d6"
+      "Toque mortal 1/día; {nivel!s}d6"
     ],
     "Conjuros":[
       "Causar miedo",
@@ -329,7 +329,7 @@
   },
   "Viaje":{
     "Aptitudes":[
-      "Libertad de movimiento {0!s} asaltos"
+      "Libertad de movimiento {nivel!s} asaltos"
     ],
     "Conjuros":[
       "Zancada prodigiosa",

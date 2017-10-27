@@ -15,6 +15,68 @@
     ],
     "Escudos":[]
   },
+  "Especial":{
+    "01":[
+      "Ataque furtivo",
+      "Encontrar trampas"
+    ],
+    "02":[
+      "Evasión"
+    ],
+    "03":[
+      "Ataque furtivo",
+      "Sentido de las trampas"
+    ],
+    "04":[
+      "Esquiva asombrosa"
+    ],
+    "05":[
+      "Ataque furtivo"
+    ],
+    "06":[
+      "Sentido de las trampas"
+    ],
+    "07":[
+      "Ataque furtivo"
+    ],
+    "08":[
+      "Esquiva asombrosa mejorada"
+    ],
+    "09":[
+      "Ataque furtivo",
+      "Sentido de las trampas"
+    ],
+    "10":[
+      "Aptitud especial"
+    ],
+    "11":[
+      "Ataque furtivo"
+    ],
+    "12":[
+      "Sentido de las trampas"
+    ],
+    "13":[
+      "Aptitud especial",
+      "Ataque furtivo"
+    ],
+    "15":[
+      "Ataque furtivo",
+      "Sentido de las trampas"
+    ],
+    "16":[
+      "Aptitud especial"
+    ],
+    "17":[
+      "Ataque furtivo"
+    ],
+    "18":[
+      "Sentido de las trampas"
+    ],
+    "19":[
+      "Aptitud especial",
+      "Ataque furtivo"
+    ]
+  },
   "HabilidadesClaseas":[
     "Abrir cerraduras",
     "Artesanía",
@@ -47,6 +109,7 @@
     "Uso de cuerdas"
   ],
   "IdiomasAdicionales":null,
+  "OroInicial":"5d4x10",
   "Salvaciones":{
     "Fortaleza":"1/3",
     "Reflejos":"5/2",

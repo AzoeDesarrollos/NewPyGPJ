@@ -16,6 +16,70 @@
       "Todos"
     ]
   },
+  "Especial":{
+    "01":[
+      "Aura de bien",
+      "Castigar al mal",
+      "Detectar el mal"
+    ],
+    "02":[
+      "Imposición de manos",
+      "Gracia divina"
+    ],
+    "03":[
+      "Aura de valor",
+      "Salud divina"
+    ],
+    "04":[
+      "Expulsar muertos vivientes",
+      "Nivel de lanzador",
+      "Nivel de lanzador"
+    ],
+    "05":[
+      "Castigar al mal",
+      "Montura especial",
+      "Nivel de lanzador"
+    ],
+    "06":[
+      "Quitar enfermedad"
+    ],
+    "07":[
+      "Nivel de lanzador"
+    ],
+    "09":[
+      "Quitar enfermedad",
+      "Nivel de lanzador"
+    ],
+    "10":[
+      "Castigar al mal"
+    ],
+    "11":[
+      "Nivel de lanzador"
+    ],
+    "12":[
+      "Quitar enfermedad"
+    ],
+    "13":[
+      "Nivel de lanzador"
+    ],
+    "15":[
+      "Castigar al mal",
+      "Quitar enfermedad",
+      "Nivel de lanzador"
+    ],
+    "17":[
+      "Nivel de lanzador"
+    ],
+    "18":[
+      "Quitar enfermedad"
+    ],
+    "19":[
+      "Nivel de lanzador"
+    ],
+    "20":[
+      "Castigar al mal"
+    ]
+  },
   "HabilidadesClaseas":[
     "Artesanía",
     "Averiguar intenciones",
@@ -29,6 +93,7 @@
     "Trato con animales"
   ],
   "IdiomasAdicionales":null,
+  "OroInicial":"6d4x10",
   "Salvaciones":{
     "Fortaleza":"5/2",
     "Reflejos":"1/3",

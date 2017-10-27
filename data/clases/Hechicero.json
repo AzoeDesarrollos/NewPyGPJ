@@ -9,6 +9,112 @@
     ],
     "Escudos":[]
   },
+  "Especial":{
+    "01":[
+      "Convocar a un familiar",
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 0",
+      "Nuevo conjuro conocido de nivel 0",
+      "Nuevo conjuro conocido de nivel 0",
+      "Nuevo conjuro conocido de nivel 0",
+      "Nuevo conjuro conocido de nivel 1",
+      "Nuevo conjuro conocido de nivel 1"
+    ],
+    "02":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 0"
+    ],
+    "03":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 1"
+    ],
+    "04":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 0",
+      "Nuevo conjuro conocido de nivel 2"
+    ],
+    "05":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 1",
+      "Nuevo conjuro conocido de nivel 2"
+    ],
+    "06":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 0",
+      "Nuevo conjuro conocido de nivel 3"
+    ],
+    "07":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 1",
+      "Nuevo conjuro conocido de nivel 2",
+      "Nuevo conjuro conocido de nivel 3"
+    ],
+    "08":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 0",
+      "Nuevo conjuro conocido de nivel 4"
+    ],
+    "09":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 2",
+      "Nuevo conjuro conocido de nivel 3",
+      "Nuevo conjuro conocido de nivel 4"
+    ],
+    "10":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 0",
+      "Nuevo conjuro conocido de nivel 5"
+    ],
+    "11":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 2",
+      "Nuevo conjuro conocido de nivel 3",
+      "Nuevo conjuro conocido de nivel 4",
+      "Nuevo conjuro conocido de nivel 5"
+    ],
+    "12":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 6"
+    ],
+    "13":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 4",
+      "Nuevo conjuro conocido de nivel 5",
+      "Nuevo conjuro conocido de nivel 6"
+    ],
+    "14":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 7"
+    ],
+    "15":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 5",
+      "Nuevo conjuro conocido de nivel 6",
+      "Nuevo conjuro conocido de nivel 7"
+    ],
+    "16":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 8"
+    ],
+    "17":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 7",
+      "Nuevo conjuro conocido de nivel 8"
+    ],
+    "18":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 9"
+    ],
+    "19":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 8",
+      "Nuevo conjuro conocido de nivel 9"
+    ],
+    "20":[
+      "Nivel de lanzador",
+      "Nuevo conjuro conocido de nivel 9"
+    ]
+  },
   "HabilidadesClaseas":[
     "Artesanía",
     "Concentración",
@@ -18,6 +124,7 @@
     "Saber (arcano)"
   ],
   "IdiomasAdicionales":null,
+  "OroInicial":"3d4x10",
   "Salvaciones":{
     "Fortaleza":"1/3",
     "Reflejos":"1/3",
