@@ -101,5 +101,61 @@
     "Fortaleza":"5/2",
     "Reflejos":"5/2",
     "Voluntad":"1/3"
+  },
+  "Aptitudes":{
+    "Empatía salvaje":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Enemigo predilecto":{
+      "Intro": "Debes elegir un enemigo predilecto, si ya elegiste uno, puedes volver\na seleccionarlo.",
+      "Tipo": "v",
+      "Formato": "{1!s}º {0} ({2})",
+      "Valor_Inicial": 1,
+      "Sublista": ["Aberraciones", "Ajenos (agua)", "Ajenos (aire)", "Ajenos (buenos)","Ajenos (caóticos)", "Ajenos (fuego)", "Ajenos (malignos)","Ajenos (nativos)", "Ajenos (tierra)", "Animales", "Bestias mágicas","Cienos", "Constructos", "Dragones", "Elementales", "Fatas","Gigantes", "Humanoides (acuáticos)", "Humanoides (elfos)","Humanoides (enanos)", "Humanoides (gnolls)", "Humanoides (gnomos)","Humanoides (humanos)", "Humanoides (medianos)", "Humanoides (orcos)","Humanoides (reptilianos)", "Humanoides (trasgoides)","Humanoides monstruosos", "Muertos vivientes", "Plantas", "Sabandijas"],
+      "Aptitud":"Cualidad especial"
+    },
+    "Rastrear":{"Tipo": "a"},
+    "Estilo de combate":{
+      "Intro": "Debes elegir un estilo de combate. Esta elección no se puede cambiar.",
+      "Tipo": "u",
+      "Formato": "{0} ({2})",
+      "Sublista": ["Tiro con arco", "Combate con dos armas"],
+      "Aptitud":"Cualidad especial"
+    },
+    "Aguante":{"Tipo": "a"},
+    "Compañero animal":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Nivel de lanzador":{"Tipo":"v"},
+    "Estilo de combate mejorado":{
+      "Tipo": "r:Estilo de combate",
+      "Aptitud":"Cualidad especial"
+    },
+    "Zancada forestal":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Rastreador veloz":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Evasión":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Maestría con estilo de combate":{
+      "Tipo": "r:Estilo de combate mejorado",
+      "Aptitud":"Cualidad especial"
+    }
+    "Camuflaje":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Esconderse a plena vista":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
   }
 }

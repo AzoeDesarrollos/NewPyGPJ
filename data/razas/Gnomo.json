@@ -1,0 +1,26 @@
+{
+  "Ajustes": {"Fuerza":-2,"Constituci�n":2},
+  "Tamaño": "Pequeño",
+  "Subtipo": "gnomo",
+  "Clase predilecta":"Bardo",
+  "Especial":[
+    "Habilidad Racial:Artesanía",
+    "Habilidad Racial:Escuchar",
+    "Aptitud Sortílega:Hablar con los animales",
+    "Aptitud Sortílega:Luces danzantes",
+    "Aptitud Sortílega:Prestidigitación",
+    "Aptitud Sortílega:Sonido fantasma",
+    
+  ],
+  "Velocidad": "20'",
+  "Idioma_auto": ["Común","Gnomo"],
+  "Idioma_adic": ["Dracónico","Élfico","Enano","Gigante","Orco","Trasgo"]
+  "Aptitudes":{
+    "Habilidad Racial:Artesanía":{"Tipo":"u", "Valor":2},
+    "Habilidad Racial:Escuchar":{"Tipo":"u", "Valor":2},
+    "Aptitud Sortílega:Hablar con los animales":{"Tipo":"u"},
+    "Aptitud Sortílega:Luces danzantes":{"Tipo":"u", "Reqs":{"Carisma":10}},
+    "Aptitud Sortílega:Prestidigitación":{"Tipo":"u", "Reqs":{"Carisma":10}},
+    "Aptitud Sortílega:Sonido fantasma":{"Tipo":"u", "Reqs":{"Carisma":10}},
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Tamaño": "Mediano",
+  "Velocidad": "30'",
+  "Subtipo": "humano",
+  "Clase predilecta":"Cualquiera",
+  "Especial":[
+    "Dote Adicional",
+    "Puntos de Habilidad Adicionales"
+  ]
+  
+  "Idioma_auto":"Común",
+  
+  "Idioma_adic": ["Abisal","Acuano","Aurano","Celestial",,"Dracónico","Élfico","Enano","Gigante","Gnoll","Gnomo","Ígnaro","Infernal","Infracomún","Mediano","Orco","Silvano","Térraro","Trasgo"],
+  
+  "Aptitudes":{
+    "Dote Adicional":{"Tipo":"d"}
+    "Puntos de Habilidad Adicionales":{}
+  }
+}

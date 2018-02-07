@@ -1,0 +1,19 @@
+{
+  "Ajustes": {"Constitución":2,"Carisma":-2},
+  "Tamaño": "Mediano",
+  "Subtipo": "enano",
+  "Clase predilecta":"Guerrero",
+  "Especial":[
+    "Habilidad Racial:Artesanía",
+    "Habilidad Racial:Buscar",
+    "Habilidad Racial:Tasación"
+  ]
+  "Velocidad": "20'",
+  "Idioma_auto": ["Común","Enano"],
+  "Idioma_adic": ["Gigante","Gnomo","Infracomún","Orco","Térraro","Trasgo"],
+  "Aptitudes:":{
+    "Habilidad Racial:Artesanía":{"Tipo":"u", "Valor":2}
+    "Habilidad Racial:Buscar":{"Tipo":"u", "Valor":2}
+    "Habilidad Racial:Tasación":{"Tipo":"u", "Valor":2}
+  }
+}

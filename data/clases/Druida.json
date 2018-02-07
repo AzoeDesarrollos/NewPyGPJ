@@ -34,6 +34,7 @@
   "Especial":{
     "01":[
       "Compañero animal",
+      "Empatía salvaje",
       "Nivel de lanzador"
     ],
     "02":[
@@ -137,5 +138,72 @@
     "Fortaleza":"5/2",
     "Reflejos":"1/3",
     "Voluntad":"5/2"
+  },
+  "Aptitudes":{
+    "Empatía salvaje":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Compañero animal":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Nivel de lanzador":{"Tipo":"v"},
+    "Zancada forestal":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Pisada sin rastro":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Resistir la atracción de la naturaleza":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Inmunidad al veneno":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Forma salvaje":{
+      "Tipo": "v",
+      "Formato": "{0} {1!s}/día",
+      "Valor_Inicial": 1,
+      "Aptitud":"Cualidad especial"
+    },
+    "Forma salvaje (Grande)":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Forma salvaje (Grande, Menuda)":{
+      "Tipo": "r:Forma salvaje (Grande)",
+      "Aptitud":"Cualidad especial"
+    },
+    "Forma salvaje (Grande, Menuda, Enorme)":{
+      "Tipo": "r:Forma salvaje (Grande, Menuda)",
+      "Aptitud":"Cualidad especial"
+    },
+    "Forma salvaje (Grande, Menuda, Enorme, tipo planta)":{
+      "Tipo": "r:Forma salvaje (Grande, Menuda, Enorme)":",
+      "Aptitud":"Cualidad especial"
+    },
+    "Las mil caras":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Cuerpo eterno":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Forma salvaje (elemental)":{
+      "Tipo": "v",
+      "Formato": "{0} {1!s}/día",
+      "Valor_Inicial": 1,
+      "Aptitud":"Cualidad especial"
+    },
+    "Forma salvaje (elemental Enorme)":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
   }
 }

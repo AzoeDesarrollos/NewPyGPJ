@@ -98,5 +98,53 @@
     "Fortaleza":"5/2",
     "Reflejos":"1/3",
     "Voluntad":"1/3"
-  }
+  },
+  "Aptitudes":{
+    "Aura de bien":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Castigar al mal":{
+      "Tipo": "v",
+      "Formato": "{0} {1!s}/día",
+      "Valor_Inicial": 1,
+      "Aptitud":"Ataque especial"
+    },
+    "Detectar el mal":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Imposición de manos":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Gracia divina":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Aura de valor":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Salud divina":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Expulsar muertos vivientes":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Nivel de lanzador":{
+      "Tipo":"v"
+    },
+    "Montura especial":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Quitar enfermedad":{
+      "Tipo": "v",
+      "Formato": "{0} {1!s}/semana",
+      "Valor_Inicial": 1,
+      "Aptitud":"Cualidad especial"
+    }
 }

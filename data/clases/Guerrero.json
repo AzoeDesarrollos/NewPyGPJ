@@ -19,37 +19,37 @@
   },
   "Especial":{
     "01":[
-      "Dote adicional de Guerrero"
+      "Dote Adicional"
     ],
     "02":[
-      "Dote adicional de Guerrero"
+      "Dote Adicional"
     ],
     "04":[
-      "Dote adicional de Guerrero"
+      "Dote Adicional"
     ],
     "06":[
-      "Dote adicional de Guerrero"
+      "Dote Adicional"
     ],
     "08":[
-      "Dote adicional de Guerrero"
+      "Dote Adicional"
     ],
     "10":[
-      "Dote adicional de Guerrero"
+      "Dote Adicional"
     ],
     "12":[
-      "Dote adicional de Guerrero"
+      "Dote Adicional"
     ],
     "14":[
-      "Dote adicional de Guerrero"
+      "Dote Adicional"
     ],
     "16":[
-      "Dote adicional de Guerrero"
+      "Dote Adicional"
     ],
     "18":[
-      "Dote adicional de Guerrero"
+      "Dote Adicional"
     ],
     "20":[
-      "Dote adicional de Guerrero"
+      "Dote Adicional"
     ]
   },
   "HabilidadesClaseas":[
@@ -67,5 +67,8 @@
     "Fortaleza":"5/2",
     "Reflejos":"1/3",
     "Voluntad":"1/3"
+  },
+  "Aptitudes":{
+    "Dote Adicional":{"Tipo": "d"}
   }
 }

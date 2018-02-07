@@ -114,5 +114,67 @@
     "Fortaleza":"1/3",
     "Reflejos":"5/2",
     "Voluntad":"1/3"
+  },
+  "Aptitudes":{
+    "Ataque furtivo":{
+      "Tipo": "v", 
+      "Formato": "{0} +{1!s}d6",
+      "Valor_Inicial": 1
+      "Aptitud": "Ataque especial"
+    },
+    "Encontrar trampas":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Evasión":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Sentido de las trampas":{
+      "Tipo": "v", 
+      "Formato": "{0} +{1!s}",
+      "Valor_Inicial": 1,
+      "Aptitud":"Cualidad especial"
+    },
+    "Esquiva asombrosa":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    },
+    "Esquiva asombrosa mejorada":{
+      "Tipo": "r:Esquiva asombrosa",
+      "Aptitud":"Cualidad especial"
+    },
+    "Aptitud especial":{
+      "Tipo":"x",
+      "Sublista":{
+        "Dote adicional":{
+          "Tipo":"d"
+        },
+        "Evasión mejorada":{
+          "Tipo": "r:Evasión",
+          "Aptitud":"Cualidad especial"
+        },
+        "Lisiar con un impacto":{
+          "Tipo": "u",
+          "Aptitud":"Cualidad especial"
+        },
+        "Maestria en habilidades":{
+          "Tipo": "u",
+          "Aptitud":"Cualidad especial"
+        },
+        "Mente escurridiza":{
+          "Tipo": "u",
+          "Aptitud":"Cualidad especial"
+        },
+        "Oportunismo":{
+          "Tipo": "u",
+          "Aptitud":"Cualidad especial"
+        },
+        "Rodar a la defensiva":{
+          "Tipo":"u",
+          "Aptitud":"Cualidad especial"
+        }
+      }
+    }
   }
 }

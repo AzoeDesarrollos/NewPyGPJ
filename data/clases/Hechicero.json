@@ -129,5 +129,22 @@
     "Fortaleza":"1/3",
     "Reflejos":"1/3",
     "Voluntad":"5/2"
+  },
+  "Aptitudes":{
+    "Convocar a un familiar":{
+      "Tipo": "u",
+      "Aptitud":"Cualidad especial"
+    }
+    "Nivel de lanzador":{"Tipo":"v"},
+    "Nuevo conjuro conocido de nivel 0":{}
+    "Nuevo conjuro conocido de nivel 1":{}
+    "Nuevo conjuro conocido de nivel 2":{}
+    "Nuevo conjuro conocido de nivel 3":{}
+    "Nuevo conjuro conocido de nivel 4":{}
+    "Nuevo conjuro conocido de nivel 5":{}
+    "Nuevo conjuro conocido de nivel 6":{}
+    "Nuevo conjuro conocido de nivel 7":{}
+    "Nuevo conjuro conocido de nivel 8":{}
+    "Nuevo conjuro conocido de nivel 9":{}
   }
 }

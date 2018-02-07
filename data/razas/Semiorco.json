@@ -1,0 +1,16 @@
+{
+  "Ajustes": {"Fuerza":2,"Inteligencia":-2,"Carisma":-2},
+  "Tamaño": "Mediano",
+  "Velocidad": "30'",
+  "Clase predilecta":"Bárbaro",
+  "Especial":[
+    "Visión en la oscuridad",
+    "Sangre orca"
+  ]
+  "Subtipo": "orco",
+  "Idioma_auto": ["Común","Orco"],
+  "Idioma_adic": ["Abisal","Dracónico","Gigante","Gnoll","Trasgo"],
+  "Aptitudes":
+    "Visión en la oscuridad":{"Tipo": "u"},
+    "Sangre orca":{"Tipo": "u"}
+}

@@ -1,0 +1,19 @@
+{
+  "Ajustes": {"Destreza": 2,"Constitución":-2},
+  "Tamaño": "Mediano",
+  "Velocidad": "30'",
+  "Subtipo": "elfo",
+  "Clase predilecta":"Mago",
+  "Especial":[
+    "Habilidad Racial:Avistar",
+    "Habilidad Racial:Buscar",
+    "Habilidad Racial:Escuchar"
+  ],
+  "Idioma_auto": ["Común", "Élfico"],
+  "Idioma_adic": ["Dracónico","Gnoll","Gnomo","Mediano","Silvano","Trasgo"]
+  "Aptitudes:":{
+    "Habilidad Racial:Avistar":{"Tipo":"u", "Valor":2}
+    "Habilidad Racial:Buscar":{"Tipo":"u", "Valor":2}
+    "Habilidad Racial:Escuchar":{"Tipo":"u", "Valor":2}
+  }
+}

@@ -27,6 +27,9 @@ class Habilidad:
         d = self._mod_dote
         pen = self._pen_armadura
         return rng+c+s+r+o+d-pen
+    
+    def bon_sinergia(self):
+        return self._rangos > 5
 
     def __iadd__(self, other):
         assert type(other) is int

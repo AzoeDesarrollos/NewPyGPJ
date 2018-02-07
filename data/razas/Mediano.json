@@ -1,0 +1,23 @@
+{
+  "Ajustes": {"Fuerza":-2,"Destreza":2},
+  "Tamaño": "Pequeño",
+  "Subtipo": "mediano",
+  "Clase predilecta":"Pícaro",
+  "Especial":[
+    "Habilidad Racial:Moverse sigilosamente",
+    "Habilidad Racial:Saltar",
+    "Habilidad Racial:Trepar",
+    "Habilidad Racial:Escuchar",
+    "Bofinicación a los TS"
+  ]
+  "Velocidad": "20'",
+  "Idioma_auto": ["Común","Mediano"],
+  "Idioma_adic": ["Élfico","Enano","Gnomo","Orco","Trasgo"]
+  "Aptitudes:":{
+    "Habilidad Racial:Moverse sigilosamente":{"Tipo":"u", "Valor":2},
+    "Habilidad Racial:Saltar":{"Tipo":"u", "Valor":2},
+    "Habilidad Racial:Trepar":{"Tipo":"u", "Valor":2},
+    "Habilidad Racial:Escuchar":{"Tipo":"u", "Valor":2},
+    "Bofinicación a los TS":{"Tipo":"u", "Valor":1},
+  }
+}
