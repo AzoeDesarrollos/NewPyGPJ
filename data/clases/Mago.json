@@ -98,7 +98,7 @@
     "Saber (nobleza y realeza)",
     "Saber (religión)"
   ],
-  "IdiomasAdicionales":[
+  "Idiomas_Adicionales":[
     "Dracónico"
   ],
   "OroInicial":"3d4x10",
@@ -116,6 +116,6 @@
       "Tipo": "a"
     },
     "Nivel de lanzador":{"Tipo":"v"},
-    "Dote Adicional":{"Tipo":"d"},
+    "Dote Adicional":{"Tipo":"d"}
   }
 }

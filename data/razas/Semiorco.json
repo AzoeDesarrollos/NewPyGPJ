@@ -6,11 +6,12 @@
   "Especial":[
     "Visión en la oscuridad",
     "Sangre orca"
-  ]
+  ],
   "Subtipo": "orco",
-  "Idioma_auto": ["Común","Orco"],
-  "Idioma_adic": ["Abisal","Dracónico","Gigante","Gnoll","Trasgo"],
-  "Aptitudes":
+  "Idiomas_Automáticos": ["Común","Orco"],
+  "Idiomas_Adicionales": ["Abisal","Dracónico","Gigante","Gnoll","Trasgo"],
+  "Aptitudes":{
     "Visión en la oscuridad":{"Tipo": "u"},
     "Sangre orca":{"Tipo": "u"}
+  }
 }

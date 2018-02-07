@@ -95,7 +95,7 @@
     "Trepar",
     "Uso de cuerdas"
   ],
-  "IdiomasAdicionales":null,
+  "Idiomas_Adicionales":[],
   "OroInicial":"6d4x10",
   "Salvaciones":{
     "Fortaleza":"5/2",
@@ -148,7 +148,7 @@
     "Maestría con estilo de combate":{
       "Tipo": "r:Estilo de combate mejorado",
       "Aptitud":"Cualidad especial"
-    }
+    },
     "Camuflaje":{
       "Tipo": "u",
       "Aptitud":"Cualidad especial"
@@ -156,6 +156,6 @@
     "Esconderse a plena vista":{
       "Tipo": "u",
       "Aptitud":"Cualidad especial"
-    },
+    }
   }
 }

@@ -6,20 +6,20 @@
   "Especial":[
     "Habilidad Racial:Avistar",
     "Habilidad Racial:Buscar",
-    "Habilidad Racial:Escuchar"
-    "Habilidad Racial:Diplomacia"
+    "Habilidad Racial:Escuchar",
+    "Habilidad Racial:Diplomacia",
     "Habilidad Racial:Reunir información",
     "Sangre élfica"
-  ]
+  ],
 
-  "Idioma_auto": ["Común", "Élfico"],
-  "Idioma_adic": ["Abisal","Acuano","Aurano","Celestial",,"Dracónico","Élfico","Enano","Gigante","Gnoll","Gnomo","Ígnaro","Infernal","Infracomún","Mediano","Orco","Silvano","Térraro","Trasgo"],
+  "Idiomas_Automáticos": ["Común", "Élfico"],
+  "Idiomas_Adicionales": ["Abisal","Acuano","Aurano","Celestial","Dracónico","Élfico","Enano","Gigante","Gnoll","Gnomo","Ígnaro","Infernal","Infracomún","Mediano","Orco","Silvano","Térraro","Trasgo"],
 
   "Aptitudes:":{
-    "Habilidad Racial:Avistar":{"Tipo":"u", "Valor":1}
-    "Habilidad Racial:Buscar":{"Tipo":"u", "Valor":1}
-    "Habilidad Racial:Escuchar":{"Tipo":"u", "Valor":1}
-    "Habilidad Racial:Diplomacia":{"Tipo":"u", "Valor":2}
+    "Habilidad Racial:Avistar":{"Tipo":"u", "Valor":1},
+    "Habilidad Racial:Buscar":{"Tipo":"u", "Valor":1},
+    "Habilidad Racial:Escuchar":{"Tipo":"u", "Valor":1},
+    "Habilidad Racial:Diplomacia":{"Tipo":"u", "Valor":2},
     "Habilidad Racial:Reunir información":{"Tipo":"u", "Valor":2},
     "Sangre élfica":{"Tipo": "u"}
   }

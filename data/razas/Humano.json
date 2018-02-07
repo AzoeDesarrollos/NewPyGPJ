@@ -6,14 +6,14 @@
   "Especial":[
     "Dote Adicional",
     "Puntos de Habilidad Adicionales"
-  ]
+  ],
+  "Idiomas_Automáticos":"Común",
   
-  "Idioma_auto":"Común",
-  
-  "Idioma_adic": ["Abisal","Acuano","Aurano","Celestial",,"Dracónico","Élfico","Enano","Gigante","Gnoll","Gnomo","Ígnaro","Infernal","Infracomún","Mediano","Orco","Silvano","Térraro","Trasgo"],
+  "Idiomas_Adicionales": ["Abisal","Acuano","Aurano","Celestial","Dracónico","Élfico","Enano","Gigante","Gnoll","Gnomo",
+    "Ígnaro","Infernal","Infracomún","Mediano","Orco","Silvano","Térraro","Trasgo"],
   
   "Aptitudes":{
-    "Dote Adicional":{"Tipo":"d"}
+    "Dote Adicional":{"Tipo":"d"},
     "Puntos de Habilidad Adicionales":{}
   }
 }

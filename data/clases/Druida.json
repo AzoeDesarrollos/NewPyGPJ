@@ -1,20 +1,20 @@
 {
-  "Abreviatura":"Drd",
-  "Alineamientos":[
+  "Abreviatura": "Drd",
+  "Alineamientos": [
     "Neutral Bueno",
     "Legal Neutral",
     "Neutral Auténtico",
     "Caótico Neutral",
     "Neutral Maligno"
   ],
-  "AtaqueBase":"3/4",
-  "Competencias":{
-    "Armaduras":[
+  "AtaqueBase": "3/4",
+  "Competencias": {
+    "Armaduras": [
       "Acolchada",
       "Cuero",
       "Pieles"
     ],
-    "Armas":[
+    "Armas": [
       "Bastón",
       "Cimitarra",
       "Clava",
@@ -25,97 +25,97 @@
       "Lanza corta",
       "Lanza larga"
     ],
-    "Escudos":[
+    "Escudos": [
       "Rodela",
       "Escudo de madera ligero",
       "Escudo de madera pesado"
     ]
   },
-  "Especial":{
-    "01":[
+  "Especial": {
+    "01": [
       "Compañero animal",
       "Empatía salvaje",
       "Nivel de lanzador"
     ],
-    "02":[
+    "02": [
       "Zancada forestal",
       "Nivel de lanzador"
     ],
-    "03":[
+    "03": [
       "Pisada sin rastro",
       "Nivel de lanzador"
     ],
-    "04":[
+    "04": [
       "Resistir la atracción de la naturaleza",
       "Nivel de lanzador"
     ],
-    "05":[
+    "05": [
       "Forma salvaje",
       "Nivel de lanzador"
     ],
-    "06":[
+    "06": [
       "Forma salvaje",
       "Nivel de lanzador"
     ],
-    "07":[
+    "07": [
       "Forma salvaje",
       "Nivel de lanzador"
     ],
-    "08":[
+    "08": [
       "Forma salvaje (Grande)",
       "Nivel de lanzador"
     ],
-    "09":[
+    "09": [
       "Inmunidad al veneno",
       "Nivel de lanzador"
     ],
-    "10":[
+    "10": [
       "Forma salvaje",
       "Nivel de lanzador"
     ],
-    "11":[
+    "11": [
       "Forma salvaje (Grande, Menuda)",
       "Nivel de lanzador"
     ],
-    "12":[
+    "12": [
       "Forma salvaje (Grande, Menuda, Enorme, tipo planta)",
       "Nivel de lanzador"
     ],
-    "13":[
+    "13": [
       "Las mil caras",
       "Nivel de lanzador"
     ],
-    "14":[
+    "14": [
       "Forma salvaje",
       "Nivel de lanzador"
     ],
-    "15":[
+    "15": [
       "Cuerpo eterno",
       "Forma salvaje (Grande, Menuda, Enorme)",
       "Nivel de lanzador"
     ],
-    "16":[
+    "16": [
       "Forma salvaje (elemental)",
       "Nivel de lanzador"
     ],
-    "17":[
+    "17": [
       "Nivel de lanzador"
     ],
-    "18":[
+    "18": [
       "Forma salvaje",
       "Forma salvaje (elemental)",
       "Nivel de lanzador"
     ],
-    "19":[
+    "19": [
       "Nivel de lanzador"
     ],
-    "20":[
+    "20": [
       "Forma salvaje (elemental)",
       "Forma salvaje (elemental Enorme)",
       "Nivel de lanzador"
     ]
   },
-  "HabilidadesClaseas":[
+  "HabilidadesClaseas": [
     "Artesanía",
     "Avistar",
     "Concentración",
@@ -130,80 +130,82 @@
     "Supervivencia",
     "Trato con animales"
   ],
-  "IdiomasAdicionales":[
+  "Idiomas_Adicionales": [
     "Silvano"
   ],
-  "OroInicial":"2d4x10",
-  "Salvaciones":{
-    "Fortaleza":"5/2",
-    "Reflejos":"1/3",
-    "Voluntad":"5/2"
+  "OroInicial": "2d4x10",
+  "Salvaciones": {
+    "Fortaleza": "5/2",
+    "Reflejos": "1/3",
+    "Voluntad": "5/2"
   },
-  "Aptitudes":{
-    "Empatía salvaje":{
+  "Aptitudes": {
+    "Empatía salvaje": {
       "Tipo": "u",
-      "Aptitud":"Cualidad especial"
+      "Aptitud": "Cualidad especial"
     },
-    "Compañero animal":{
+    "Compañero animal": {
       "Tipo": "u",
-      "Aptitud":"Cualidad especial"
+      "Aptitud": "Cualidad especial"
     },
-    "Nivel de lanzador":{"Tipo":"v"},
-    "Zancada forestal":{
+    "Nivel de lanzador": {
+      "Tipo": "v"
+    },
+    "Zancada forestal": {
       "Tipo": "u",
-      "Aptitud":"Cualidad especial"
+      "Aptitud": "Cualidad especial"
     },
-    "Pisada sin rastro":{
+    "Pisada sin rastro": {
       "Tipo": "u",
-      "Aptitud":"Cualidad especial"
+      "Aptitud": "Cualidad especial"
     },
-    "Resistir la atracción de la naturaleza":{
+    "Resistir la atracción de la naturaleza": {
       "Tipo": "u",
-      "Aptitud":"Cualidad especial"
+      "Aptitud": "Cualidad especial"
     },
-    "Inmunidad al veneno":{
+    "Inmunidad al veneno": {
       "Tipo": "u",
-      "Aptitud":"Cualidad especial"
+      "Aptitud": "Cualidad especial"
     },
-    "Forma salvaje":{
+    "Forma salvaje": {
       "Tipo": "v",
       "Formato": "{0} {1!s}/día",
       "Valor_Inicial": 1,
-      "Aptitud":"Cualidad especial"
+      "Aptitud": "Cualidad especial"
     },
-    "Forma salvaje (Grande)":{
+    "Forma salvaje (Grande)": {
       "Tipo": "u",
-      "Aptitud":"Cualidad especial"
+      "Aptitud": "Cualidad especial"
     },
-    "Forma salvaje (Grande, Menuda)":{
+    "Forma salvaje (Grande, Menuda)": {
       "Tipo": "r:Forma salvaje (Grande)",
-      "Aptitud":"Cualidad especial"
+      "Aptitud": "Cualidad especial"
     },
-    "Forma salvaje (Grande, Menuda, Enorme)":{
+    "Forma salvaje (Grande, Menuda, Enorme)": {
       "Tipo": "r:Forma salvaje (Grande, Menuda)",
-      "Aptitud":"Cualidad especial"
+      "Aptitud": "Cualidad especial"
     },
-    "Forma salvaje (Grande, Menuda, Enorme, tipo planta)":{
-      "Tipo": "r:Forma salvaje (Grande, Menuda, Enorme)":",
-      "Aptitud":"Cualidad especial"
+    "Forma salvaje (Grande, Menuda, Enorme, tipo planta)": {
+      "Tipo": "r:Forma salvaje (Grande, Menuda, Enorme)",
+      "Aptitud": "Cualidad especial"
     },
-    "Las mil caras":{
+    "Las mil caras": {
       "Tipo": "u",
-      "Aptitud":"Cualidad especial"
+      "Aptitud": "Cualidad especial"
     },
-    "Cuerpo eterno":{
+    "Cuerpo eterno": {
       "Tipo": "u",
-      "Aptitud":"Cualidad especial"
+      "Aptitud": "Cualidad especial"
     },
-    "Forma salvaje (elemental)":{
+    "Forma salvaje (elemental)": {
       "Tipo": "v",
       "Formato": "{0} {1!s}/día",
       "Valor_Inicial": 1,
-      "Aptitud":"Cualidad especial"
+      "Aptitud": "Cualidad especial"
     },
-    "Forma salvaje (elemental Enorme)":{
+    "Forma salvaje (elemental Enorme)": {
       "Tipo": "u",
-      "Aptitud":"Cualidad especial"
-    },
+      "Aptitud": "Cualidad especial"
+    }
   }
 }

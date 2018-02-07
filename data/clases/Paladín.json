@@ -92,7 +92,7 @@
     "Sanar",
     "Trato con animales"
   ],
-  "IdiomasAdicionales":null,
+  "Idiomas_Adicionales":[],
   "OroInicial":"6d4x10",
   "Salvaciones":{
     "Fortaleza":"5/2",
@@ -147,4 +147,5 @@
       "Valor_Inicial": 1,
       "Aptitud":"Cualidad especial"
     }
+}
 }

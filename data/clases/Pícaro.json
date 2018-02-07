@@ -108,7 +108,7 @@
     "Usar objeto mágico",
     "Uso de cuerdas"
   ],
-  "IdiomasAdicionales":null,
+  "Idiomas_Adicionales":[],
   "OroInicial":"5d4x10",
   "Salvaciones":{
     "Fortaleza":"1/3",
@@ -119,7 +119,7 @@
     "Ataque furtivo":{
       "Tipo": "v", 
       "Formato": "{0} +{1!s}d6",
-      "Valor_Inicial": 1
+      "Valor_Inicial": 1,
       "Aptitud": "Ataque especial"
     },
     "Encontrar trampas":{

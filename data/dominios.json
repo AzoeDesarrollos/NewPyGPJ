@@ -35,7 +35,8 @@
   },
   "Animal":{
     "Aptitudes":[
-      "Hablar con los animales 1/día"
+      "Hablar con los animales 1/día",
+      "Habilidad clásea:Saber (naturaleza)"
     ],
     "Conjuros":[
       "Calmar animales",
@@ -144,6 +145,10 @@
     ]
   },
   "Guerra":{
+    "Aptitudes":[
+      "Competencia con arma marcial ({predilecta})",
+      "Soltura con un arma ({predilecta})"
+    ],
     "Conjuros":[
       "Arma mágica",
       "Arma espiritual",
@@ -237,6 +242,18 @@
     ]
   },
   "Saber":{
+    "Aptitudes":[
+      "Habilidad clásea:Saber (arcano)",
+      "Habilidad clásea:Saber (arquitectura e ingeniería)",
+      "Habilidad clásea:Saber (dungeons)",
+      "Habilidad clásea:Saber (geografía)",
+      "Habilidad clásea:Saber (historia)",
+      "Habilidad clásea:Saber (local)",
+      "Habilidad clásea:Saber (los planos)",
+      "Habilidad clásea:Saber (naturaleza)",
+      "Habilidad clásea:Saber (nobleza y realeza)",
+      "Habilidad clásea:Saber (religión)"
+    ],
     "Conjuros":[
       "Detectar puertas secretas",
       "Detectar pensamientos",
@@ -282,6 +299,11 @@
     ]
   },
   "Superchería":{
+    "Aptitudes":[
+      "Habilidad clásea:Disfrazarse",
+      "Habilidad clásea:Engañar",
+      "Habilidad clásea:Esconderse"
+    ],
     "Conjuros":[
       "Disfrazarse",
       "Invisibilidad",
@@ -313,7 +335,8 @@
   },
   "Vegetal":{
     "Aptitudes":[
-      "Expulsar criaturas vegetales"
+      "Expulsar criaturas vegetales",
+      "Habilidad clásea:Saber (naturaleza)"
     ],
     "Conjuros":[
       "Enmarañar",
@@ -329,7 +352,8 @@
   },
   "Viaje":{
     "Aptitudes":[
-      "Libertad de movimiento {nivel!s} asaltos"
+      "Libertad de movimiento {nivel!s} asaltos",
+      "Habilidad clásea:Supervivencia"
     ],
     "Conjuros":[
       "Zancada prodigiosa",

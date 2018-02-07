@@ -3,7 +3,7 @@
     "Modificador":"Destreza",
     "Penalizador":0,
     "SEntrenada":true,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Artesanía":{
     "Modificador":"Inteligencia",
@@ -25,7 +25,7 @@
     "Modificador":"Sabiduría",
     "Penalizador":0,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Buscar":{
     "Modificador":"Inteligencia",
@@ -39,7 +39,7 @@
     "Modificador":"Constitución",
     "Penalizador":0,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Conocimiento de conjuros":{
     "Modificador":"Inteligencia",
@@ -61,13 +61,13 @@
     "Modificador":"Carisma",
     "Penalizador":0,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Disfrazarse":{
     "Modificador":"Carisma",
     "Penalizador":0,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Engañar":{
     "Modificador":"Carisma",
@@ -84,7 +84,7 @@
     "Modificador":"Destreza",
     "Penalizador":1,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Escapismo":{
     "Modificador":"Destreza",
@@ -98,73 +98,73 @@
     "Modificador":"Destreza",
     "Penalizador":1,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Escuchar":{
     "Modificador":"Sabiduría",
     "Penalizador":0,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Falsificar":{
     "Modificador":"Inteligencia",
     "Penalizador":0,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Hablar un idioma":{
     "Modificador":null,
     "Penalizador":0,
     "SEntrenada":true,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Interpretar":{
     "Modificador":"Carisma",
     "Penalizador":0,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Intimidar":{
     "Modificador":"Inteligencia",
     "Penalizador":0,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Inutilizar mecanismo":{
     "Modificador":"Inteligencia",
     "Penalizador":0,
     "SEntrenada":true,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Juego de manos":{
     "Modificador":"Destreza",
     "Penalizador":1,
     "SEntrenada":true,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Montar":{
     "Modificador":"Destreza",
     "Penalizador":0,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Moverse sigilosamente":{
     "Modificador":"Destreza",
     "Penalizador":1,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Nadar":{
     "Modificador":"Fuerza",
     "Penalizador":2,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Oficio":{
     "Modificador":"Sabiduría",
     "Penalizador":0,
     "SEntrenada":true,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Piruetas":{
     "Modificador":"Destreza",
@@ -179,7 +179,7 @@
     "Modificador":"Carisma",
     "Penalizador":0,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Saber (arcano)":{
     "Modificador":"Inteligencia",
@@ -274,7 +274,7 @@
     "Modificador":"Sabiduría",
     "Penalizador":0,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Supervivencia":{
     "Modificador":"Sabiduría",
@@ -288,7 +288,7 @@
     "Modificador":"Inteligencia",
     "Penalizador":0,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Trato con animales":{
     "Modificador":"Carisma",
@@ -303,7 +303,7 @@
     "Modificador":"Fuerza",
     "Penalizador":1,
     "SEntrenada":false,
-    "Sinergias":null
+    "Sinergias":[]
   },
   "Usar objeto mágico":{
     "Modificador":"Carisma",
