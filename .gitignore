@@ -1,10 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
-__pycache__/
 apts.json
-bclases.json
-dotes.json
 habs.json
-/idiomas.json
-/conjuros.json
 /dominios.json
+/dts.json
+/temp.py
+/escuelas.json

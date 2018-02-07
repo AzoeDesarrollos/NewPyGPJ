@@ -1,0 +1,560 @@
+{
+  "Abstención de materiales":{
+    "Descripcion":"Lanzas conjuros sin componentes materiales"
+  },
+  "Acrobático":{
+    "Descripcion":"Bonificador +2 a las pruebas de Piruetas y Saltar"
+  },
+  "Afinidad con animales":{
+    "Descripcion":"Bonificador +2 a las pruebas de Montar y Trato con animales"
+  },
+  "Aguante":{
+    "Descripcion":"Bonificador +4 en las pruebas o salvaciones para resistir el daño no letal"
+  },
+  "Alerta":{
+    "Descripcion":"Bonificador +2 a las pruebas de Avistar y Escuchar"
+  },
+  "Ampliar conjuro":{
+    "Descripcion":"Dobla el alcance del conjuro"
+  },
+  "Aplicado":{
+    "Descripcion":"Bonificador +2 a las pruebas de Descifrar escritura y Tasación"
+  },
+  "Apresurar conjuro":{
+    "Descripcion":"Lanzas un conjuro como acción gratuita"
+  },
+  "Arrollar mejorado":{
+    "Descripcion":"Bonificador +4 a los intentos de arrollar, sin ataque de oportunidad",
+    "Requisitos":[
+      "Ataque poderoso"
+    ]
+  },
+  "Ataque al galope":{
+    "Descripcion":"Puedes moverte antes y después de cargar con una montura",
+    "Requisitos":[
+      "Combatir desde una montura"
+    ]
+  },
+  "Ataque de torbellino":{
+    "Descripcion":"Un ataque cuerpo a cuerpo contra cada oponente a no más de 5'",
+    "Requisitos":[
+      "Destreza 13",
+      "Ataque elástico",
+      "Esquiva",
+      "Movilidad",
+      "Pericia en combate",
+      "Ataque Base +4"
+    ]
+  },
+  "Ataque elástico":{
+    "Descripcion":"Puedes mover antes y después de un ataque cuerpo a cuerpo",
+    "Requisitos":[
+      "Destreza 13",
+      "Movilidad",
+      "Esquiva",
+      "Ataque Base +4"
+    ]
+  },
+  "Ataque poderoso":{
+    "Descripcion":"Puedes cambiar bonificador de ataque por daño (máximo tu ataque base)",
+    "Requisitos":[
+      "Fuerza 13"
+    ]
+  },
+  "Atlético":{
+    "Descripcion":"Bonificador +2 a las pruebas de Nadar y Trepar"
+  },
+  "Atrapar flechas":{
+    "Descripcion":"Puedes atrapar un ataque a distancia desviado",
+    "Requisitos":[
+      "Destreza 15",
+      "Impacto sin arma mejorado",
+      "Desviar flechas"
+    ]
+  },
+  "Aumentar convocación":{
+    "Descripcion":"Las criaturas convocadas obtienen +4 a Fuerza y +4 a Constitución",
+    "Requisitos":[
+      "Soltura con una escuela de magia"
+    ]
+  },
+  "Autosuficiente":{
+    "Descripcion":"Bonificador +2 a las pruebas de Sanar y Supervivencia"
+  },
+  "Carga impetuosa":{
+    "Descripcion":"Doble daño cuando se carga con una montura",
+    "Requisitos":[
+      "Ataque al galope",
+      "Combatir desde una montura"
+    ]
+  },
+  "Combate con dos armas":{
+    "Descripcion":"Reduce en 2 los penalizadores por combatir con dos armas",
+    "Requisitos":[
+      "Destreza 15"
+    ]
+  },
+  "Combate con dos armas mayor":{
+    "Descripcion":"Obtienes un tercer ataque con la mano torpe",
+    "Requisitos":[
+      "Destreza 19",
+      "Combate con dos armas",
+      "Combate con dos armas mejorado",
+      "Ataque Base +11"
+    ]
+  },
+  "Combate con dos armas mejorado":{
+    "Descripcion":"Obtienes un segundo ataque con la mano torpe",
+    "Requisitos":[
+      "Destreza 17",
+      "Combate con dos armas",
+      "Ataque Base +6"
+    ]
+  },
+  "Combatir desde una montura":{
+    "Descripcion":"Niega los impactos causados a la montura con una prueba de Montar",
+    "Requisitos":[
+      "Montar 1"
+    ]
+  },
+  "Competencia con arma (exótica)":{
+    "Descripcion":"Sin penalizador de ataque con un arma exótica específica",
+    "Requisitos":[
+      "Ataque Base +1"
+    ]
+  },
+  "Competencia con arma (marcial)":{
+    "Descripcion":"Sin penalizador en los ataques con un arma marcial específica"
+  },
+  "Competencia con arma (sencilla)":{
+    "Descripcion":"Anula el penalizador -4 en las tiradas de ataque con las armas sencillas"
+  },
+  "Competencia con armadura (intermedia)":{
+    "Descripcion":"Anula el penalizador de armadura a las tiradas de ataque",
+    "Requisitos":[
+      "Competencia con armadura (ligera)"
+    ]
+  },
+  "Competencia con armadura (ligera)":{
+    "Descripcion":"Anula el penalizador de armadura a las tiradas de ataque"
+  },
+  "Competencia con armadura (pesada)":{
+    "Descripcion":"Anula el penalizador de armadura a las tiradas de ataque",
+    "Requisitos":[
+      "Competencia con armadura (ligera)",
+      "Competencia con armadura (intermedia)"
+    ]
+  },
+  "Competencia con escudo":{
+    "Descripcion":"Anula el penalizador de armadura a las tiradas de ataque"
+  },
+  "Competencia con escudo pavés":{
+    "Descripcion":"Anula el penalizador de armadura a las tiradas de ataque",
+    "Requisitos":[
+      "Competencia con escudo"
+    ]
+  },
+  "Conjurar en combate":{
+    "Descripcion":"Bonificador +4 en las pruebas de Concentración al lanzar conjuros a la defensiva"
+  },
+  "Conjurar en silencio":{
+    "Descripcion":"Lanzas conjuros sin el componente verbal"
+  },
+  "Conjurar sin moverse":{
+    "Descripcion":"Lanzas conjuros sin el componente somático"
+  },
+  "Conjuros naturales":{
+    "Descripcion":"Puedes lanzar conjuros mientras usas forma salvaje",
+    "Requisitos":[
+      "Sabiduría 13",
+      "Forma salvaje"
+    ]
+  },
+  "Conjuros penetrantes":{
+    "Descripcion":"Bonificador +2 a las pruebas de nivel de lanzador para superar la RC"
+  },
+  "Conjuros penetrantes mayores":{
+    "Descripcion":"Bonificador +4 a las pruebas de nivel de lanzador para superar la RC",
+    "Requisitos":[
+      "Conjuros penetrantes"
+    ]
+  },
+  "Contraconjuro mejorado":{
+    "Descripcion":"Contraconjurar con un conjuro de la misma escuela"
+  },
+  "Correr":{
+    "Descripcion":"Corres a 5 veces la velocidad normal, bonificador +4 en las pruebas de Saltar tras una carrera inicial"
+  },
+  "Crítico mejorado":{
+    "Descripcion":"Duplica el rango de amenaza de un arma",
+    "Requisitos":[
+      "Ataque Base +8"
+    ]
+  },
+  "Dedos ágiles":{
+    "Descripcion":"Bonificador +2 a las pruebas de Abrir cerraduras e Inutilizar mecanismo"
+  },
+  "Defensa con dos armas":{
+    "Descripcion":"El arma de la mano torpe otorga un bonificador +1 de escudo a la CA",
+    "Requisitos":[
+      "Combate con dos armas"
+    ]
+  },
+  "Derribo mejorado":{
+    "Descripcion":"Bonificador +4 a los intentos de derribo, sin ataque de oportunidad",
+    "Requisitos":[
+      "Pericia en combate"
+    ]
+  },
+  "Desarme mejorado":{
+    "Descripcion":"Bonificador +4 a los intentos de desarmar, sin ataque de oportunidad",
+    "Requisitos":[
+      "Pericia en combate"
+    ]
+  },
+  "Desenvainado rápido":{
+    "Descripcion":"Desenvainar armas como acción gratuita",
+    "Requisitos":[
+      "Ataque Base +1"
+    ]
+  },
+  "Desviar flechas":{
+    "Descripcion":"Desvías un ataque a distancia por asalto",
+    "Requisitos":[
+      "Destreza 13",
+      "Impacto sin arma mejorado"
+    ]
+  },
+  "Disparar desde una montura":{
+    "Descripcion":"Reduce a la mitad la penalización por realizar ataques a distancia desde una montura",
+    "Requisitos":[
+      "Combatir desde una montura"
+    ]
+  },
+  "Disparo a bocajarro":{
+    "Descripcion":"Bonificador +1 al ataque a distancia el daño a menos de 30'"
+  },
+  "Disparo a la carrera":{
+    "Descripcion":"Puedes moverte antes y después de un ataque a distancia",
+    "Requisitos":[
+      "Destreza 13",
+      "Disparo a bocajarro",
+      "Movilidad",
+      "Esquiva",
+      "Ataque Base +4"
+    ]
+  },
+  "Disparo a larga distancia":{
+    "Descripcion":"Aumenta el alcance en un 50% o un 100%",
+    "Requisitos":[
+      "Disparo a bocajarro"
+    ]
+  },
+  "Disparo preciso":{
+    "Descripcion":"Anula el penalizador -4 por disparar a un combate cuerpo a cuerpo",
+    "Requisitos":[
+      "Disparo a bocajarro"
+    ]
+  },
+  "Disparo preciso mejorado":{
+    "Descripcion":"Ignora cualquier cobertura/ocultación inferior a total en los ataques a distancia",
+    "Requisitos":[
+      "Destreza 19",
+      "Disparo a bocajarro",
+      "Disparo preciso",
+      "Ataque Base +11"
+    ]
+  },
+  "Disparo rápido":{
+    "Descripcion":"Un ataque a distancia adicional cada asalto",
+    "Requisitos":[
+      "Destreza 13",
+      "Disparo a bocajarro"
+    ]
+  },
+  "Disparos múltiples":{
+    "Descripcion":"Disparas dos o más flechas simultáneamente",
+    "Requisitos":[
+      "Destreza 17",
+      "Disparo a bocajarro",
+      "Disparo rápido",
+      "Ataque Base +6"
+    ]
+  },
+  "Dureza":{
+    "Descripcion":"+3 puntos de golpe"
+  },
+  "Duro de pelar":{
+    "Descripcion":"Permaneces consciente entre -1 y -9 pg",
+    "Requisitos":[
+      "Aguante"
+    ]
+  },
+  "Elaborar poción":{
+    "Descripcion":"Crear pociones mágicas",
+    "Requisitos":[
+      "Nivel de Lanzador 3"
+    ]
+  },
+  "Embestida mejorada":{
+    "Descripcion":"Bonificador +4 a los intentos de embestida, sin ataque de oportunidad",
+    "Requisitos":[
+      "Fuerza 13",
+      "Ataque poderoso"
+    ]
+  },
+  "Engañoso":{
+    "Descripcion":"Bonificador +2 a las pruebas de Disfrazarse y Falsificar"
+  },
+  "Especialización con un arma":{
+    "Descripcion":"Bonificador +2 a las tiradas de daño con el arma elegida",
+    "Requisitos":[
+      "Soltura con un arma",
+      "Guerrero 4"
+    ]
+  },
+  "Especialización mayor con un arma":{
+    "Descripcion":"Bonificador +4 a las tiradas de daño con el arma elegida",
+    "Requisitos":[
+      "Soltura con un arma",
+      "Soltura mayor con un arma",
+      "Especialización con un arma",
+      "Guerrero 12"
+    ]
+  },
+  "Esquiva":{
+    "Descripcion":"Bonificador +1 a la CA contra un objetivo determinado",
+    "Requisitos":[
+      "Destreza 13"
+    ]
+  },
+  "Expulsión incrementada":{
+    "Descripcion":"Puedes expulsar o reprender 4 veces más por día",
+    "Requisitos":[
+      "Expulsar muertos vivientes|Reprender muertos vivientes"
+    ]
+  },
+  "Expulsión mejorada":{
+    "Descripcion":"+1 nivel para las pruebas de expulsión",
+    "Requisitos":[
+      "Expulsar muertos vivientes|Reprender muertos vivientes"
+    ]
+  },
+  "Extender conjuro":{
+    "Descripcion":"Dobla el área de un conjuro"
+  },
+  "Fabricar armas y armaduras mágicas":{
+    "Descripcion":"Crea armas, armaduras y escudos mágicos",
+    "Requisitos":[
+      "Nivel de Lanzador 5"
+    ]
+  },
+  "Fabricar bastón":{
+    "Descripcion":"Fabricar bastones",
+    "Requisitos":[
+      "Nivel de Lanzador 12"
+    ]
+  },
+  "Fabricar cetro":{
+    "Descripcion":"Fabricar cetros",
+    "Requisitos":[
+      "Nivel de Lanzador 9"
+    ]
+  },
+  "Fabricar objeto maravilloso":{
+    "Descripcion":"Fabricar objetos maravillosos",
+    "Requisitos":[
+      "Nivel de Lanzador 3"
+    ]
+  },
+  "Fabricar varita":{
+    "Descripcion":"Fabricar varitas",
+    "Requisitos":[
+      "Nivel de Lanzador 5"
+    ]
+  },
+  "Facilidad para la magia":{
+    "Descripcion":"Bonificador +2 a las pruebas de Conocimiento de conjuros y Usar objeto mágico"
+  },
+  "Finta mejorada":{
+    "Descripcion":"Fintar en combate como acción de movimiento",
+    "Requisitos":[
+      "Pericia en combate"
+    ]
+  },
+  "Forjar anillo":{
+    "Descripcion":"Crear anillos mágicos",
+    "Requisitos":[
+      "Nivel de Lanzador 12"
+    ]
+  },
+  "Golpe con el escudo mejorado":{
+    "Descripcion":"Conservas el bonificador a la CA cuando golpeas con el escudo",
+    "Requisitos":[
+      "Competencia con escudo"
+    ]
+  },
+  "Gran Fortaleza":{
+    "Descripcion":"Bonificador +2 a las salvaciones de Fortaleza"
+  },
+  "Gran Hendedura":{
+    "Descripcion":"Sin límite a los ataques de Hendedura por asalto",
+    "Requisitos":[
+      "Ataque poderoso",
+      "Hendedura",
+      "Ataque Base +4"
+    ]
+  },
+  "Hendedura":{
+    "Descripcion":"Ataque cuerpo a cuerpo adicional después de acabar con un objetivo",
+    "Requisitos":[
+      "Ataque poderoso"
+    ]
+  },
+  "Impacto sin arma mejorado":{
+    "Descripcion":"Se te considera armado aunque estés desarmado"
+  },
+  "Iniciativa mejorada":{
+    "Descripcion":"Bonificador +4 a las pruebas de iniciativa"
+  },
+  "Inscribir rollo de pergamino":{
+    "Descripcion":"Crear rollos de pergamino mágicos",
+    "Requisitos":[
+      "Nivel de Lanzador 1"
+    ]
+  },
+  "Intensificar conjuro":{
+    "Descripcion":"Lanzas un conjuro a mayor nivel"
+  },
+  "Investigador":{
+    "Descripcion":"Bonificador +2 a las pruebas de Buscar y Reunir información"
+  },
+  "Liderazgo":{
+    "Descripcion":"Atraes allegados y seguidores",
+    "Requisitos":[
+      "Nivel de Personaje 6"
+    ]
+  },
+  "Lucha a ciegas":{
+    "Descripcion":"Vuelve a tirar la posibilidad de fallo por ocultación"
+  },
+  "Maestría en conjuros":{
+    "Descripcion":"Puedes preparar algunos conjuros sin un libro de conjuros",
+    "Requisitos":[
+      "Mago 1"
+    ]
+  },
+  "Manos hábiles":{
+    "Descripcion":"Bonificador +2 a las pruebas de Juego de manos y Uso de cuerdas"
+  },
+  "Maximizar conjuro":{
+    "Descripcion":"Maximiza los efectos numéricos variables de un conjuro"
+  },
+  "Movilidad":{
+    "Descripcion":"Bonificador +4 a la CA contra algunos ataques de oportunidad",
+    "Requisitos":[
+      "Destreza 13",
+      "Esquiva"
+    ]
+  },
+  "Negociador":{
+    "Descripcion":"Bonificador +2 a las pruebas de Averiguar intensiones y Diplomacia"
+  },
+  "Pericia en combate":{
+    "Descripcion":"Cambia bonificador de ataque por CA (máximo 5 puntos)",
+    "Requisitos":[
+      "Inteligencia 13"
+    ]
+  },
+  "Persuasivo":{
+    "Descripcion":"Bonificador +2 a las pruebas de Engañar e Intimidar"
+  },
+  "Pisotear":{
+    "Descripcion":"El objetivo no puede evitar un ataque de arrollar desde una montura",
+    "Requisitos":[
+      "Combatir desde una montura"
+    ]
+  },
+  "Potenciar conjuro":{
+    "Descripcion":"Aumenta los efectos numéricos variables de un conjuro en un 50%"
+  },
+  "Presa mejorada":{
+    "Descripcion":"Bonificador +4 a las pruebas de presa, sin ataque de oportunidad",
+    "Requisitos":[
+      "Destreza 13",
+      "Impacto sin arma mejorado"
+    ]
+  },
+  "Prolongar conjuro":{
+    "Descripcion":"Dobla la duración del conjuro"
+  },
+  "Puñetazo aturdidor":{
+    "Descripcion":"Aturde a un oponente con un impacto sin arma",
+    "Requisitos":[
+      "Destreza 13",
+      "Sabiduría 13",
+      "Impacto sin arma mejorado",
+      "Ataque Base +8"
+    ]
+  },
+  "Rastrear":{
+    "Descripcion":"Usas la habilidad de Supervivencia para rastrear"
+  },
+  "Recarga rápida":{
+    "Descripcion":"Recargas las ballestas más rápido",
+    "Requisitos":[]
+  },
+  "Reflejos de combate":{
+    "Descripcion":"Ataques de oportunidad adicionales"
+  },
+  "Reflejos rápidos":{
+    "Descripcion":"Bonificador +2 a las salvaciones de Reflejos"
+  },
+  "Romper arma mejorado":{
+    "Descripcion":"Bonificador +4 a los intentos de romper armas, sin ataque de oportunidad",
+    "Requisitos":[
+      "Fuerza 13",
+      "Ataque poderoso"
+    ]
+  },
+  "Sigiloso":{
+    "Descripcion":"Bonificador +2 a las pruebas de Esconderse y Moverse sigilosamente"
+  },
+  "Soltura con un arma":{
+    "Descripcion":"Bonificador +1 a las tiradas de ataque con el arma elegida",
+    "Requisitos":[
+      "Ataque Base +1"
+    ]
+  },
+  "Soltura con una escuela de magia":{
+    "Descripcion":"Bonificador +1 a las CD de las salvaciones contra una escuela de magia\ndeterminada"
+  },
+  "Soltura con una habilidad":{
+    "Descripcion":"Bonificador +3 a las pruebas con la habilidad elegida"
+  },
+  "Soltura mayor con un arma":{
+    "Descripcion":"Bonificador +2 a las tiradas de ataque con el arma elegida",
+    "Requisitos":[
+      "Soltura con un arma",
+      "Guerrero 8"
+    ]
+  },
+  "Soltura mayor con una escuela de magia":{
+    "Descripcion":"Bonificador +1 a las CD de las salvaciones contra una escuela de magia\ndeterminada",
+    "Requisitos":[
+      "Soltura con una escuela de magia"
+    ]
+  },
+  "Sutileza con las armas":{
+    "Descripcion":"Utiliza el modificador de Destreza en lugar del de Fuerza en las tiradas\nde ataque con armas ligeras de cuerpo a cuerpo",
+    "Requisitos":[
+      "Ataque Base +1"
+    ]
+  },
+  "Voluntad de hierro":{
+    "Descripcion":"Bonificador +2 en las salvaciones de Voluntad"
+  },
+  "Ágil":{
+    "Descripcion":"Bonificador +2 a las pruebas de Equilibrio y Escapismo"
+  }
+}
