@@ -14,10 +14,5 @@ class Clase:
         self.reflejos = eval(data['Salvaciones']['Reflejos'])
         self.fortaleza = eval(data['Salvaciones']['Fortaleza'])
         self.voluntad = eval(data['Salvaciones']['Voluntad'])
-        self.habilidades = []
-        for clasea in data['HabilidadesClaseas']:
-            self.habilidades.append(clasea)
-        self.idiomas = []
-
-        for idioma in data['Idiomas_Adicionales']:
-            self.idiomas.append(idioma)
+        self.habilidades = [i for i in data['HabilidadesClaseas']]
+        self.idiomas = [i for i in data['Idiomas_Adicionales']]
