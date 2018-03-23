@@ -9,11 +9,11 @@
     "Habilidad Racial:Buscar",
     "Habilidad Racial:Escuchar"
   ],
-  "Idiomas_Automáticos": ["Común", "Élfico"],
+  "Idiomas_Automáticos": ["Común","Élfico"],
   "Idiomas_Adicionales": ["Dracónico","Gnoll","Gnomo","Mediano","Silvano","Trasgo"],
   "Aptitudes:":{
-    "Habilidad Racial:Avistar":{"Tipo":"u", "Valor":2},
-    "Habilidad Racial:Buscar":{"Tipo":"u", "Valor":2},
-    "Habilidad Racial:Escuchar":{"Tipo":"u", "Valor":2}
+    "Habilidad Racial:Avistar":{"Valor":2},
+    "Habilidad Racial:Buscar":{"Valor":2},
+    "Habilidad Racial:Escuchar":{"Valor":2}
   }
 }

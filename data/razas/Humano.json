@@ -7,7 +7,7 @@
     "Dote Adicional",
     "Puntos de Habilidad Adicionales"
   ],
-  "Idiomas_Automáticos":"Común",
+  "Idiomas_Automáticos":["Común"],
   
   "Idiomas_Adicionales": ["Abisal","Acuano","Aurano","Celestial","Dracónico","Élfico","Enano","Gigante","Gnoll","Gnomo",
     "Ígnaro","Infernal","Infracomún","Mediano","Orco","Silvano","Térraro","Trasgo"],

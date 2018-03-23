@@ -14,10 +14,10 @@
   "Idiomas_Automáticos": ["Común","Mediano"],
   "Idiomas_Adicionales": ["Élfico","Enano","Gnomo","Orco","Trasgo"],
   "Aptitudes:":{
-    "Habilidad Racial:Moverse sigilosamente":{"Tipo":"u", "Valor":2},
-    "Habilidad Racial:Saltar":{"Tipo":"u", "Valor":2},
-    "Habilidad Racial:Trepar":{"Tipo":"u", "Valor":2},
-    "Habilidad Racial:Escuchar":{"Tipo":"u", "Valor":2},
-    "Bofinicación a los TS":{"Tipo":"u", "Valor":1}
+    "Habilidad Racial:Moverse sigilosamente":{"Valor":2},
+    "Habilidad Racial:Saltar":{"Valor":2},
+    "Habilidad Racial:Trepar":{"Valor":2},
+    "Habilidad Racial:Escuchar":{"Valor":2},
+    "Bofinicación a los TS":{"Valor":1}
   }
 }

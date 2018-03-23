@@ -15,11 +15,11 @@
   "Idiomas_Automáticos": ["Común","Gnomo"],
   "Idiomas_Adicionales": ["Dracónico","Élfico","Enano","Gigante","Orco","Trasgo"],
   "Aptitudes":{
-    "Habilidad Racial:Artesanía":{"Tipo":"u", "Valor":2},
-    "Habilidad Racial:Escuchar":{"Tipo":"u", "Valor":2},
-    "Aptitud Sortílega:Hablar con los animales":{"Tipo":"u"},
-    "Aptitud Sortílega:Luces danzantes":{"Tipo":"u", "Reqs":{"Carisma":10}},
-    "Aptitud Sortílega:Prestidigitación":{"Tipo":"u", "Reqs":{"Carisma":10}},
-    "Aptitud Sortílega:Sonido fantasma":{"Tipo":"u", "Reqs":{"Carisma":10}}
+    "Habilidad Racial:Artesanía":{"Valor":2},
+    "Habilidad Racial:Escuchar":{"Valor":2},
+    "Aptitud Sortílega:Hablar con los animales":{},
+    "Aptitud Sortílega:Luces danzantes":{"Reqs":{"Carisma":10}},
+    "Aptitud Sortílega:Prestidigitación":{"Reqs":{"Carisma":10}},
+    "Aptitud Sortílega:Sonido fantasma":{"Reqs":{"Carisma":10}}
   }
 }

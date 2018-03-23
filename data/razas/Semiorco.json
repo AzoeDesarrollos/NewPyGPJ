@@ -11,7 +11,7 @@
   "Idiomas_Automáticos": ["Común","Orco"],
   "Idiomas_Adicionales": ["Abisal","Dracónico","Gigante","Gnoll","Trasgo"],
   "Aptitudes":{
-    "Visión en la oscuridad":{"Tipo": "u"},
-    "Sangre orca":{"Tipo": "u"}
+    "Visión en la oscuridad":{},
+    "Sangre orca":{}
   }
 }

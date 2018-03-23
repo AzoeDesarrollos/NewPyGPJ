@@ -12,15 +12,15 @@
     "Sangre élfica"
   ],
 
-  "Idiomas_Automáticos": ["Común", "Élfico"],
+  "Idiomas_Automáticos": ["Común","Élfico"],
   "Idiomas_Adicionales": ["Abisal","Acuano","Aurano","Celestial","Dracónico","Élfico","Enano","Gigante","Gnoll","Gnomo","Ígnaro","Infernal","Infracomún","Mediano","Orco","Silvano","Térraro","Trasgo"],
 
   "Aptitudes:":{
-    "Habilidad Racial:Avistar":{"Tipo":"u", "Valor":1},
-    "Habilidad Racial:Buscar":{"Tipo":"u", "Valor":1},
-    "Habilidad Racial:Escuchar":{"Tipo":"u", "Valor":1},
-    "Habilidad Racial:Diplomacia":{"Tipo":"u", "Valor":2},
-    "Habilidad Racial:Reunir información":{"Tipo":"u", "Valor":2},
-    "Sangre élfica":{"Tipo": "u"}
+    "Habilidad Racial:Avistar":{"Valor":1},
+    "Habilidad Racial:Buscar":{"Valor":1},
+    "Habilidad Racial:Escuchar":{"Valor":1},
+    "Habilidad Racial:Diplomacia":{"Valor":2},
+    "Habilidad Racial:Reunir información":{"Valor":2},
+    "Sangre élfica":{}
   }
 }
