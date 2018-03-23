@@ -109,11 +109,9 @@
       "Aptitud":"Cualidad especial"
     },
     "Expulsar muertos vivientes":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Reprender muertos vivientes":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Nivel de lanzador":{

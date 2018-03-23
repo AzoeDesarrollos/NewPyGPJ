@@ -132,7 +132,6 @@
   },
   "Aptitudes":{
     "Convocar a un familiar":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Nivel de lanzador":{"Tipo":"v"},

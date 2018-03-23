@@ -179,19 +179,16 @@
   },
   "Aptitudes":{
     "Conocimiento de bardo":{
-      "Tipo": "u",
+
       "Aptitud":"Cualidad especial"
     },
     "Contraoda":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Fascinar":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Música de bardo":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Nivel de lanzador":{
@@ -216,11 +213,9 @@
 
     },
     "Infundir gran aptitud":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Sugestión":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Infundir valor":{
@@ -230,19 +225,15 @@
       "Aptitud":"Cualidad especial"
     },
     "Infundir grandeza":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Canción de libertad":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Infundir heroicidad":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Sugestión en grupo":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     }
   }

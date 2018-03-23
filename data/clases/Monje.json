@@ -132,19 +132,15 @@
     },
     "Impacto sin arma mejorado":{"Tipo":"a"},
     "Impacto ki (mágico)":{
-      "Tipo": "u",
       "Aptitud":"Ataque especial"
     },
     "Impacto ki (legal)":{
-      "Tipo": "u",
       "Aptitud":"Ataque especial"
     },
     "Impacto ki (adamantino)":{
-      "Tipo": "u",
       "Aptitud":"Ataque especial"
     },
     "Ráfaga de golpes":{
-      "Tipo": "u",
       "Aptitud":"Ataque especial"
     },
     "Ráfaga mayor":{
@@ -156,11 +152,9 @@
       "Formato": "{2}"
     },
     "Evasión":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Mente en calma":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Ralentizar caída":{
@@ -170,7 +164,6 @@
       "Aptitud":"Cualidad especial"
     },
     "Pureza corporal":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Derribo mejorado|Desarme mejorado":{
@@ -178,7 +171,6 @@
       "Formato": "{2}"
     },
     "Plenitud corporal":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Evasión mejorada":{
@@ -186,31 +178,24 @@
     "Aptitud":"Cualidad especial"
     },
     "Cuerpo diamantino":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Paso abundante":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Alma diamantina":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Palma temblorosa":{
-      "Tipo": "u",
       "Aptitud":"Ataque especial"
     },
     "Cuerpo eterno":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Lengua del sol y la luna":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Cuerpo vacío":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Ralentizar caída cualquier distancia":{
@@ -218,7 +203,6 @@
     "Aptitud":"Cualidad especial"
     },
     "Yo perfecto":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     }
   }

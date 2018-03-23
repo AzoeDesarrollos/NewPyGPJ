@@ -1,0 +1,569 @@
+{
+  "Alabarda":{
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d10",
+    "Pequeña":"1d8",
+    "Precio":"10 po",
+    "Tipo":"cc:dm"
+  },
+  "Alfanjón":{
+    "Crítico":"18-20/x2",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"2d4",
+    "Pequeña":"1d6",
+    "Precio":"75 po",
+    "Tipo":"cc:dm"
+  },
+  "Arco corto":{
+    "Alcance":60,
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"30 po",
+    "Tipo":"ad:pr"
+  },
+  "Arco corto compuesto":{
+    "Alcance":70,
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"75 po",
+    "Tipo":"ad:pr"
+  },
+  "Arco largo":{
+    "Alcance":100,
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d8",
+    "Pequeña":"1d6",
+    "Precio":"75 po",
+    "Tipo":"ad:pr"
+  },
+  "Arco largo compuesto":{
+    "Alcance":110,
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d8",
+    "Pequeña":"1d6",
+    "Precio":"100 po",
+    "Tipo":"ad:pr"
+  },
+  "Ballesta de mano":{
+    "Alcance":30,
+    "Crítico":"19-20/x2",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d14",
+    "Pequeña":"1d3",
+    "Precio":"100 po",
+    "Tipo":"ad:pr"
+  },
+  "Ballesta de repetición ligera":{
+    "Alcance":80,
+    "Crítico":"19-20/x2",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d8",
+    "Pequeña":"1d6",
+    "Precio":"250 po",
+    "Tipo":"ad:pr"
+  },
+  "Ballesta de repetición pesada":{
+    "Alcance":120,
+    "Crítico":"19-20/x2",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d10",
+    "Pequeña":"1d8",
+    "Precio":"400 po",
+    "Tipo":"ad:pr"
+  },
+  "Ballesta ligera":{
+    "Alcance":80,
+    "Crítico":"19-20/x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d8",
+    "Pequeña":"1d6",
+    "Precio":"35 po",
+    "Tipo":"ad:pr"
+  },
+  "Ballesta pesada":{
+    "Alcance":120,
+    "Crítico":"19-20/x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d10",
+    "Pequeña":"1d8",
+    "Precio":"50 po",
+    "Tipo":"ad:pr"
+  },
+  "Bastón":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d6/1d6",
+    "Pequeña":"1d4/1d4",
+    "Precio":"0 po",
+    "Tipo":"cc:dm:dbl"
+  },
+  "Bisarma":{
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"2d4",
+    "Pequeña":"1d6",
+    "Precio":"9 po",
+    "Tipo":"cc:dm:alc"
+  },
+  "Boleadoras":{
+    "Alcance":10,
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d4",
+    "Pequeña":"1d3",
+    "Precio":"5 po",
+    "Tipo":"ad:ar:dan"
+  },
+  "Cachiporra":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"1 po",
+    "Tipo":"cc:lg:dan"
+  },
+  "Cadena armada":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d8",
+    "Pequeña":"1d6",
+    "Precio":"25 po",
+    "Tipo":"cc:dm:alc"
+  },
+  "Cimitarra":{
+    "Crítico":"18-20/x2",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"15 po",
+    "Tipo":"cc:um"
+  },
+  "Clava":{
+    "Alcance":10,
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"0 po",
+    "Tipo":"cc:um:arr"
+  },
+  "Daga":{
+    "Alcance":10,
+    "Crítico":"19-20/x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d4",
+    "Pequeña":"1d3",
+    "Precio":"2 po",
+    "Tipo":"cc:lg:arr"
+  },
+  "Dardo":{
+    "Alcance":20,
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d4",
+    "Pequeña":"1d3",
+    "Precio":"5 pp",
+    "Tipo":"ad:ar"
+  },
+  "Espada bastarda":{
+    "Crítico":"19-20/x2",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d10",
+    "Pequeña":"1d8",
+    "Precio":"35 po",
+    "Tipo":"cc:um"
+  },
+  "Espada corta":{
+    "Crítico":"19-20/x2",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"10 po",
+    "Tipo":"cc:lg"
+  },
+  "Espada de dos hojas":{
+    "Crítico":"19-20/x2",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d8/1d8",
+    "Pequeña":"1d6/1d6",
+    "Precio":"100 po",
+    "Tipo":"cc:dm:dbl"
+  },
+  "Espada larga":{
+    "Crítico":"19-20/x2",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d8",
+    "Pequeña":"1d6",
+    "Precio":"15 po",
+    "Tipo":"cc:um"
+  },
+  "Espadón":{
+    "Crítico":"19-20/x2",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"2d6",
+    "Pequeña":"1d10",
+    "Precio":"50 po",
+    "Tipo":"cc:dm"
+  },
+  "Estoque":{
+    "Crítico":"18-20/x2",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"20 po",
+    "Tipo":"cc:um"
+  },
+  "Gran clava":{
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d10",
+    "Pequeña":"1d8",
+    "Precio":"5 po",
+    "Tipo":"cc:dm"
+  },
+  "Gran hacha":{
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d12",
+    "Pequeña":"1d10",
+    "Precio":"20 po",
+    "Tipo":"cc:dm"
+  },
+  "Guadaña":{
+    "Crítico":"x4",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"2d4",
+    "Pequeña":"1d6",
+    "Precio":"18 po",
+    "Tipo":"cc:dm"
+  },
+  "Guantelete":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d3",
+    "Pequeña":"1d2",
+    "Precio":"2 po",
+    "Tipo":"cc:lg"
+  },
+  "Guantelete armado":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d4",
+    "Pequeña":"1d3",
+    "Precio":"5 po",
+    "Tipo":"cc:lg"
+  },
+  "Guja":{
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d10",
+    "Pequeña":"1d8",
+    "Precio":"8 po",
+    "Tipo":"cc:dm:alc"
+  },
+  "Hacha arrojadiza":{
+    "Alcance":10,
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"8 po",
+    "Tipo":"cc:lg:arr"
+  },
+  "Hacha de batalla":{
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d8",
+    "Pequeña":"1d6",
+    "Precio":"10 po",
+    "Tipo":"cc:um"
+  },
+  "Hacha de guerra enana":{
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d10",
+    "Pequeña":"1d8",
+    "Precio":"30 po",
+    "Tipo":"cc:um"
+  },
+  "Hacha de mano":{
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"6 po",
+    "Tipo":"cc:lg"
+  },
+  "Hacha doble orca":{
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d8/1d8",
+    "Pequeña":"1d6/1d6",
+    "Precio":"60 po",
+    "Tipo":"cc:dm:dbl"
+  },
+  "Honda":{
+    "Alcance":50,
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d4",
+    "Pequeña":"1d3",
+    "Precio":"0 po",
+    "Tipo":"ad:pr"
+  },
+  "Hoz":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"6 po",
+    "Tipo":"cc:lg"
+  },
+  "Impacto sin arma":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d3",
+    "Pequeña":"1d2",
+    "Precio":null,
+    "Tipo":"cc:lg:dan"
+  },
+  "Jabalina":{
+    "Alcance":30,
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"1 po",
+    "Tipo":"ad:ar"
+  },
+  "Kama":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"2 po",
+    "Tipo":"cc:lg"
+  },
+  "Kukri":{
+    "Crítico":"18-20/x2",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d4",
+    "Pequeña":"1d3",
+    "Precio":"8 po",
+    "Tipo":"cc:lg"
+  },
+  "Lanza":{
+    "Alcance":20,
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d8",
+    "Pequeña":"1d6",
+    "Precio":"2 po",
+    "Tipo":"cc:dm:arr"
+  },
+  "Lanza corta":{
+    "Alcance":20,
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"1 po",
+    "Tipo":"cc:um:arr"
+  },
+  "Lanza de caballería":{
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d8",
+    "Pequeña":"1d6",
+    "Precio":"10 po",
+    "Tipo":"cc:dm:alc"
+  },
+  "Lanza larga":{
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d8",
+    "Pequeña":"1d6",
+    "Precio":"5 po",
+    "Tipo":"cc:dm:alc"
+  },
+  "Látigo":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d3",
+    "Pequeña":"1d2",
+    "Precio":"1 po",
+    "Tipo":"cc:um:dan"
+  },
+  "Mangual":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d8",
+    "Pequeña":"1d6",
+    "Precio":"8 po",
+    "Tipo":"cc:um"
+  },
+  "Mangual doble":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d8/1d8",
+    "Pequeña":"1d6/1d6",
+    "Precio":"90 po",
+    "Tipo":"cc:dm:dbl"
+  },
+  "Mangual pesado":{
+    "Crítico":"19-20/x2",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d10",
+    "Pequeña":"1d8",
+    "Precio":"15 po",
+    "Tipo":"cc:dm"
+  },
+  "Martillo de guerra":{
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d8",
+    "Pequeña":"1d6",
+    "Precio":"12 po",
+    "Tipo":"cc:um"
+  },
+  "Martillo ganchudo gnomo":{
+    "Crítico":"x3/x4",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d8/1d6",
+    "Pequeña":"1d6/1d4",
+    "Precio":"20 po",
+    "Tipo":"cc:dm:dbl"
+  },
+  "Martillo ligero":{
+    "Alcance":20,
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d4*",
+    "Pequeña":"1d3",
+    "Precio":"1 po",
+    "Tipo":"cc:lg:arr"
+  },
+  "Maza de armas":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d8",
+    "Pequeña":"1d6",
+    "Precio":"8 po",
+    "Tipo":"cc:um"
+  },
+  "Maza ligera":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"5 po",
+    "Tipo":"cc:lg"
+  },
+  "Maza pesada":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d8",
+    "Pequeña":"1d6",
+    "Precio":"12 po",
+    "Tipo":"cc:um"
+  },
+  "Nunchaku":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"2 po",
+    "Tipo":"cc:lg"
+  },
+  "Pico ligero":{
+    "Crítico":"x4",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d4",
+    "Pequeña":"1d3",
+    "Precio":"4 po",
+    "Tipo":"cc:lg"
+  },
+  "Pico pesado":{
+    "Crítico":"x4",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"8 po",
+    "Tipo":"cc:um"
+  },
+  "Puñal":{
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (sencilla)",
+    "Mediana":"1d4",
+    "Pequeña":"1d3",
+    "Precio":"2 po",
+    "Tipo":"cc:lg"
+  },
+  "Red":{
+    "Alcance":10,
+    "Crítico":"-",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"-",
+    "Pequeña":"-",
+    "Precio":"20 po",
+    "Tipo":"ad:ar:ndm"
+  },
+  "Ronca":{
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"2d4",
+    "Pequeña":"1d6",
+    "Precio":"10 po",
+    "Tipo":"cc:dm:alc"
+  },
+  "Sai":{
+    "Alcance":10,
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d3",
+    "Pequeña":"1d3",
+    "Precio":"1 po",
+    "Tipo":"cc:lg"
+  },
+  "Shuriken":{
+    "Alcance":10,
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d2",
+    "Pequeña":"1",
+    "Precio":"2 pp",
+    "Tipo":"ad:ar"
+  },
+  "Siangham":{
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d6",
+    "Pequeña":"1d4",
+    "Precio":"3 po",
+    "Tipo":"cc:lg"
+  },
+  "Tridente":{
+    "Alcance":10,
+    "Crítico":"x2",
+    "Dote":"Competencia con arma (marcial)",
+    "Mediana":"1d8",
+    "Pequeña":"1d6",
+    "Precio":"15 po",
+    "Tipo":"cc:um:arr"
+  },
+  "Urgosh enano":{
+    "Crítico":"x3",
+    "Dote":"Competencia con arma (exótica)",
+    "Mediana":"1d8/1d6",
+    "Pequeña":"1d6/1d4",
+    "Precio":"50 po",
+    "Tipo":"cc:dm:dbl"
+  }
+}

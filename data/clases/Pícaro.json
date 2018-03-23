@@ -123,11 +123,9 @@
       "Aptitud": "Ataque especial"
     },
     "Encontrar trampas":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Evasión":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Sentido de las trampas":{
@@ -137,7 +135,6 @@
       "Aptitud":"Cualidad especial"
     },
     "Esquiva asombrosa":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Esquiva asombrosa mejorada":{
@@ -155,23 +152,18 @@
           "Aptitud":"Cualidad especial"
         },
         "Lisiar con un impacto":{
-          "Tipo": "u",
           "Aptitud":"Cualidad especial"
         },
         "Maestria en habilidades":{
-          "Tipo": "u",
           "Aptitud":"Cualidad especial"
         },
         "Mente escurridiza":{
-          "Tipo": "u",
           "Aptitud":"Cualidad especial"
         },
         "Oportunismo":{
-          "Tipo": "u",
           "Aptitud":"Cualidad especial"
         },
         "Rodar a la defensiva":{
-          "Tipo":"u",
           "Aptitud":"Cualidad especial"
         }
       }

@@ -119,11 +119,9 @@
       "Aptitud":"Cualidad especial"
     },
     "Movimiento rápido":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Esquiva asombrosa":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Esquiva asombrosa mejorada":{
@@ -143,19 +141,15 @@
       "Aptitud":"Cualidad especial"
     },
     "Furia mayor":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Furia incansable":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Furia poderosa":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Voluntad indomable":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     }
   }

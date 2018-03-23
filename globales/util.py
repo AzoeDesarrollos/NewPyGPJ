@@ -1,7 +1,7 @@
 import json
 
 
-def abrir_json(archivo, encoding=None):
+def abrir_json(archivo, encoding='utf-8'):
     with open(archivo, encoding=encoding) as file:
         return json.load(file)
 

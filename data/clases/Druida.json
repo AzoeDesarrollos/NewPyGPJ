@@ -141,30 +141,24 @@
   },
   "Aptitudes": {
     "Empatía salvaje": {
-      "Tipo": "u",
       "Aptitud": "Cualidad especial"
     },
     "Compañero animal": {
-      "Tipo": "u",
       "Aptitud": "Cualidad especial"
     },
     "Nivel de lanzador": {
       "Tipo": "v"
     },
     "Zancada forestal": {
-      "Tipo": "u",
       "Aptitud": "Cualidad especial"
     },
     "Pisada sin rastro": {
-      "Tipo": "u",
       "Aptitud": "Cualidad especial"
     },
     "Resistir la atracción de la naturaleza": {
-      "Tipo": "u",
       "Aptitud": "Cualidad especial"
     },
     "Inmunidad al veneno": {
-      "Tipo": "u",
       "Aptitud": "Cualidad especial"
     },
     "Forma salvaje": {
@@ -174,7 +168,6 @@
       "Aptitud": "Cualidad especial"
     },
     "Forma salvaje (Grande)": {
-      "Tipo": "u",
       "Aptitud": "Cualidad especial"
     },
     "Forma salvaje (Grande, Menuda)": {
@@ -190,11 +183,9 @@
       "Aptitud": "Cualidad especial"
     },
     "Las mil caras": {
-      "Tipo": "u",
       "Aptitud": "Cualidad especial"
     },
     "Cuerpo eterno": {
-      "Tipo": "u",
       "Aptitud": "Cualidad especial"
     },
     "Forma salvaje (elemental)": {
@@ -204,7 +195,6 @@
       "Aptitud": "Cualidad especial"
     },
     "Forma salvaje (elemental Enorme)": {
-      "Tipo": "u",
       "Aptitud": "Cualidad especial"
     }
   }

@@ -104,7 +104,6 @@
   },
   "Aptitudes":{
     "Empatía salvaje":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Enemigo predilecto":{
@@ -118,14 +117,12 @@
     "Rastrear":{"Tipo": "a"},
     "Estilo de combate":{
       "Intro": "Debes elegir un estilo de combate. Esta elección no se puede cambiar.",
-      "Tipo": "u",
       "Formato": "{0} ({2})",
       "Sublista": ["Tiro con arco", "Combate con dos armas"],
       "Aptitud":"Cualidad especial"
     },
     "Aguante":{"Tipo": "a"},
     "Compañero animal":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Nivel de lanzador":{"Tipo":"v"},
@@ -134,15 +131,12 @@
       "Aptitud":"Cualidad especial"
     },
     "Zancada forestal":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Rastreador veloz":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Evasión":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Maestría con estilo de combate":{
@@ -150,11 +144,9 @@
       "Aptitud":"Cualidad especial"
     },
     "Camuflaje":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Esconderse a plena vista":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     }
   }

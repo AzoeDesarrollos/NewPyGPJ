@@ -1,3 +1,6 @@
+from globales import HABILIDADES
+
+
 class Habilidad:
     _rangos = 0
     _mod_caracteristica = 0
@@ -8,14 +11,18 @@ class Habilidad:
     _pen_armadura = 0
 
     name = ''
-    solo_entrenada = False
-    sinergias = None
+    modifier = ''
+    penalty_factor = 0
+    trained = False
+    synergies = None
 
-    def __init__(self, name, modifier, pen, trained):
+    def __init__(self, name):
+        data = HABILIDADES[name]
         self.name = name
-        self.modifier = modifier
-        self.penalty_factor = pen
-        self.solo_entrenada = trained
+        self.modifier = data['Modificador']
+        self.penalty_factor = data['Penalizador']
+        self.trained = data['SoloEntrenada']
+        self.synergies = data['Sinergias']
 
     @property
     def value(self):

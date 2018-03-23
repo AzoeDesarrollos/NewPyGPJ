@@ -1,0 +1,172 @@
+{
+  "Acolchada":{
+    "Bono_CA":1,
+    "Bono_max_des":8,
+    "Dote":"Competencia con armadura (ligera)",
+    "Penalizador":0,
+    "Precio":"5 po",
+    "Tipo":"lg.0",
+    "Velocidad_20":"20'",
+    "Velocidad_30":"30'"
+  },
+  "Armadura completa":{
+    "Bono_CA":8,
+    "Bono_max_des":1,
+    "Dote":"Competencia con armadura (pesada)",
+    "Penalizador":-6,
+    "Precio":"1500 po",
+    "Tipo":"pe.1",
+    "Velocidad_20":"15'",
+    "Velocidad_30":"20'"
+  },
+  "Armadura de placas y mallas":{
+    "Bono_CA":7,
+    "Bono_max_des":0,
+    "Dote":"Competencia con armadura (pesada)",
+    "Penalizador":-7,
+    "Precio":"600 po",
+    "Tipo":"pe.1",
+    "Velocidad_20":"15'",
+    "Velocidad_30":"20'"
+  },
+  "Armadura laminada":{
+    "Bono_CA":6,
+    "Bono_max_des":0,
+    "Dote":"Competencia con armadura (pesada)",
+    "Penalizador":-7,
+    "Precio":"200 po",
+    "Tipo":"pe.1",
+    "Velocidad_20":"15'",
+    "Velocidad_30":"20'"
+  },
+  "Broquel":{
+    "Bono_CA":1,
+    "Dote":"Competencia con escudo",
+    "Penalizador":-1,
+    "Precio":"15 po",
+    "Tipo":"es.1"
+  },
+  "Camisote de mallas":{
+    "Bono_CA":4,
+    "Bono_max_des":4,
+    "Dote":"Competencia con armadura (ligera)",
+    "Penalizador":-2,
+    "Precio":"100 po",
+    "Tipo":"lg.1",
+    "Velocidad_20":"20'",
+    "Velocidad_30":"30'"
+  },
+  "Coraza":{
+    "Bono_CA":5,
+    "Bono_max_des":3,
+    "Dote":"Competencia con armadura (intermedia)",
+    "Penalizador":-4,
+    "Precio":"200 po",
+    "Tipo":"in.1",
+    "Velocidad_20":"15'",
+    "Velocidad_30":"20'"
+  },
+  "Cota de bandas":{
+    "Bono_CA":6,
+    "Bono_max_des":1,
+    "Dote":"Competencia con armadura (pesada)",
+    "Penalizador":-6,
+    "Precio":"250 po",
+    "Tipo":"pe.1",
+    "Velocidad_20":"15'",
+    "Velocidad_30":"20'"
+  },
+  "Cota de escamas":{
+    "Bono_CA":4,
+    "Bono_max_des":3,
+    "Dote":"Competencia con armadura (intermedia)",
+    "Penalizador":-4,
+    "Precio":"50 po",
+    "Tipo":"in.1",
+    "Velocidad_20":"15'",
+    "Velocidad_30":"20'"
+  },
+  "Cota de mallas":{
+    "Bono_CA":5,
+    "Bono_max_des":2,
+    "Dote":"Competencia con armadura (intermedia)",
+    "Penalizador":-5,
+    "Precio":"150 po",
+    "Tipo":"in.1",
+    "Velocidad_20":"15'",
+    "Velocidad_30":"20'"
+  },
+  "Cuero":{
+    "Bono_CA":2,
+    "Bono_max_des":6,
+    "Dote":"Competencia con armadura (ligera)",
+    "Penalizador":0,
+    "Precio":"10 po",
+    "Tipo":"lg.0",
+    "Velocidad_20":"20'",
+    "Velocidad_30":"30'"
+  },
+  "Cuero tachonado":{
+    "Bono_CA":3,
+    "Bono_max_des":5,
+    "Dote":"Competencia con armadura (ligera)",
+    "Penalizador":-1,
+    "Precio":"25 po",
+    "Tipo":"lg.0",
+    "Velocidad_20":"20'",
+    "Velocidad_30":"30'"
+  },
+  "Escudo ligero de acero":{
+    "Bono_CA":1,
+    "Dote":"Competencia con escudo",
+    "Penalizador":-1,
+    "Precio":"9 po",
+    "Tipo":"es.1"
+  },
+  "Escudo ligero de madera":{
+    "Bono_CA":1,
+    "Dote":"Competencia con escudo",
+    "Penalizador":-1,
+    "Precio":"3 po",
+    "Tipo":"es.0"
+  },
+  "Escudo pavés":{
+    "Bono_CA":4,
+    "Bono_max_des":2,
+    "Dote":"Competencia con escudo pavés",
+    "Penalizador":-10,
+    "Precio":"30 po",
+    "Tipo":"ep.0"
+  },
+  "Escudo pesado de acero":{
+    "Bono_CA":2,
+    "Dote":"Competencia con escudo",
+    "Penalizador":-2,
+    "Precio":"20 po",
+    "Tipo":"es.1"
+  },
+  "Escudo pesado de madera":{
+    "Bono_CA":2,
+    "Dote":"Competencia con escudo",
+    "Penalizador":-2,
+    "Precio":"7 po",
+    "Tipo":"es.0"
+  },
+  "Pieles":{
+    "Bono_CA":3,
+    "Bono_max_des":4,
+    "Dote":"Competencia con armadura (intermedia)",
+    "Penalizador":-3,
+    "Precio":"15 po",
+    "Tipo":"in.0",
+    "Velocidad_20":"15'",
+    "Velocidad_30":"20'"
+  },
+  "Rodela":{
+    "Bono_CA":1,
+    "Dote":"Competencia con escudo",
+    "Penalizador":-1,
+    "Precio":"15 po",
+    "Tipo":"es.0"
+  }
+}

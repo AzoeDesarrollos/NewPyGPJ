@@ -6,3 +6,8 @@ habs.json
 /dts.json
 /temp.py
 /escuelas.json
+/armas.json
+/armds.json
+/__pycache__
+/globales/__pycache__/*.pyc
+/rasgos/__pycache__/*.pyc

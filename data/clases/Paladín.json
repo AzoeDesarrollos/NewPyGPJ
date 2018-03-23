@@ -101,7 +101,6 @@
   },
   "Aptitudes":{
     "Aura de bien":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Castigar al mal":{
@@ -111,34 +110,27 @@
       "Aptitud":"Ataque especial"
     },
     "Detectar el mal":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Imposición de manos":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Gracia divina":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Aura de valor":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Salud divina":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Expulsar muertos vivientes":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Nivel de lanzador":{
       "Tipo":"v"
     },
     "Montura especial":{
-      "Tipo": "u",
       "Aptitud":"Cualidad especial"
     },
     "Quitar enfermedad":{
