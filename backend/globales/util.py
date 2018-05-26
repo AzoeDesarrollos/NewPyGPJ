@@ -1,5 +1,6 @@
 import json
-
+import sys
+import pygame
 
 def abrir_json(archivo, encoding='utf-8'):
     with open(archivo, encoding=encoding) as file:
@@ -9,3 +10,8 @@ def abrir_json(archivo, encoding='utf-8'):
 def guardar_json(nombre, datos):
     with open(nombre, mode='w', encoding='utf-8') as file:
         json.dump(datos, file, ensure_ascii=False, indent=2, separators=(',', ':'), sort_keys=True)
+
+
+def salir():
+    pygame.quit()
+    sys.exit()
