@@ -1,10 +1,6 @@
 {
   "Abreviatura":"Mnj",
-  "Alineamientos":[
-    "Legal Bueno",
-    "Legal Neutral",
-    "Legal Maligno"
-  ],
+  "Alineamientos":"Cualquiera Legal",
   "AtaqueBase":"3/4",
   "Competencias":{
     "Armaduras":[],

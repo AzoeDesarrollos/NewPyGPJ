@@ -1,12 +1,6 @@
 {
   "Abreviatura":"Brb",
-  "Alineamientos":[
-    "Neutral Bueno",
-    "Caótico Bueno",
-    "Neutral Auténtico",
-    "Caótico Neutral",
-    "Neutral Maligno",
-    "Caótico Maligno"
+  "Alineamientos":"Cualquiera no Legal"
   ],
   "AtaqueBase":"1",
   "Competencias":{

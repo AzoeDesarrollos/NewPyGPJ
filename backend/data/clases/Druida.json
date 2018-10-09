@@ -1,11 +1,6 @@
 {
   "Abreviatura": "Drd",
-  "Alineamientos": [
-    "Neutral Bueno",
-    "Legal Neutral",
-    "Neutral Auténtico",
-    "Caótico Neutral",
-    "Neutral Maligno"
+  "Alineamientos": "Cualquiera Neutral"
   ],
   "AtaqueBase": "3/4",
   "Competencias": {
