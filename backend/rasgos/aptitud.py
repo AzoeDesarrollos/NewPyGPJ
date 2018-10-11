@@ -1,4 +1,4 @@
-from globales import abrir_dominio
+from backend.globales import abrir_dominio
 
 
 class Aptitud:

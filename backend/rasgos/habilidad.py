@@ -1,4 +1,4 @@
-from globales import HABILIDADES
+from backend.globales import HABILIDADES
 
 
 class Habilidad:

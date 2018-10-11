@@ -1,4 +1,4 @@
-from globales import abrir_dote
+from backend.globales import abrir_dote
 
 
 class Dote:

@@ -1,4 +1,4 @@
-from globales import abrir_raza
+from backend.globales import abrir_raza
 
 
 class Raza:

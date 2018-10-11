@@ -1,21 +1,21 @@
 from .util import abrir_json
 
-
-HABILIDADES = abrir_json('data/habilidades.json')
-DOTES = abrir_json('data/dotes.json')
-IDIOMAS = abrir_json('data/idiomas.json')
-DOMINIOS = abrir_json('data/dominios.json')
-CONJUROS = abrir_json('data/conjuros.json')
-ARMAS = abrir_json('data/armas.json')
-ARMADURAS = abrir_json('data/armaduras.json')
+root = 'backend/data/'
+HABILIDADES = abrir_json(root+'habilidades.json')
+DOTES = abrir_json(root+'dotes.json')
+IDIOMAS = abrir_json(root+'idiomas.json')
+DOMINIOS = abrir_json(root+'dominios.json')
+CONJUROS = abrir_json(root+'conjuros.json')
+ARMAS = abrir_json(root+'armas.json')
+ARMADURAS = abrir_json(root+'armaduras.json')
 
 
 def abrir_clase(name):
-    return abrir_json('data/clases/'+name+'.json')
+    return abrir_json(root+'clases/'+name+'.json')
 
 
 def abrir_raza(name):
-    return abrir_json('data/razas/'+name+'.json')
+    return abrir_json(root+'razas/'+name+'.json')
 
 
 def abrir_dote(name):

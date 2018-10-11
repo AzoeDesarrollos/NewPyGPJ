@@ -1,9 +1,11 @@
 import json
 import sys
 import pygame
+from os import getcwd, path
+
 
 def abrir_json(archivo, encoding='utf-8'):
-    with open(archivo, encoding=encoding) as file:
+    with open(path.join(getcwd(), archivo), encoding=encoding) as file:
         return json.load(file)
 
 
