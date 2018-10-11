@@ -13,7 +13,7 @@
   "Velocidad": "20'",
   "Idiomas_Automáticos": ["Común","Mediano"],
   "Idiomas_Adicionales": ["Élfico","Enano","Gnomo","Orco","Trasgo"],
-  "Aptitudes:":{
+  "Aptitudes":{
     "Habilidad Racial:Moverse sigilosamente":{"Valor":2},
     "Habilidad Racial:Saltar":{"Valor":2},
     "Habilidad Racial:Trepar":{"Valor":2},

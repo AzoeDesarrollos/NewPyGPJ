@@ -15,7 +15,7 @@
   "Idiomas_Automáticos": ["Común","Élfico"],
   "Idiomas_Adicionales": ["Abisal","Acuano","Aurano","Celestial","Dracónico","Élfico","Enano","Gigante","Gnoll","Gnomo","Ígnaro","Infernal","Infracomún","Mediano","Orco","Silvano","Térraro","Trasgo"],
 
-  "Aptitudes:":{
+  "Aptitudes":{
     "Habilidad Racial:Avistar":{"Valor":1},
     "Habilidad Racial:Buscar":{"Valor":1},
     "Habilidad Racial:Escuchar":{"Valor":1},

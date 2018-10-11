@@ -4,3 +4,4 @@ from .caracteristica import Caracteristica
 from .aptitud import Aptitud
 from .habilidad import Habilidad
 from .dote import Dote
+from .salvacion import Salvacion

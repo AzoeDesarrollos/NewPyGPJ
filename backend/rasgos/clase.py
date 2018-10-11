@@ -10,20 +10,27 @@ class Clase:
 
     def __init__(self, name):
         data = abrir_clase(name)
-        self.nombre = name
+        self.nombre_de_clase = name
+        self.nivel_de_clase = 0
         self.abr = data['Abreviatura']
         self.alineamientos = self.cargar_alineamientos(data['Alineamientos'])
         self.ataque_base = eval(data['AtaqueBase'])
         self.reflejos = eval(data['Salvaciones']['Reflejos'])
         self.fortaleza = eval(data['Salvaciones']['Fortaleza'])
         self.voluntad = eval(data['Salvaciones']['Voluntad'])
-        self.habilidades = [i for i in data['HabilidadesClaseas']]
+        self.habilidades_claseas = [i for i in data['HabilidadesClaseas']]
         self.idiomas = [i for i in data['Idiomas_Adicionales']]
         self.competencias = {
             'armas': self.cargar_competencias_armas(data['Competencias']['Armas']),
             'armaduras': self.cargar_competencias_armaduras(data['Competencias']['Armaduras']),
             'escudos': self.cargar_competencias_escudos(data['Competencias']['Escudos'])
         }
+
+    def __repr__(self):
+        return 'Clase '+self.nombre_de_clase
+
+    def __str__(self):
+        return self.nombre_de_clase+' '+str(self.nivel_de_clase)
 
     @staticmethod
     def cargar_alineamientos(data):
@@ -35,7 +42,11 @@ class Clase:
                                  'Neutral Bueno', 'Neutral', 'Neutral Maligno',
                                  'Caótico Bueno', 'Caótico Neutral', 'Caótico Maligno'],
                   'Cualquiera Legal': ['Legal Bueno', 'Legal Neutral', 'Legal Maligno']}
-        return sintax[data]
+        if data in sintax:
+            return sintax[data]
+
+        else:  # 'Legal Bueno' in sintax = False
+            return data
 
     @staticmethod
     def cargar_competencias_armas(data):
@@ -70,8 +81,6 @@ class Clase:
         for item in data:
             if item == 'Todos':
                 e([armd for armd in ARMDS if ARMDS[armd]['Dote'] == 'Competencia con escudo'])
-            elif item == 'Pavés':
-                compt.append('Escudo pavés')
             else:
                 compt.append(item)
 

@@ -11,7 +11,7 @@
   "Velocidad": "20'",
   "Idiomas_Automáticos": ["Común","Enano"],
   "Idiomas_Adicionales": ["Gigante","Gnomo","Infracomún","Orco","Térraro","Trasgo"],
-  "Aptitudes:":{
+  "Aptitudes":{
     "Habilidad Racial:Artesanía":{"Valor":2},
     "Habilidad Racial:Buscar":{"Valor":2},
     "Habilidad Racial:Tasación":{"Valor":2}

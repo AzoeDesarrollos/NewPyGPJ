@@ -1,4 +1,3 @@
-# noinspection PyUnresolvedReferences
 from math import floor
 
 
@@ -17,19 +16,6 @@ class Caracteristica:
     def mod(self):
         return floor((self.value - 10) / 2)
 
-    @property
-    def val(self):
-        return self.value
-
-    @val.setter
-    def val(self, **kwargs):
-        valor = 0
-        for key in ['racial', 'base']:
-            if key in kwargs:
-                valor += kwargs[key]
-
-        self.value = valor
-
     def __ge__(self, other):
         assert type(other) is int
         return self.value >= other
@@ -37,6 +23,15 @@ class Caracteristica:
     def __le__(self, other):
         assert type(other) is int
         return self.value <= other
+
+    def __add__(self, other):
+        assert type(other) is int
+        return self.value + other
+
+    def __iadd__(self, other):
+        assert type(other) is int
+        self.value += other
+        return self
 
     def __str__(self):
         return '%(n)s %(v)d (%(m)+d)' % {'n': self.name, "v": self.value, "m": self.mod}

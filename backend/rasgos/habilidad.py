@@ -1,4 +1,4 @@
-from backend.globales import HABILIDADES
+from backend.globales.data import abrir_habilidad, HABILIDADES
 
 
 class Habilidad:
@@ -17,12 +17,12 @@ class Habilidad:
     synergies = None
 
     def __init__(self, name):
-        data = HABILIDADES[name]
+        data = abrir_habilidad(name)
         self.name = name
         self.modifier = data['Modificador']
         self.penalty_factor = data['Penalizador']
         self.trained = data['SoloEntrenada']
-        self.synergies = data['Sinergias']
+        self.synergies = [n for n in data['Sinergias'] if n in HABILIDADES]
 
     @property
     def value(self):
