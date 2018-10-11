@@ -33,6 +33,11 @@ class Personaje:
         self.carisma = Caracteristica('Carisma')
         self.carisma += self.raza.ajustes_caracteristicas.get('Carisma', 0)
 
-        self.fortaleza = Salvacion('Fortaleza', self.constitucion.mod)
-        self.reflejos = Salvacion('Reflejos', self.destreza.mod)
-        self.voluntad = Salvacion('Voluntad', self.sabiduria.mod)
+        self.fortaleza = Salvacion('Fortaleza', self.clase.ts_fortaleza, self.constitucion)
+        self.reflejos = Salvacion('Reflejos', self.clase.ts_reflejos, self.destreza)
+        self.voluntad = Salvacion('Voluntad', self.clase.ts_voluntad, self.sabiduria)
+
+        self.ataque_base = self.clase.ataque_base
+
+    def __repr__(self):
+        return 'Personaje '+self.raza.nombre+' '+str(self.clase)
