@@ -28,50 +28,57 @@
     ],
     "04":[
       "Compañero animal",
+      "Nivel de lanzador",
       "Nivel de lanzador"
     ],
     "05":[
-      "Esconderse a plena vista",
-      "Nivel de lanzador"
+      "Esconderse a plena vista"
     ],
     "06":[
-      "Estilo de combate mejorado"
+      "Estilo de combate mejorado",
+      "Nivel de lanzador"
     ],
     "07":[
-      "Zancada forestal",
-      "Nivel de lanzador"
+      "Zancada forestal"
     ],
     "08":[
-      "Rastreador veloz"
+      "Rastreador veloz",
+      "Nivel de lanzador"
     ],
     "09":[
-      "Evasión",
-      "Nivel de lanzador"
+      "Evasión"
     ],
     "10":[
-      "Enemigo predilecto"
-    ],
-    "11":[
-      "Maestría con estilo de combate",
-      "Nivel de lanzador"
-    ],
-    "13":[
-      "Camuflaje",
-      "Nivel de lanzador"
-    ],
-    "15":[
       "Enemigo predilecto",
       "Nivel de lanzador"
     ],
-    "17":[
-      "Esconderse a plena vista",
+    "11":[
+      "Maestría con estilo de combate"
+    ],
+    "12":[
       "Nivel de lanzador"
     ],
-    "19":[
+    "13":[
+      "Camuflaje"
+    ],
+    "14":[
+      "Nivel de lanzador"
+    ],
+    "15":[
+      "Enemigo predilecto"
+    ],
+    "16":[
+      "Nivel de lanzador"
+    ],
+    "17":[
+      "Esconderse a plena vista"
+    ],
+    "18":[
       "Nivel de lanzador"
     ],
     "20":[
-      "Enemigo predilecto"
+      "Enemigo predilecto",
+      "Nivel de lanzador"
     ]
   },
   "HabilidadesClaseas":[

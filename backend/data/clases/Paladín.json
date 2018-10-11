@@ -37,47 +37,43 @@
     ],
     "05":[
       "Castigar al mal",
-      "Montura especial",
-      "Nivel de lanzador"
+      "Montura especial"
     ],
     "06":[
-      "Quitar enfermedad"
-    ],
-    "07":[
-      "Nivel de lanzador"
-    ],
-    "09":[
       "Quitar enfermedad",
       "Nivel de lanzador"
     ],
-    "10":[
-      "Castigar al mal"
+    "08":[
+      "Nivel de lanzador"
     ],
-    "11":[
+    "09":[
+      "Quitar enfermedad"
+    ],
+    "10":[
+      "Castigar al mal",
       "Nivel de lanzador"
     ],
     "12":[
-      "Quitar enfermedad"
+      "Quitar enfermedad",
+      "Nivel de lanzador"
     ],
-    "13":[
+    "14":[
       "Nivel de lanzador"
     ],
     "15":[
       "Castigar al mal",
-      "Quitar enfermedad",
-      "Nivel de lanzador"
+      "Quitar enfermedad"
     ],
-    "17":[
+    "16":[
       "Nivel de lanzador"
     ],
     "18":[
-      "Quitar enfermedad"
-    ],
-    "19":[
+      "Quitar enfermedad",
       "Nivel de lanzador"
     ],
     "20":[
-      "Castigar al mal"
+      "Castigar al mal",
+      "Nivel de lanzador"
     ]
   },
   "HabilidadesClaseas":[
