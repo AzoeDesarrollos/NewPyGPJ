@@ -3,12 +3,13 @@ class Salvacion:
     _mod = 0
     _magia = 0
 
-    def __init__(self, nombre: str, base, car):
+    def __init__(self, pj, nombre: str, car: str):
+        self._pj = pj
         self.name = nombre
         self.abreviatura = nombre[:4].title()
         self.abr = self.abreviatura
-        self._base = base  # Salvacion Base
-        self._mod = car  # Caracteristica(Mod)
+        self._base = getattr(pj.clase, 'ts_'+nombre.lower())
+        self._mod = getattr(pj, car.lower())
 
     @property
     def value(self):

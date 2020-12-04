@@ -1,5 +1,6 @@
 from backend.globales import abrir_clase
 from backend.globales.data import ARMAS, ARMADURAS as ARMDS
+from backend.rasgos.alineamiento import validar
 
 
 class Clase:
@@ -18,7 +19,7 @@ class Clase:
         self.ts_fortaleza = SalvacionBase('Fortaleza', data['Salvaciones']['Fortaleza'])
         self.ts_voluntad = SalvacionBase('Voluntad', data['Salvaciones']['Voluntad'])
         self.habilidades_claseas = [i for i in data['HabilidadesClaseas']]
-        self.idiomas = [i for i in data['Idiomas_Adicionales']]
+        self.idiomas = ', '.join([i for i in data['Idiomas_Adicionales']])
         self.competencias = {
             'armas': self.cargar_competencias_armas(data['Competencias']['Armas']),
             'armaduras': self.cargar_competencias_armaduras(data['Competencias']['Armaduras']),
@@ -34,19 +35,15 @@ class Clase:
 
     @staticmethod
     def cargar_alineamientos(data):
-        sintax = {'Cualquiera no legal': ['Neutral Bueno', 'Neutral', 'Neutral Maligno',
-                                          'Caótico Bueno', 'Caótico Neutral', 'Neutral Maligno'],
-                  'Cualquiera Neutral': ['Legal Neutral', 'Neutral Bueno', 'Neutral',
-                                         'Neutral Maligno', 'Caótico Neutral'],
-                  'Cualquiera': ['Legal Bueno', 'Legal Neutral', 'Legal Maligno',
-                                 'Neutral Bueno', 'Neutral', 'Neutral Maligno',
-                                 'Caótico Bueno', 'Caótico Neutral', 'Caótico Maligno'],
-                  'Cualquiera Legal': ['Legal Bueno', 'Legal Neutral', 'Legal Maligno']}
+        sintax = validar()
         if data in sintax:
             return sintax[data]
 
         else:  # 'Legal Bueno' in sintax = False
             return data
+
+    def validar_alineamiento(self, elegido):
+        return elegido in validar(self.alineamientos)
 
     @staticmethod
     def cargar_competencias_armas(data):

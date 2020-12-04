@@ -7,10 +7,12 @@ class Caracteristica:
     abr = abreviatura
     value = 0
 
-    def __init__(self, nombre):
+    def __init__(self, pj, nombre, value):
         self.name = nombre
         self.abreviatura = nombre[:3].upper()
         self.abr = self.abreviatura
+        self._pj = pj
+        self.value += value + self._pj.raza.ajustes_caracteristicas.get(self.name, 0)
 
     @property
     def mod(self):
