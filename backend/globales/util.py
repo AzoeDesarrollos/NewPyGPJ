@@ -2,6 +2,7 @@ import json
 import sys
 import pygame
 from os import getcwd, path
+from frontend.globales import EventHandler
 
 
 def abrir_json(archivo, encoding='utf-8'):
@@ -14,6 +15,10 @@ def guardar_json(nombre, datos):
         json.dump(datos, file, ensure_ascii=False, indent=2, separators=(',', ':'), sort_keys=True)
 
 
-def salir():
+def salir(message):
+    print('Estado: {}'.format(message))
     pygame.quit()
     sys.exit()
+
+
+EventHandler.register(lambda e: salir(e.data['mensaje']), "salir")
